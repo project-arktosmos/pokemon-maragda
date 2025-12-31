@@ -1,108 +1,123 @@
 @ Battle Tower
 gText_AnabelWonSilver::
-	.string "It's very disappointing…$"
+	.string "L'AS DE LA TORRE, ANABEL, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_AnabelDefeatSilver::
-	.string "Okay, I understand…$"
+	.string "L'AS DE LA TORRE, ANABEL, ha estat\n"
+	.string "derrotada per l'aspirant {STR_VAR_1}!$"
 
 gText_AnabelWonGold::
-	.string "I'm terribly sorry…$"
+	.string "L'AS DE LA TORRE, ANABEL, ha destruït\n"
+	.string "el somni del desafiant {STR_VAR_1}!$"
 
 gText_AnabelDefeatGold::
-	.string "Thank you…$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "l'AS DE LA TORRE, ANABEL!$"
 
 @ Battle Dome
 gText_TuckerWonSilver::
-	.string "Ahahaha! Aren't you embarrassed?\n"
-	.string "Everyone's watching!$"
+	.string "L'AS DE LA CÚPULA, TUCK, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_TuckerDefeatSilver::
-	.string "Grr…\n"
-	.string "What the…$"
+	.string "L'AS DE LA CÚPULA, TUCK, ha estat\n"
+	.string "derrotat per l'aspirant {STR_VAR_1}!$"
 
 gText_TuckerWonGold::
-	.string "My DOME ACE title isn't just for show!$"
+	.string "L'AS DE LA CÚPULA, TUCK, ha destruït\n"
+	.string "el somni del desafiant {STR_VAR_1}!$"
 
 gText_TuckerDefeatGold::
-	.string "Ahahaha!\n"
-	.string "You're inspiring!$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "l'AS DE LA CÚPULA, TUCK!$"
 
 @ Battle Factory
 gText_NolandWonSilver::
-	.string "Way to work!\n"
-	.string "That was a good lesson, eh?$"
+	.string "El CAP DE FÀBRICA, NOLAND, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_NolandDefeatSilver::
-	.string "Good job!\n"
-	.string "You know what you're doing!$"
+	.string "El CAP DE FÀBRICA, NOLAND, ha estat\n"
+	.string "derrotat per l'aspirant {STR_VAR_1}!$"
 
 gText_NolandWonGold::
-	.string "Hey, hey, hey!\n"
-	.string "You're finished already?$"
+	.string "El CAP DE FÀBRICA, NOLAND, ha destruït\n"
+	.string "el somni del desafiant {STR_VAR_1}!$"
 
 gText_NolandDefeatGold::
-	.string "What happened here?$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "el CAP DE FÀBRICA, NOLAND!$"
 
 @ Battle Pike
 gText_LucyWonSilver::
-	.string "Humph…$"
+	.string "La REINA DEL PIC, LUCY, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_LucyDefeatSilver::
-	.string "Urk…$"
+	.string "La REINA DEL PIC, LUCY, ha estat\n"
+	.string "derrotada per l'aspirant {STR_VAR_1}!$"
 
 gText_LucyWonGold::
-	.string "Hah!$"
+	.string "La REINA DEL PIC, LUCY, ha destruït\n"
+	.string "el somni del desafiant {STR_VAR_1}!$"
 
 gText_LucyDefeatGold::
-	.string "Darn!$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "la REINA DEL PIC, LUCY!$"
 
 @ Battle Arena
 gText_GretaWonSilver::
-	.string "Oh, come on!\n"
-	.string "You have to try harder than that!$"
+	.string "El MAGNAT DE L'ARENA, GRETA, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_GretaDefeatSilver::
-	.string "No way!\n"
-	.string "Good job!$"
+	.string "El MAGNAT DE L'ARENA, GRETA, ha estat\n"
+	.string "derrotada per l'aspirant {STR_VAR_1}!$"
 
 gText_GretaWonGold::
-	.string "Heheh!\n"
-	.string "What did you expect?$"
+	.string "El MAGNAT DE L'ARENA, GRETA, ha\n"
+	.string "destruït el somni del desafiant\l"
+	.string "{STR_VAR_1}!$"
 
 gText_GretaDefeatGold::
-	.string "Huh?\n"
-	.string "Are you serious?!$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "el MAGNAT DE L'ARENA, GRETA!$"
 
 @ Battle Palace
 gText_SpenserWonSilver::
-	.string "Your POKéMON are wimpy because\n"
-	.string "you're wimpy as a TRAINER!$"
+	.string "El SENYOR DEL PALAU, SPENSER, ha vençut\n"
+	.string "el repte de l'aspirant {STR_VAR_1}!$"
 
 gText_SpenserDefeatSilver::
-	.string "Ah…\n"
-	.string "Now this is something else…$"
+	.string "El SENYOR DEL PALAU, SPENSER, ha estat\n"
+	.string "derrotat per l'aspirant {STR_VAR_1}!$"
 
 gText_SpenserWonGold::
-	.string "Gwahahaha!\n"
-	.string "My brethren, we have nothing to fear!$"
+	.string "El SENYOR DEL PALAU, SPENSER, ha\n"
+	.string "destruït el somni del desafiant\l"
+	.string "{STR_VAR_1}!$"
 
 gText_SpenserDefeatGold::
-	.string "Gwah!\n"
-	.string "Hahahaha!$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "el SENYOR DEL PALAU, SPENSER!$"
 
 @ Battle Pyramid
 gText_BrandonWonSilver::
-	.string "Hey! What's wrong with you!\n"
-	.string "Let's see some effort! Get up!$"
+	.string "El REI DE LA PIRÀMIDE, BRANDON, ha\n"
+	.string "vençut el repte de l'aspirant\l"
+	.string "{STR_VAR_1}!$"
 
 gText_BrandonDefeatSilver::
-	.string "That's it! You've done great!\n"
-	.string "You've worked hard for this!$"
+	.string "El REI DE LA PIRÀMIDE, BRANDON, ha\n"
+	.string "estat derrotat per l'aspirant\l"
+	.string "{STR_VAR_1}!$"
 
 gText_BrandonWonGold::
-	.string "Hey! Don't you give up now!\n"
-	.string "Get up! Don't lose faith in yourself!$"
+	.string "El REI DE LA PIRÀMIDE, BRANDON, ha\n"
+	.string "destruït el somni del desafiant\l"
+	.string "{STR_VAR_1}!$"
 
 gText_BrandonDefeatGold::
-	.string "That's it! You've done it!\n"
-	.string "You kept working for this!$"
+	.string "El desafiant {STR_VAR_1} ha enderrocat\n"
+	.string "el REI DE LA PIRÀMIDE, BRANDON!$"

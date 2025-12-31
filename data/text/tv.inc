@@ -1,17 +1,17 @@
 LilycoveCity_ContestLobby_Text_InterviewRequest:
-	.string "Oh, hello! You were in a POKéMON\n"
-	.string "CONTEST, weren't you?\l"
-	.string "It's easy to tell from your POKéMON.\p"
-	.string "I'm a reporter. I'm working on a story\n"
-	.string "on POKéMON CONTESTS.\p"
-	.string "If I may, would you be willing to answer\n"
-	.string "a few questions?$"
+	.string "Oh, hola! Has estat en un CONCURS\n"
+	.string "POKéMON, oi?\l"
+	.string "És fàcil de dir pels teus POKéMON.\p"
+	.string "Sóc reporter. Estic treballant en una\n"
+	.string "història sobre CONCURSOS POKéMON.\p"
+	.string "Si em permets, estaries disposat a\n"
+	.string "respondre algunes preguntes?$"
 
 LilycoveCity_ContestLobby_Text_DescribeContest:
-	.string "Oh, you will?\n"
-	.string "Thank you.\p"
-	.string "Briefly, how would you describe the\n"
-	.string "CONTEST you just entered?$"
+	.string "Oh, ho faràs?\n"
+	.string "Gràcies.\p"
+	.string "Breument, com descriuries el\n"
+	.string "CONCURS en què acabes d'entrar?$"
 
 LilycoveCity_ContestLobby_Text_WhatImageWhenYouHearX:
 	.string "Ah, I see.\n"

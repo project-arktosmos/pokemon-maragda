@@ -53,82 +53,82 @@ gTrickHouse_Mechadoll_Carvanha::
 	.string "CARVANHA$"
 
 gTrickHouse_Mechadoll_BurnHeal::
-	.string "BURN HEAL$"
+	.string "ANTICREMADA$"
 
 gTrickHouse_Mechadoll_HarborMail::
-	.string "HARBOR MAIL$"
+	.string "CARTA PORT$"
 
 gTrickHouse_Mechadoll_SamePrice::
-	.string "Same price$"
+	.string "El mateix preu$"
 
 gTrickHouse_Mechadoll_60Yen::
-	.string "¥60$"
+	.string "60 iens$"
 
 gTrickHouse_Mechadoll_55Yen::
-	.string "¥55$"
+	.string "55 iens$"
 
 gTrickHouse_Mechadoll_Nothing::
-	.string "Nothing$"
+	.string "Res$"
 
 gTrickHouse_Mechadoll_CostMore::
-	.string "They will cost more.$"
+	.string "Costa més$"
 
 gTrickHouse_Mechadoll_CostLess::
-	.string "They will cost less.$"
+	.string "Costa menys$"
 
 gTrickHouse_Mechadoll_SamePrice2::
-	.string "Same price$"
+	.string "El mateix preu$"
 
 gTrickHouse_Mechadoll_Male::
-	.string "Male$"
+	.string "Mascle$"
 
 gTrickHouse_Mechadoll_Female::
-	.string "Female$"
+	.string "Femella$"
 
 gTrickHouse_Mechadoll_Neither::
-	.string "Neither$"
+	.string "Cap dels dos$"
 
 gTrickHouse_Mechadoll_ElderlyMen::
-	.string "Elderly men$"
+	.string "Avis$"
 
 gTrickHouse_Mechadoll_ElderlyLadies::
-	.string "Elderly ladies$"
+	.string "Àvies$"
 
 gTrickHouse_Mechadoll_SameNumber::
-	.string "Same number$"
+	.string "El mateix nombre$"
 
 gTrickHouse_Mechadoll_None::
-	.string "None$"
+	.string "Cap$"
 
 gTrickHouse_Mechadoll_One::
-	.string "1$"
+	.string "Un$"
 
 gTrickHouse_Mechadoll_Two::
-	.string "2$"
+	.string "Dos$"
 
 gTrickHouse_Mechadoll_Two2::
-	.string "2$"
+	.string "Dos$"
 
 gTrickHouse_Mechadoll_Three::
-	.string "3$"
+	.string "Tres$"
 
 gTrickHouse_Mechadoll_Four::
-	.string "4$"
+	.string "Quatre$"
 
 gTrickHouse_Mechadoll_Six::
-	.string "6$"
+	.string "Sis$"
 
 gTrickHouse_Mechadoll_Seven::
-	.string "7$"
+	.string "Set$"
 
 gTrickHouse_Mechadoll_Eight::
-	.string "8$"
+	.string "Vuit$"
 
 gTrickHouse_Mechadoll_Six2::
-	.string "6$"
+	.string "Sis$"
 
 gTrickHouse_Mechadoll_Seven2::
-	.string "7$"
+	.string "Set$"
 
 gTrickHouse_Mechadoll_Eight2::
-	.string "8$"
+	.string "Vuit$"

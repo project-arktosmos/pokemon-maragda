@@ -1,31 +1,33 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Has obtingut\n"
+	.string "{STR_VAR_1}!$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "La MOTXILLA està plena.$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "Has desat {STR_VAR_1}\n"
+	.string "a la bossa {STR_VAR_2}.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER} ha trobat un/a\n"
+	.string "{STR_VAR_1}!$"
 
 gText_TooBadBagIsFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "Llàstima!\n"
+	.string "La MOTXILLA està plena.$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "{PLAYER} ha desat {STR_VAR_1}\n"
+	.string "a la MOTXILLA.$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Has obtingut {STR_VAR_1}!$"
 
 gText_NoRoomLeftForAnother::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "No queda espai per a\n"
+	.string "més decoració.$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "La decoració s'ha\n"
+	.string "transferit al PC.$"
