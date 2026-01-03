@@ -120,30 +120,30 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Les persones i els POKéMON, no són\n"
+	.string "tan diferents…\p"
+	.string "La seva naturalesa individual els fa\n"
+	.string "bons en certes coses, i no tan bons\l"
+	.string "en altres.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "En lloc d'intentar que un POKéMON\n"
+	.string "faci el que no li agrada, deixa'l fer\l"
+	.string "el que li agrada i se li dóna bé.\p"
+	.string "Posa't al lloc del POKéMON i\n"
+	.string "pensa quins moviments li agradarien.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "La naturalesa d'un POKéMON és una\n"
+	.string "cosa notable…\p"
+	.string "Alguns POKéMON es comporten de manera\n"
+	.string "totalment diferent quan estan acorralats.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Comences a entendre com la naturalesa\n"
+	.string "d'un POKéMON afecta el seu comportament?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
+	.string "Ah… Veig un fort vincle sincer\n"
+	.string "entre tu i els teus POKéMON…$"
 

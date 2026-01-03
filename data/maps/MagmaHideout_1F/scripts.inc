@@ -17,37 +17,38 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "When TEAM MAGMA has roll call, we get\n"
-	.string "important guarding assignments in\l"
-	.string "the order that we line up.\p"
-	.string "That's why I'm stuck off in this corner.\n"
-	.string "I'm always late to roll call!$"
+	.string "Quan l'EQUIP MAGMA passa llista, rebem\n"
+	.string "les tasques de vigilància importants\l"
+	.string "en l'ordre en què fem fila.\p"
+	.string "Per això estic aquí atrapat en aquest racó.\n"
+	.string "Sempre arribo tard a la llista!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
-	.string "I'm always late for training sessions,\n"
-	.string "too!\p"
-	.string "I hate to say it, but I'm wimpy…$"
+	.string "També arribo sempre tard als\n"
+	.string "entrenaments!\p"
+	.string "M'ho dic jo, però sóc un ploricó…$"
 
 MagmaHideout_1F_Text_Grunt1PostBattle:
-	.string "Okay, I'll try to put a little more\n"
-	.string "effort into things from now on…$"
+	.string "D'acord, intentaré posar-hi una mica\n"
+	.string "més d'esforç a partir d'ara…$"
 
 MagmaHideout_1F_Text_Grunt2Intro:
-	.string "Our leader told us to dig into\n"
-	.string "MT. CHIMNEY, so we dug and dug.\p"
-	.string "And in the course of digging, we came\n"
-	.string "across something that blew our minds!\p"
-	.string "What did we find?\p"
+	.string "El nostre líder ens va dir que\n"
+	.string "excavéssim al MT. XEMENEIA, així que vam\l"
+	.string "excavar i excavar.\p"
+	.string "I en el procés d'excavar, vam trobar\n"
+	.string "alguna cosa que ens va deixar al·lucinats!\p"
+	.string "Què vam trobar?\p"
 	.string "Fuhahaha!\n"
-	.string "I'll tell you if you beat me!$"
+	.string "T'ho diré si em guanyes!$"
 
 MagmaHideout_1F_Text_Grunt2Defeat:
 	.string "Arrgh!\n"
-	.string "Taken down!$"
+	.string "M'han vençut!$"
 
 MagmaHideout_1F_Text_Grunt2PostBattle:
-	.string "I won't tell you after all.\n"
-	.string "You'll find out when you get there!\p"
-	.string "It'd be better if you saved surprises\n"
-	.string "to the end, don't you think?$"
+	.string "Al final no t'ho diré.\n"
+	.string "Ho descobriràs quan hi arribis!\p"
+	.string "No seria millor guardar les sorpreses\n"
+	.string "per al final, no creus?$"
 

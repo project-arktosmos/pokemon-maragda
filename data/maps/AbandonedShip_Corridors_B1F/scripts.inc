@@ -54,33 +54,33 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.string "Quan sortim al mar, els MARINERS\n"
+	.string "sempre portem els nostres POKéMON.\l"
+	.string "Què tal un combat ràpid?$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+	.string "Vaja, m'has enfonsat!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.string "El fons del vaixell s'ha enfonsat\n"
+	.string "a les profunditats.\p"
+	.string "Si un POKéMON sabés anar sota l'aigua,\n"
+	.string "potser faríem progressos…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.string "Visca!\n"
+	.string "És un vaixell!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+	.string "La porta és tancada amb clau.\p"
+	.string "“MAGATZEM” està pintat a la porta.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER} ha introduït i girat la\n"
+	.string "CLAU DEL MAGATZEM.\p"
+	.string "La CLAU s'ha quedat clavada,\n"
+	.string "però la porta s'ha obert.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+	.string "La porta és oberta.$"
 

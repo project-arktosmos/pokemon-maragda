@@ -19,28 +19,28 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 	end
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
-	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
-	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Uhu!\p"
+	.string "Sento que la gent em diu el TIO\n"
+	.string "TRENCA-ROQUES, però ho trobo degradant.\p"
+	.string "Crec que em mereixo una mica més de\n"
+	.string "respecte, com MESTRE TRENCA-ROQUES.\p"
+	.string "Uhu!\p"
+	.string "De totes maneres, els teus POKéMON\n"
+	.string "semblen bastant forts.\p"
+	.string "M'agrada això!\n"
+	.string "Aquí tens, agafa aquesta MO!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
-	.string "Woohoo!$"
+	.string "Aquesta MO conté TRENCA-ROQUES.\p"
+	.string "Si et trobes amb grans roques\n"
+	.string "que et bloquegen el pas…\p"
+	.string "Bé, usa aquest moviment de MO i\n"
+	.string "trenca-les per apartar-les del camí!\p"
+	.string "Sí, senyor! Trenca roques, et dic!\n"
+	.string "Uhu!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-	.string "could come flying out of hiding.\p"
-	.string "Woohoo!$"
+	.string "Oh, sí, si trenques una roca, un POKéMON\n"
+	.string "podria sortir volant del seu amagatall.\p"
+	.string "Uhu!$"
 

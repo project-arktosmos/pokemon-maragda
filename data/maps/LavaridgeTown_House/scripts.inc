@@ -16,10 +16,10 @@ LavaridgeTown_House_EventScript_Zigzagoon::
 	end
 
 LavaridgeTown_House_Text_WifeWarmingEggInHotSprings:
-	.string "My wife's warming an EGG in the hot\n"
-	.string "springs. This is what she told me.\p"
-	.string "She left two POKéMON with the DAY CARE.\n"
-	.string "And they discovered that EGG!$"
+	.string "La meva dona està escalfant un OU\n"
+	.string "a les termes. Això és el que m'ha dit.\p"
+	.string "Va deixar dos POKéMON a la GUARDERIA.\n"
+	.string "I van descobrir aquest OU!$"
 
 LavaridgeTown_House_Text_Zigzagoon:
 	.string "ZIGZAGOON: Pshoo!$"

@@ -51,18 +51,18 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
 	.string "Hmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.string "Un moviment d'atac…\n"
+	.string "O un moviment defensiu…\p"
+	.string "No és fàcil decidir quins moviments\n"
+	.string "de MT ensenyar als POKéMON…$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
-	.string "There are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+	.string "Hi ha molts tipus diferents de\n"
+	.string "moviments de MT.\p"
+	.string "Un catàleg que vaig llegir deia que\n"
+	.string "n'hi ha cinquanta tipus diferents.$"
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
-	.string "I'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+	.string "M'agradaria aconseguir totes les MT,\n"
+	.string "però un POKéMON només aprèn 4 moviments.$"
 

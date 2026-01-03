@@ -1,41 +1,41 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+	.string "El ferri a PORTLAVANDA és…\p"
+	.string "Perdona?\n"
+	.string "Podem navegar a aquest lloc del mapa?\p"
+	.string "Conec algú que t'ajudarà millor.\n"
+	.string "Si us plau, espera.$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
+	.string "El ferri a PORTLAVANDA és…\p"
 	.string "Oh?\n"
-	.string "That PASS…$"
+	.string "Aquest PASSI…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "Sí, company, ets tu qui ha portat\n"
+	.string "aquest PASSI tan estrany?\p"
+	.string "T'ho diré, intentes arribar a una\n"
+	.string "petita illeta molt al sud.\p"
+	.string "No se sap què trobarem un cop\n"
+	.string "hi arribem, sí.\l"
+	.string "Em fa tremolar els ossos!\p"
+	.string "Tothom a bord!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+	.string "Sí, company, no hi ha res a veure\n"
+	.string "ni fer en aquesta illa oblidada.\p"
+	.string "Què et sembla si tornem a LLIRINESA?$"
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "D'acord, doncs!\n"
+	.string "Tornem a casa navegant!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "D'acord, com vulguis.$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“Tots els somnis són una altra\n"
+	.string "realitat. No ho oblidis mai…”$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“Aquells amb records esvaidits\n"
+	.string "busquen gravar-los al cor…”$"

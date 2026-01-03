@@ -249,108 +249,108 @@ Route110_TrickHouseEnd_Movement_TrickMasterSurprise:
 
 Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 	.string "Aak!\n"
-	.string "You've made it to me?\l"
-	.string "Hmmm… You're sharp!$"
+	.string "Has arribat fins a mi?\l"
+	.string "Hmmm… Ets molt llest!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
-	.string "It took me all night to plant all those\n"
-	.string "trees…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five, six places!$"
+	.string "M'ha costat tota la nit plantar tots\n"
+	.string "aquells arbres…\p"
+	.string "Quasi iguals la meva grandesa per\n"
+	.string "un, dos, tres, quatre, cinc, sis llocs!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
-	.string "It took me all night to make the maze…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four, five places!$"
+	.string "M'ha costat tota la nit fer el laberint…\p"
+	.string "Quasi iguals la meva grandesa per\n"
+	.string "un, dos, tres, quatre, cinc llocs!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPreparePanels:
-	.string "It took me all night to prepare\n"
-	.string "the wall panels…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three, four places!$"
+	.string "M'ha costat tota la nit preparar\n"
+	.string "els panells de paret…\p"
+	.string "Quasi iguals la meva grandesa per\n"
+	.string "un, dos, tres, quatre llocs!$"
 
 Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
-	.string "It took me all night to shove in those\n"
-	.string "boulders…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two, three places!$"
+	.string "M'ha costat tota la nit moure aquelles\n"
+	.string "roques…\p"
+	.string "Quasi iguals la meva grandesa per\n"
+	.string "un, dos, tres llocs!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
-	.string "It took me all night to make MECHADOLLS\n"
-	.string "and another to think up the quiz…\p"
-	.string "You're almost my equal in greatness by\n"
-	.string "one, two places!$"
+	.string "M'ha costat tota la nit fer les MECÀNINES\n"
+	.string "i una altra pensar el qüestionari…\p"
+	.string "Quasi iguals la meva grandesa per\n"
+	.string "un, dos llocs!$"
 
 Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
-	.string "It took me all night to install\n"
-	.string "the doors…\p"
-	.string "You're almost my equal in greatness!$"
+	.string "M'ha costat tota la nit instal·lar\n"
+	.string "les portes…\p"
+	.string "Quasi iguals la meva grandesa!$"
 
 Route110_TrickHouseEnd_Text_AllNightSettingUpArrows:
-	.string "It took me all night setting up arrows…\p"
-	.string "You're my equal in greatness!$"
+	.string "M'ha costat tota la nit col·locar fletxes…\p"
+	.string "Iguals la meva grandesa!$"
 
 Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
-	.string "It took me all night polishing floors…\p"
-	.string "You're above me in greatness!\n"
-	.string "Possibly…$"
+	.string "M'ha costat tota la nit polir els terres…\p"
+	.string "Em superes en grandesa!\n"
+	.string "Possiblement…$"
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
-	.string "Wh-what should I do?\n"
-	.string "My fountain of ideas for tricks has\l"
-	.string "run dry…\p"
-	.string "Perhaps it is time I toured the country\n"
-	.string "on a quest to devise new tricks…$"
+	.string "Qu-què hauria de fer?\n"
+	.string "La meva font d'idees per a trucs\l"
+	.string "s'ha assecat…\p"
+	.string "Potser és hora de viatjar pel país\n"
+	.string "en cerca de nous trucs…$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
-	.string "I hate to admit defeat, but you have\n"
-	.string "bested me!\p"
-	.string "Still, you must have been reeled in by\n"
-	.string "my charisma for you to visit me again\l"
-	.string "and again. Yes, you must have!\p"
-	.string "But that has nothing to do with my\n"
-	.string "losing!\p"
-	.string "In recognition of the friendship\n"
-	.string "between you, the driven, and the genius\l"
-	.string "that is myself, I demand that you take\l"
-	.string "this keepsake!\p"
-	.string "Actually there are two--\n"
-	.string "a RED TENT and a BLUE TENT.\l"
-	.string "Which do you prefer?$"
+	.string "Odio admetre la derrota, però\n"
+	.string "m'has vençut!\p"
+	.string "Tot i així, has d'haver estat atret\n"
+	.string "pel meu carisma per visitar-me una\l"
+	.string "vegada i una altra. Sí, segur que sí!\p"
+	.string "Però això no té res a veure amb\n"
+	.string "la meva derrota!\p"
+	.string "En reconeixement de l'amistat\n"
+	.string "entre tu, el perseverant, i el geni\l"
+	.string "que sóc jo, et demano que acceptis\l"
+	.string "aquest record!\p"
+	.string "De fet n'hi ha dos:\n"
+	.string "una TENDA VERMELLA i una TENDA BLAVA.\l"
+	.string "Quina prefereixes?$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
-	.string "What? No room in your PC?\n"
-	.string "What am I to make of that?\p"
-	.string "I wish I could say that, but I am much\n"
-	.string "too kind and caring, so come back later!$"
+	.string "Què? No tens espai al teu PC?\n"
+	.string "Què n'he de fer d'això?\p"
+	.string "M'agradaria dir-ho, però sóc massa\n"
+	.string "amable i atent, així que torna més tard!$"
 
 Route110_TrickHouseEnd_Text_LeavingOnJourney:
 	.string "… … … … … …\p"
-	.string "I am leaving on a journey of discovery.\n"
-	.string "A quest in search of new tricks.\p"
-	.string "I wish that you will one day visit and\n"
-	.string "entertain me again.\p"
-	.string "And now, farewell!$"
+	.string "Me'n vaig en un viatge de descobriment.\n"
+	.string "Una cerca de nous trucs.\p"
+	.string "Espero que algun dia tornis\n"
+	.string "a visitar-me i entretenir-me.\p"
+	.string "I ara, adéu!$"
 
 Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
-	.string "Fine!\n"
-	.string "You have earned this reward!$"
+	.string "Molt bé!\n"
+	.string "T'has guanyat aquesta recompensa!$"
 
 Route110_TrickHouseEnd_Text_NoRoomForThis:
-	.string "What? Have you no room for this?\n"
-	.string "What manner of items do you carry?\p"
-	.string "But fine, since you've reached me,\n"
-	.string "your reward will be with me till later.$"
+	.string "Què? No tens espai per això?\n"
+	.string "Quin tipus d'objectes portes?\p"
+	.string "Però bé, com que has arribat fins a mi,\n"
+	.string "la recompensa serà amb mi fins més tard.$"
 
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
-	.string "Scrub that smug smirk from your face!\n"
-	.string "It's much too early to think you've won!\p"
-	.string "I'll make new tricks to stump you, I will.\n"
-	.string "You may mock me only when you're done.\p"
-	.string "Come back for the next exciting\n"
-	.string "installment!$"
+	.string "Treu-te aquest somriure presumit!\n"
+	.string "És massa aviat per pensar que has guanyat!\p"
+	.string "Faré nous trucs per confondre't, ho faré.\n"
+	.string "Només podràs burlar-te quan acabis.\p"
+	.string "Torna per al proper emocionant\n"
+	.string "episodi!$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:
-	.string "Now, now! You're ignoring me now?\n"
-	.string "Now that, I consider heartbreaking!$"
+	.string "Ei, ei! M'estàs ignorant ara?\n"
+	.string "Això ho considero molt trist!$"
 

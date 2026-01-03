@@ -22,57 +22,57 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "No tinc res contra tu.\n"
+	.string "Només segueixo ordres!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "I may have lost, but…$"
+	.string "Potser he perdut, però…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "We dug up something beyond belief!\n"
-	.string "And, we got the BLUE ORB!\p"
-	.string "All that's left is for our leader to…\n"
+	.string "Hem desenterrat alguna cosa increïble!\n"
+	.string "I hem aconseguit l'ORB BLAU!\p"
+	.string "Ara només falta que el nostre líder…\n"
 	.string "Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "No suporto la calor. Potser m'hauria\n"
+	.string "d'haver unit a l'EQUIP AQUA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-	.string "Yeah, I really may not be right for\n"
-	.string "TEAM MAGMA…$"
+	.string "Sí, potser no estic fet per a\n"
+	.string "l'EQUIP MAGMA…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Don't you get lonely for the sea\n"
-	.string "being in a place like this?$"
+	.string "No trobes a faltar el mar estant\n"
+	.string "en un lloc com aquest?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-	.string "You can hear tremors here sometimes.\p"
-	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
-	.string "Whoops!\n"
-	.string "No, no, never mind!$"
+	.string "De vegades es poden sentir tremolors aquí.\p"
+	.string "Serà el volcà que tremola?\n"
+	.string "O serà GROU…\p"
+	.string "Ui!\n"
+	.string "No, no, oblida-ho!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "You're a fiery battler.\n"
-	.string "Just like a volcano!$"
+	.string "Ets un lluitador ardent.\n"
+	.string "Com un volcà!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "You just happened to win this time,\n"
-	.string "but that doesn't matter.\p"
-	.string "TEAM MAGMA's goal is about to be\n"
-	.string "reached!$"
+	.string "Has guanyat per casualitat aquesta vegada,\n"
+	.string "però no importa.\p"
+	.string "L'objectiu de l'EQUIP MAGMA està a punt\n"
+	.string "de ser assolit!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
-	.string "Wait a minute!\n"
-	.string "Was it you who found it?$"
+	.string "Un dels nostres estava espantat perquè\n"
+	.string "havia perdut el seu EMBLEMA MAGMA…\p"
+	.string "Espera un moment!\n"
+	.string "L'has trobat tu?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-	.string "I'm having trouble believing this…$"
+	.string "Em costa creure-ho…$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Tinc la sensació que el nostre pla\n"
+	.string "acabarà en un fracàs…$"
 

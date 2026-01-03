@@ -360,70 +360,70 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "STEVEN: Hm? {PLAYER}{KUN}, hi.\n"
-	.string "It's been a while.\p"
-	.string "There's something here that you can't\n"
-	.string "see, right?\p"
-	.string "Now, if I were to use this device on\n"
-	.string "the invisible obstacle…\p"
-	.string "No, no. Rather than describing it,\n"
-	.string "I should just show you.\l"
-	.string "That would be more fun.\p"
-	.string "{PLAYER}{KUN}, are your POKéMON ready for\n"
-	.string "battle?$"
+	.string "STEVEN: Hm? {PLAYER}{KUN}, hola.\n"
+	.string "Quant de temps.\p"
+	.string "Hi ha alguna cosa aquí que no pots\n"
+	.string "veure, oi?\p"
+	.string "Ara, si utilitzés aquest dispositiu\n"
+	.string "sobre l'obstacle invisible…\p"
+	.string "No, no. En lloc de descriure-ho,\n"
+	.string "hauria d'ensenyar-t'ho.\l"
+	.string "Seria més divertit.\p"
+	.string "{PLAYER}{KUN}, els teus POKéMON estan\n"
+	.string "preparats per lluitar?$"
 
 Route120_Text_StevenIllWaitHere:
 	.string "STEVEN: No?\p"
-	.string "I'll wait here, so you can get ready.$"
+	.string "Esperaré aquí, per si vols preparar-te.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "STEVEN: {PLAYER}{KUN}, are your POKéMON\n"
-	.string "ready for battle?$"
+	.string "STEVEN: {PLAYER}{KUN}, els teus POKéMON\n"
+	.string "estan preparats per lluitar?$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "STEVEN: {PLAYER}{KUN}, show me your true\n"
-	.string "power as a TRAINER!$"
+	.string "STEVEN: {PLAYER}{KUN}, ensenya'm el teu\n"
+	.string "veritable poder com a ENTRENADOR!$"
 
 Route120_Text_StevenUsedDevonScope:
-	.string "STEVEN used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON attacked!$"
+	.string "STEVEN ha usat el VISOR DEVON.\p"
+	.string "Un POKéMON invisible s'ha tornat\n"
+	.string "completament visible!\p"
+	.string "El POKéMON espantat ha atacat!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "STEVEN: I see…\n"
-	.string "Your battle style is intriguing.\p"
-	.string "Your POKéMON have obviously grown\n"
-	.string "since I first met you in DEWFORD.\p"
-	.string "I'd like you to have this\n"
-	.string "DEVON SCOPE.\p"
-	.string "Who knows, there may be other\n"
-	.string "concealed POKéMON.$"
+	.string "STEVEN: Ja veig…\n"
+	.string "El teu estil de combat és intrigant.\p"
+	.string "Els teus POKéMON han crescut molt\n"
+	.string "des que et vaig conèixer a OROMAR.\p"
+	.string "M'agradaria que tinguessis aquest\n"
+	.string "VISOR DEVON.\p"
+	.string "Qui sap, pot haver-hi altres\n"
+	.string "POKéMON amagats.$"
 
 Route120_Text_StevenGoodbye:
 	.string "STEVEN: {PLAYER}{KUN}.\p"
-	.string "I enjoy seeing POKéMON and TRAINERS\n"
-	.string "who strive together.\p"
-	.string "I think you're doing great.\p"
-	.string "Well, let's meet again somewhere.$"
+	.string "M'agrada veure POKéMON i ENTRENADORS\n"
+	.string "que s'esforcen junts.\p"
+	.string "Crec que ho estàs fent molt bé.\p"
+	.string "Bé, ens tornem a veure en algun lloc.$"
 
 Kecleon_Text_SomethingUnseeable:
-	.string "Something unseeable is in the way.$"
+	.string "Alguna cosa invisible bloqueja el pas.$"
 
 Kecleon_Text_WantToUseDevonScope:
-	.string "Something unseeable is in the way.\p"
-	.string "Want to use the DEVON SCOPE?$"
+	.string "Alguna cosa invisible bloqueja el pas.\p"
+	.string "Vols usar el VISOR DEVON?$"
 
 Kecleon_Text_UseDevonScopeMonAttacked:
-	.string "{PLAYER} used the DEVON SCOPE.\p"
-	.string "An invisible POKéMON became completely\n"
-	.string "visible!\p"
-	.string "The startled POKéMON attacked!$"
+	.string "{PLAYER} ha usat el VISOR DEVON.\p"
+	.string "Un POKéMON invisible s'ha tornat\n"
+	.string "completament visible!\p"
+	.string "El POKéMON espantat ha atacat!$"
 
 Route120_Text_RouteSignFortree:
-	.string "ROUTE 120\n"
-	.string "{LEFT_ARROW} FORTREE CITY$"
+	.string "RUTA 120\n"
+	.string "{LEFT_ARROW} CIUTAT BOIREBOSCADA$"
 
 Route120_Text_RouteSign121:
-	.string "{RIGHT_ARROW} ROUTE 121\n"
-	.string "{LEFT_ARROW} ROUTE 120$"
+	.string "{RIGHT_ARROW} RUTA 121\n"
+	.string "{LEFT_ARROW} RUTA 120$"

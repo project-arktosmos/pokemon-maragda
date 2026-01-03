@@ -143,19 +143,19 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.string "Aquest lloc és ple de NINES bufones.\p"
+	.string "Hauria de comprar-me'n alguna, en comptes\n"
+	.string "de només pels meus fills.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "No sóc prou gran per criar POKéMON,\n"
+	.string "així que m'estic comprant una NINA bufona.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "Venen moltes CATIFES bufones aquí.\p"
+	.string "Em pregunto quina hauria de comprar?\n"
+	.string "Potser me les compro totes…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.string "Crec que han tancat el terrat\n"
+	.string "perquè avui el temps és boig.$"

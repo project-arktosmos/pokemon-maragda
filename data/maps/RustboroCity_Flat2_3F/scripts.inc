@@ -10,10 +10,10 @@ RustboroCity_Flat2_3F_EventScript_Woman::
 	end
 
 RustboroCity_Flat2_3F_Text_PresidentCollectsRareStones:
-	.string "DEVON's PRESIDENT likes to collect\n"
-	.string "rare stones.$"
+	.string "Al PRESIDENT de DEVON li agrada\n"
+	.string "col·leccionar pedres rares.$"
 
 RustboroCity_Flat2_3F_Text_PresidentsSonAlsoCollectsRareStones:
-	.string "I think the PRESIDENT's son also\n"
-	.string "collects rare stones.$"
+	.string "Crec que el fill del PRESIDENT també\n"
+	.string "col·lecciona pedres rares.$"
 

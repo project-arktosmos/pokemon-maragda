@@ -448,198 +448,198 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "First, we will hold your POKéMON for\n"
-	.string "safekeeping.\p"
-	.string "You may then choose from our\n"
-	.string "selection of POKéMON.$"
+	.string "Primer, guardarem els teus POKéMON\n"
+	.string "en lloc segur.\p"
+	.string "Després podràs triar de la nostra\n"
+	.string "selecció de POKéMON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Thank you for competing!\n"
-	.string "Let us restore your POKéMON!$"
+	.string "Gràcies per competir!\n"
+	.string "Restaurem els teus POKéMON!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "The 2nd match is next!\n"
-	.string "Are you ready?$"
+	.string "El 2n combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "The 3rd match is next!\n"
-	.string "Are you ready?$"
+	.string "El 3r combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent:
-	.string "The 4th match is next!\n"
-	.string "Are you ready?$"
+	.string "El 4t combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent:
-	.string "The 5th match is next!\n"
-	.string "Are you ready?$"
+	.string "El 5è combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent:
-	.string "The 6th match is next!\n"
-	.string "Are you ready?$"
+	.string "El 6è combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Finally, the 7th match is next!\n"
-	.string "Are you ready?$"
+	.string "Finalment, el 7è combat és el següent!\n"
+	.string "Estàs preparat?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Vols desar i sortir\n"
+	.string "del joc?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Would you like to retire from your\n"
-	.string "Battle Swap challenge?$"
+	.string "Vols retirar-te del teu desafiament\n"
+	.string "d'INTERCANVI COMBAT?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "I've conducted a little investigation\n"
-	.string "about your upcoming opponent.$"
+	.string "He fet una petita investigació\n"
+	.string "sobre el teu pròxim oponent.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the NORMAL type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus NORMAL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIRE type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus FOC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the WATER type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus AIGUA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ELECTRIC type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus ELÈCTRIC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GRASS type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus PLANTA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ICE type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus GEL.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FIGHTING type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus LLUITA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the POISON type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus VERÍ.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GROUND type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus TERRA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FLYING type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus VOLADOR.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the PSYCHIC type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus PSÍQUIC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the BUG type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus INSECTE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the ROCK type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus ROCA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the GHOST type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus FANTASMA.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DRAGON type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus DRAC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the DARK type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus FOSC.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the STEEL type.$"
+	.string "L'ENTRENADOR sembla ser hàbil\n"
+	.string "en el maneig del tipus ACER.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "The TRAINER appears to have no clear\n"
-	.string "favorites when it comes to type.$"
+	.string "L'ENTRENADOR sembla no tenir cap\n"
+	.string "favorit clar pel que fa al tipus.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
-	.string "The favorite battle style appears to\n"
-	.string "be slow and steady.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "lent i constant.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "The favorite battle style appears to\n"
-	.string "be one of endurance.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "un de resistència.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "The favorite battle style appears to\n"
-	.string "be high risk, high return.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "alt risc, alta recompensa.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
-	.string "The favorite battle style appears to\n"
-	.string "depend on the battle's flow.$"
+	.string "L'estil de combat favorit sembla\n"
+	.string "dependre del curs del combat.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "The favorite battle style appears to\n"
-	.string "be one based on total preparation.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "un basat en preparació total.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "The favorite battle style appears\n"
-	.string "to be weakening the foe to start.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "afeblir l'enemic per començar.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "The favorite battle style appears to\n"
-	.string "be flexibly adaptable to the situation.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "adaptable a la situació.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
-	.string "The favorite battle style appears to\n"
-	.string "be impossible to predict.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "impossible de predir.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "The favorite battle style appears to\n"
-	.string "be free-spirited and unrestrained.$"
+	.string "L'estil de combat favorit sembla ser\n"
+	.string "lliure i sense restriccions.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Before starting the battle, would you\n"
-	.string "like to swap a POKéMON?$"
+	.string "Abans de començar el combat, vols\n"
+	.string "intercanviar un POKéMON?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Thank you!\n"
-	.string "Your POKéMON swap is complete.$"
+	.string "Gràcies!\n"
+	.string "L'intercanvi de POKéMON està complet.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
-	.string "Right this way, please!$"
+	.string "Per aquí, si us plau!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
-	.string "I am saving your data.\n"
-	.string "Please wait.$"
+	.string "Estic desant les teves dades.\n"
+	.string "Si us plau, espera.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Would you like to record your latest\n"
-	.string "battle on your FRONTIER PASS?$"
+	.string "Vols gravar el teu últim combat\n"
+	.string "al teu PASSI FRONTERA?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "Perdona! Perdona, si us plau!\n"
+	.string "Pots esperar uns moments?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? What?! …Whoa!\n"
-	.string "Understood, sir! Will do!$"
+	.string "…Eh? Què?! …Uau!\n"
+	.string "Entès, senyor! Ara mateix!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
-	.string "Oh, my…\n"
-	.string "Sorry to keep you waiting!\p"
-	.string "I have a message from this facility's\n"
-	.string "boss, the FACTORY HEAD.\p"
-	.string "He says, “We're going to do it!\n"
-	.string "Come here right now!”$"
+	.string "Oh, vaja…\n"
+	.string "Perdona per fer-te esperar!\p"
+	.string "Tinc un missatge del cap d'aquesta\n"
+	.string "instal·lació, el CAP DE FÀBRICA.\p"
+	.string "Diu: “Ho farem!\n"
+	.string "Vine aquí ara mateix!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "The FACTORY HEAD is demanding you.\n"
-	.string "Are you prepared to face him?$"
+	.string "El CAP DE FÀBRICA et demana.\n"
+	.string "Estàs preparat per enfrontar-t'hi?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "I'm terribly sorry, but I can't tell you\n"
-	.string "anything about the FACTORY HEAD.$"
+	.string "Ho sento molt, però no et puc dir\n"
+	.string "res sobre el CAP DE FÀBRICA.$"

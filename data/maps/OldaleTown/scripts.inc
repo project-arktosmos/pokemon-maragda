@@ -340,58 +340,58 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "I want to take a rest, so I'm saving my\n"
-	.string "progress.$"
+	.string "Vull descansar, així que estic desant\n"
+	.string "el meu progrés.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a POKéMON MART.\p"
-	.string "Can I get you to come with me?$"
+	.string "Hola!\n"
+	.string "Treballo a una BOTIGA POKéMON.\p"
+	.string "Pots venir amb mi?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a POKéMON MART.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "POKé BALLS for catching POKéMON.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Això és una BOTIGA POKéMON.\n"
+	.string "Només busca la teulada blava.\p"
+	.string "Venem una varietat de productes\n"
+	.string "incloent POKé BALLS per capturar POKéMON.\p"
+	.string "Ves, m'agradaria que tinguessis això\n"
+	.string "com a article promocional.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A POTION can be used anytime, so it's\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "Una POCIÓ es pot usar en qualsevol moment,\n"
+	.string "així que és encara més útil que un CENTRE\l"
+	.string "POKéMON en certes situacions.$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Aaaaah! Espera!\n"
+	.string "Si us plau, no entris aquí.\p"
+	.string "Acabo de descobrir les petjades d'un\n"
+	.string "POKéMON rar!\p"
+	.string "Espera fins que acabi de dibuixar-les,\n"
+	.string "d'acord?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare POKéMON!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "Acabo de descobrir les petjades d'un\n"
+	.string "POKéMON rar!\p"
+	.string "Espera fins que acabi de dibuixar-les,\n"
+	.string "d'acord?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare POKéMON.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "He acabat de dibuixar les petjades d'un\n"
+	.string "POKéMON rar.\p"
+	.string "Però resulta que només eren les meves\n"
+	.string "pròpies petjades…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "AURA: {PLAYER}{KUN}!\n"
+	.string "Aquí!\l"
+	.string "Afanyem-nos a tornar a casa!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: I'm heading back to my dad's\n"
-	.string "LAB now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "BLAI: Ara torno al LABORATORI del meu\n"
+	.string "pare.\l"
+	.string "{PLAYER}, tu també hauries de tornar ràpid.$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE TOWN\n"
-	.string "“Where things start off scarce.”$"
+	.string "POBLE ALBÀNIA\n"
+	.string "“On tot comença escàs.”$"
 

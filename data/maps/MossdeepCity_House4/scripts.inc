@@ -40,22 +40,22 @@ MossdeepCity_House4_EventScript_Skitty::
 	end
 
 MossdeepCity_House4_Text_BrotherLikesToFindBases:
-	.string "My little brother says he likes to go\n"
-	.string "find people's SECRET BASES.$"
+	.string "El meu germanet diu que li agrada anar\n"
+	.string "a buscar les BASES SECRETES de la gent.$"
 
 MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle:
-	.string "My little brother says he likes to\n"
-	.string "visit people's SECRET BASES and have\l"
-	.string "POKéMON battles.$"
+	.string "El meu germanet diu que li agrada\n"
+	.string "visitar les BASES SECRETES de la gent\l"
+	.string "i tenir combats POKéMON.$"
 
 MossdeepCity_House4_Text_YouMadeSecretBaseNearX:
-	.string "Was it you who made a SECRET BASE\n"
-	.string "near {STR_VAR_1}?$"
+	.string "Has estat tu qui ha fet una BASE SECRETA\n"
+	.string "a prop de {STR_VAR_1}?$"
 
 MossdeepCity_House4_Text_MakeSecretBase:
-	.string "You should make a SECRET BASE\n"
-	.string "somewhere. I'll go find it!$"
+	.string "Hauries de fer una BASE SECRETA\n"
+	.string "en algun lloc. La trobaré!$"
 
 MossdeepCity_House4_Text_Skitty:
-	.string "SKITTY: Miyaan?$"
+	.string "SKITTY: Miiiau?$"
 

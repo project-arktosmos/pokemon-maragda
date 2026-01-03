@@ -273,35 +273,36 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "So, like, I couldn't find myself any\n"
-	.string "POKéMON that were, like, for me.\p"
-	.string "So, I figured, like, hey, I should file\n"
-	.string "a complaint to the guy there?\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "Doncs, com que no vaig poder trobar\n"
+	.string "cap POKéMON que, com qui diu, fos per a mi.\p"
+	.string "Vaig pensar, com qui diu, eh, hauria de\n"
+	.string "queixar-me al noi d'allà?\p"
+	.string "I no em va voler escoltar, eh!\n"
+	.string "Doncs, quina decepció, tio!\p"
+	.string "Eh, tu! Calla, saps?\n"
+	.string "Mira, pren això!$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "Això és, com qui diu, la MT41, saps?\n"
+	.string "Eh, és TURMENT, m'escoltes?\p"
+	.string "Com qui diu, no deixa que l'altre\n"
+	.string "usi el mateix moviment dues vegades\l"
+	.string "seguides, veus?\p"
+	.string "Eh, escolta, que jo no t'estic\n"
+	.string "turmentant a tu!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "I don't really like BUG POKéMON,\n"
-	.string "but maybe I'll try using some for\l"
-	.string "a change of pace.\p"
-	.string "Who knows, I might even get to like\n"
-	.string "them!$"
+	.string "Realment no m'agraden els POKéMON\n"
+	.string "INSECTE, però potser en provaré\l"
+	.string "alguns per canviar d'aires.\p"
+	.string "Qui sap, potser fins i tot m'arribaran\n"
+	.string "a agradar!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-	.string "You can battle all you want here even\n"
-	.string "if you don't have any tough POKéMON.$"
+	.string "Aquí pots combatre tot el que vulguis\n"
+	.string "fins i tot si no tens POKéMON forts.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
+	.string "No estaria bé si tinguessin més\n"
+	.string "varietat?$"
 

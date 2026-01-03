@@ -24,44 +24,44 @@ Roulette_EventScript_Play::
 	end
 
 Roulette_Text_PlayMinimumWagerIsX::
-	.string "The minimum wager at this table\n"
-	.string "is {STR_VAR_1}. Do you want to play?$"
+	.string "L'aposta mínima en aquesta taula\n"
+	.string "és de {STR_VAR_1}. Vols jugar?$"
 
 Roulette_Text_NotEnoughCoins::
-	.string "You don't have enough COINS.$"
+	.string "No tens prou FITXES.$"
 
 Roulette_Text_SpecialRateTable::
-	.string "Special rate table right now!$"
+	.string "Ara hi ha taula amb quota especial!$"
 
 Roulette_Text_ControlsInstruction::
-	.string "Place your wager with the + Control\n"
-	.string "Pad, then press the A Button.$"
+	.string "Fes la teva aposta amb la Creueta\n"
+	.string "de Control i prem el Botó A.$"
 
 Roulette_Text_ItsAHit::
-	.string "It's a hit!$"
+	.string "Has encertat!$"
 
 Roulette_Text_Jackpot::
-	.string "Jackpot!$"
+	.string "Premi gros!$"
 
 Roulette_Text_NothingDoing::
-	.string "Nothing doing!$"
+	.string "Res de res!$"
 
 Roulette_Text_YouveWonXCoins::
-	.string "You've won {STR_VAR_1} COINS!$"
+	.string "Has guanyat {STR_VAR_1} FITXES!$"
 
 Roulette_Text_NoCoinsLeft::
-	.string "No COINS left…$"
+	.string "No et queden FITXES…$"
 
 Roulette_Text_KeepPlaying::
-	.string "Keep playing?$"
+	.string "Vols continuar jugant?$"
 
 Roulette_Text_BoardWillBeCleared::
-	.string "The ROULETTE board will be cleared.$"
+	.string "El tauler de la RULETA es netejarà.$"
 
 @ Unused
 Roulette_Text_YouDontHaveACoinCase::
-	.string "You don't have a COIN CASE.$"
+	.string "No tens cap MONEDER.$"
 
 Roulette_Text_CoinCaseIsFull::
-	.string "Your COIN CASE is full!\n"
-	.string "Coins can be exchanged for prizes.$"
+	.string "El teu MONEDER està ple!\n"
+	.string "Les fitxes es poden canviar per premis.$"

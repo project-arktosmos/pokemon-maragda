@@ -26,22 +26,22 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.string "Tota mena de criatures vaguen pels\n"
+	.string "vessants del MT. PÍRA…\p"
+	.string "No se sap què pot passar.\n"
+	.string "Pren això. És pel teu bé.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.string "Fes que un POKéMON porti aquesta\n"
+	.string "PLACA NETA.\p"
+	.string "Ajudarà a allunyar els POKéMON salvatges.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.string "Has vingut a retre homenatge\n"
+	.string "als esperits dels POKéMON difunts?\p"
+	.string "Deus estimar molt els teus POKéMON.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.string "Aquest és el lloc de descans final\n"
+	.string "del meu ZIGZAGOON. L'estimava molt…$"
 

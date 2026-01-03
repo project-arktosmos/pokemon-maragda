@@ -12,25 +12,25 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.string "No necessitem nens aquí!\n"
+	.string "Vés-te'n a casa d'una vegada!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Vull anar a casa…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.string "Vull aconseguir un ascens per poder\n"
+	.string "manar als RECLUTES…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.string "Aquell submarí… És molt petit per dins.\n"
+	.string "Em fa mal tot!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Perdre em fa mal!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+	.string "Aquell submarí que hem robat, tio,\n"
+	.string "és brutal com a vehicle.\l"
+	.string "És massa estret per dins!$"
 

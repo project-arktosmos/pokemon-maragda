@@ -61,123 +61,122 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "This is where we DRAGON users do our\n"
-	.string "training.\p"
-	.string "The CHAMPION even visits.\n"
-	.string "Now do you see how special it is here?$"
+	.string "Aquí és on els que usem tipus DRAC\n"
+	.string "entrenem.\p"
+	.string "Fins i tot el CAMPIÓ ens visita.\n"
+	.string "Ara veus com d'especial és aquest lloc?$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
 	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "No esperava que fossis tan fort!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
-	.string "The road ahead remains long and harsh.\p"
-	.string "When will my POKéMON and I become\n"
-	.string "the best?$"
+	.string "El camí que queda és llarg i dur.\p"
+	.string "Quan els meus POKéMON i jo\n"
+	.string "serem els millors?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "I want to know more about your power.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Vull saber més del teu poder.\n"
+	.string "Deixa'm registrar-te al POKéNAV.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Since we met, we have trained hard\n"
-	.string "with our sights on number one.\p"
-	.string "Help us see how much stronger we've\n"
-	.string "become!$"
+	.string "Des que ens vam conèixer, hem entrenat\n"
+	.string "fort amb la vista al número u.\p"
+	.string "Ajuda'ns a veure com de forts ens hem\n"
+	.string "fet!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
 	.string "Urgh!\n"
-	.string "I didn't expect you to be so strong!$"
+	.string "No esperava que fossis tan fort!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "You've obviously kept up your\n"
-	.string "POKéMON training.\p"
-	.string "So long as you remain strong, I, too,\n"
-	.string "can become stronger!$"
+	.string "Òbviament has continuat entrenant\n"
+	.string "els teus POKéMON.\p"
+	.string "Mentre tu siguis fort, jo també\n"
+	.string "puc fer-me més fort!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JOAN: Sempre hem lluitat amb POKéMON\n"
+	.string "junts, com a parella.\l"
+	.string "Tenim confiança en nosaltres.$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JOAN: Oh, vaja.\n"
+	.string "Hem perdut, estimada esposa.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: We've been married for\n"
-	.string "fifty years.\p"
-	.string "Come to think of it, I've yet to beat\n"
-	.string "my dear wife in a battle.$"
+	.string "JOAN: Portem cinquanta anys casats.\p"
+	.string "Pensant-ho bé, encara no he guanyat\n"
+	.string "a la meva estimada esposa en combat.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JOAN: Vaja, vaja, quin ENTRENADOR\n"
+	.string "tan jove!\p"
+	.string "Vols lluitar amb nosaltres? Si és així,\n"
+	.string "hauràs de tornar amb més POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Young TRAINER, if the chance\n"
-	.string "arises, will you battle with us again?$"
+	.string "JOAN: Jove ENTRENADOR, si sorgeix\n"
+	.string "l'ocasió, lluites amb nosaltres altre cop?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "The bond we share as a couple could\n"
-	.string "never be broken.$"
+	.string "JOANA: Portem cinquanta anys casats.\p"
+	.string "El vincle que compartim com a parella\n"
+	.string "mai es podria trencar.$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JOANA: Oh, vaja.\n"
+	.string "Hem perdut, estimat marit.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "JAY: Fifty years of marriage…\p"
-	.string "If we ever argued, we always settled\n"
-	.string "it with a POKéMON battle…$"
+	.string "JOANA: Cinquanta anys de matrimoni…\p"
+	.string "Si mai ens barallàvem, sempre ho\n"
+	.string "resolíem amb un combat POKéMON…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "JOANA: Vaja, vaja, no ets un\n"
+	.string "ENTRENADOR jove?\p"
+	.string "Si vols lluitar amb nosaltres, hauràs\n"
+	.string "de tornar amb més POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "JOHN: We've always battled POKéMON\n"
-	.string "together as a twosome.\l"
-	.string "We've confidence in ourselves.$"
+	.string "JOAN: Sempre hem lluitat amb POKéMON\n"
+	.string "junts, com a parella.\l"
+	.string "Tenim confiança en nosaltres.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "JOHN: Oh, my.\n"
-	.string "We've lost, dear wife.$"
+	.string "JOAN: Oh, vaja.\n"
+	.string "Hem perdut, estimada esposa.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "JOHN: Married for fifty years…\p"
-	.string "On reflection, the dear wife and I,\n"
-	.string "we battled day in and day out…$"
+	.string "JOAN: Cinquanta anys de casats…\p"
+	.string "Pensant-ho bé, la meva estimada esposa\n"
+	.string "i jo, lluitàvem dia rere dia…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "JOHN: Well, well, what a young TRAINER!\p"
-	.string "Will you battle with us? If so, you'll\n"
-	.string "have to return with more POKéMON.$"
+	.string "JOAN: Vaja, vaja, quin ENTRENADOR\n"
+	.string "tan jove!\p"
+	.string "Vols lluitar amb nosaltres? Si és així,\n"
+	.string "hauràs de tornar amb més POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: We've been married for\n"
-	.string "fifty years.\p"
-	.string "We've supported each other all that\n"
-	.string "time. We've made ourselves strong.$"
+	.string "JOANA: Portem cinquanta anys casats.\p"
+	.string "Ens hem recolzat tot aquest temps.\n"
+	.string "Ens hem fet forts.$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Oh, dear.\n"
-	.string "We've lost, my dear husband.$"
+	.string "JOANA: Oh, vaja.\n"
+	.string "Hem perdut, estimat marit.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Fifty years of marriage…\n"
-	.string "Many things have happened.\p"
-	.string "I hope that we will continue to make\n"
-	.string "happy memories together.$"
+	.string "JOANA: Cinquanta anys de matrimoni…\n"
+	.string "Han passat moltes coses.\p"
+	.string "Espero que continuem creant\n"
+	.string "records feliços junts.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Well, well, aren't you a young\n"
-	.string "TRAINER?\p"
-	.string "If you'd care to battle with us, you'll\n"
-	.string "have to come back with more POKéMON.$"
+	.string "JOANA: Vaja, vaja, no ets un\n"
+	.string "ENTRENADOR jove?\p"
+	.string "Si vols lluitar amb nosaltres, hauràs\n"
+	.string "de tornar amb més POKéMON.$"
 

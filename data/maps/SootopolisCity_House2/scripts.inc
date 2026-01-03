@@ -19,16 +19,16 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "MT. PIRA…\p"
+	.string "Al seu cim hi ha dos orbes col·locats\n"
+	.string "un al costat de l'altre. Ho sabies?$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "Sí, dos orbes un al costat de l'altre…\p"
+	.string "La visió d'ells junts…\n"
+	.string "És d'alguna manera reconfortant…$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.string "Ah, sí?\n"
+	.string "Potser hauries de visitar-ho i veure-ho…$"
 

@@ -104,99 +104,99 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Do you know the POKéMON SEEDOT?\n"
-	.string "It's hardly ever seen in SOOTOPOLIS.\p"
-	.string "Anyway, I love big SEEDOT.\n"
-	.string "The bigger the better.\p"
-	.string "But my younger brother, he says that\n"
-	.string "LOTAD is bigger.\p"
-	.string "That's silly.\n"
-	.string "SEEDOT has to be bigger than that!\p"
-	.string "Huh? Do you have a SEEDOT with you?\n"
-	.string "P-p-please, show me!$"
+	.string "Coneixes el POKéMON SEEDOT?\n"
+	.string "Gairebé mai es veu a ALGÈPOLIS.\p"
+	.string "De tota manera, m'encanten els SEEDOT grans.\n"
+	.string "Com més grans millor.\p"
+	.string "Però el meu germà petit diu que\n"
+	.string "LOTAD és més gran.\p"
+	.string "Quina bobobada.\n"
+	.string "SEEDOT ha de ser més gran que això!\p"
+	.string "Eh? Tens un SEEDOT amb tu?\n"
+	.string "S-si us plau, ensenya-me'l!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2} inches!\n"
-	.string "Oh, my gosh, this is a big one!\p"
-	.string "It might even beat the big LOTAD\n"
-	.string "my younger brother saw!\p"
-	.string "Thanks for showing me.\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2} polzades!\n"
+	.string "Oh, mare meva, és enorme!\p"
+	.string "Podria fins i tot superar el LOTAD gran\n"
+	.string "que va veure el meu germà petit!\p"
+	.string "Gràcies per ensenyar-me'l.\n"
+	.string "Aquí tens el meu agraïment!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} ha rebut una POCIÓ.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Eh?\n"
+	.string "La MOTXILLA està plena de gom a gom.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
-	.string "{STR_VAR_2} inches, is it?\p"
-	.string "Hmm… I've seen a bigger SEEDOT\n"
-	.string "than this one.$"
+	.string "{STR_VAR_2} polzades, oi?\p"
+	.string "Hmm… He vist un SEEDOT més gran\n"
+	.string "que aquest.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Oh, now this is quite something…\n"
-	.string "But it's not a SEEDOT!$"
+	.string "Oh, això sí que és una cosa…\n"
+	.string "Però no és un SEEDOT!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
-	.string "You don't have a big SEEDOT?\n"
-	.string "That's too bad…\p"
-	.string "If you get a big SEEDOT, please\n"
-	.string "come show me.$"
+	.string "No tens un SEEDOT gran?\n"
+	.string "Quina llàstima…\p"
+	.string "Si aconsegueixes un SEEDOT gran,\n"
+	.string "si us plau, vine a ensenyar-me'l.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
-	.string "The biggest SEEDOT in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}-inch giant!\p"
-	.string "A SEEDOT bigger than a LOTAD\n"
-	.string "always wanted!$"
+	.string "El SEEDOT més gran de la història!\n"
+	.string "El gegant de {STR_VAR_3} polzades de {STR_VAR_2}!\p"
+	.string "Un SEEDOT més gran que un LOTAD\n"
+	.string "sempre he volgut!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Do you know the POKéMON LOTAD?\n"
-	.string "It's rarely seen in SOOTOPOLIS.\p"
-	.string "I love, I mean love, big LOTAD!\p"
-	.string "My big brother says that SEEDOT is\n"
-	.string "bigger.\p"
-	.string "But that's wrong! Everyone knows that\n"
-	.string "LOTAD is a lot bigger.\p"
-	.string "Hunh? Do you have a LOTAD?\n"
-	.string "P-p-please show me!$"
+	.string "Coneixes el POKéMON LOTAD?\n"
+	.string "Rarament es veu a ALGÈPOLIS.\p"
+	.string "M'encanten, però m'encanten els LOTAD grans!\p"
+	.string "El meu germà gran diu que SEEDOT és\n"
+	.string "més gran.\p"
+	.string "Però això és fals! Tothom sap que\n"
+	.string "LOTAD és molt més gran.\p"
+	.string "Eh? Tens un LOTAD?\n"
+	.string "S-si us plau, ensenya-me'l!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2} inches!\n"
-	.string "Wow, that is big!\p"
-	.string "It might be even bigger than the huge\n"
-	.string "SEEDOT my big brother saw.\p"
-	.string "Thanks for showing me!\n"
-	.string "This is my thanks!$"
+	.string "{STR_VAR_2} polzades!\n"
+	.string "Uau, això sí que és gran!\p"
+	.string "Podria ser fins i tot més gran que l'enorme\n"
+	.string "SEEDOT que va veure el meu germà gran.\p"
+	.string "Gràcies per ensenyar-me'l!\n"
+	.string "Aquí tens el meu agraïment!$"
 
 @ Unused
 SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
-	.string "{PLAYER} received a POTION.$"
+	.string "{PLAYER} ha rebut una POCIÓ.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
-	.string "Hunh?\n"
-	.string "Your BAG is crammed full.$"
+	.string "Eh?\n"
+	.string "La MOTXILLA està plena de gom a gom.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
-	.string "{STR_VAR_2} inches?\p"
-	.string "Hmm… I've seen a bigger LOTAD\n"
-	.string "than this one here.$"
+	.string "{STR_VAR_2} polzades?\p"
+	.string "Hmm… He vist un LOTAD més gran\n"
+	.string "que aquest d'aquí.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
-	.string "Well, isn't this something!\n"
-	.string "But it's no LOTAD!$"
+	.string "Vaja, això sí que és quelcom!\n"
+	.string "Però no és cap LOTAD!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Don't you have a big LOTAD?\n"
-	.string "How disappointing…\p"
-	.string "If you get a big LOTAD, please\n"
-	.string "come show me!$"
+	.string "No tens un LOTAD gran?\n"
+	.string "Quina decepció…\p"
+	.string "Si aconsegueixes un LOTAD gran,\n"
+	.string "si us plau, vine a ensenyar-me'l!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
-	.string "The biggest LOTAD in history!\n"
-	.string "{STR_VAR_2}'s {STR_VAR_3}-inch colossus!\p"
-	.string "A LOTAD bigger than a SEEDOT\n"
-	.string "always wanted!$"
+	.string "El LOTAD més gran de la història!\n"
+	.string "El colós de {STR_VAR_3} polzades de {STR_VAR_2}!\p"
+	.string "Un LOTAD més gran que un SEEDOT\n"
+	.string "sempre he volgut!$"
 

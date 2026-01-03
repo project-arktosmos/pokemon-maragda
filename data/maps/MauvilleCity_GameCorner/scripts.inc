@@ -627,152 +627,152 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "This is MAUVILLE GAME CORNER.$"
+	.string "Aquesta és la SALA DE JOCS DE MALVALONA.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, you wanted some COINS for\n"
-	.string "the games?\p"
-	.string "But you don't have a COIN CASE for\n"
-	.string "stowing the COINS.$"
+	.string "D'acord, volies unes MONEDES per als\n"
+	.string "jocs?\p"
+	.string "Però no tens un MONEDER per guardar\n"
+	.string "les MONEDES.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Were you looking for COINS?\p"
-	.string "It's ¥1000 for 50 COINS.\n"
-	.string "Would you like some?$"
+	.string "Buscaves MONEDES?\p"
+	.string "Són ¥1000 per 50 MONEDES.\n"
+	.string "En vols?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
-	.string "Thank you very much!\n"
-	.string "Here are your COINS!$"
+	.string "Moltes gràcies!\n"
+	.string "Aquí tens les teves MONEDES!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
-	.string "Um… You don't appear to have\n"
-	.string "enough money…$"
+	.string "Hm… Sembla que no tens prou\n"
+	.string "diners…$"
 
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
 	.string "Oh?\n"
-	.string "Your COIN CASE is full.$"
+	.string "El teu MONEDER és ple.$"
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… You don't need COINS, then?\n"
-	.string "Good luck on your adventure!$"
+	.string "Oh… No necessites MONEDES, doncs?\n"
+	.string "Bona sort en la teva aventura!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
-	.string "Welcome.\p"
-	.string "You can exchange your COINS for\n"
-	.string "prizes here.$"
+	.string "Benvingut.\p"
+	.string "Pots canviar les teves MONEDES per\n"
+	.string "premis aquí.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
-	.string "Which prize would you like?$"
+	.string "Quin premi voldries?$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX:
-	.string "So your choice is\n"
-	.string "the {STR_VAR_1} {STR_VAR_2}?$"
+	.string "Així que la teva elecció és\n"
+	.string "la {STR_VAR_1} {STR_VAR_2}?$"
 
 MauvilleCity_GameCorner_Text_SendToYourHomePC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Gràcies!\n"
+	.string "Ho enviarem al teu PC de casa.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "You don't have enough COINS.$"
+	.string "No tens prou MONEDES.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
-	.string "There isn't any room available for\n"
-	.string "placing {STR_VAR_1}.$"
+	.string "No hi ha lloc disponible per\n"
+	.string "col·locar {STR_VAR_1}.$"
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
-	.string "Oh, is that so? \n"
-	.string "You need to save some COINS before\l"
-	.string "coming back here.$"
+	.string "Oh, és així?\n"
+	.string "Has d'estalviar MONEDES abans de\l"
+	.string "tornar aquí.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
-	.string "So your choice is {STR_VAR_1}?$"
+	.string "Així que la teva elecció és {STR_VAR_1}?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Aquí tens!$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_CantCarryAnyMore:
-	.string "Oh, you can't carry any more than that.$"
+	.string "Oh, no pots portar res més.$"
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
-	.string "I made a mistake and got two of\n"
-	.string "the same DOLLS.\p"
-	.string "Would you like one of them?$"
+	.string "M'he equivocat i he aconseguit dues\n"
+	.string "NINES iguals.\p"
+	.string "En voldries una?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
-	.string "Here you go!$"
+	.string "Aquí tens!$"
 
 MauvilleCity_GameCorner_Text_YouWantItButNotNow:
-	.string "Huh?\n"
-	.string "You want it, but not right now?$"
+	.string "Eh?\n"
+	.string "La vols, però ara no?$"
 
 MauvilleCity_GameCorner_Text_DontBeNegative:
-	.string "Oh, don't be so negative!\n"
-	.string "You can have this!$"
+	.string "Oh, no siguis tan negatiu!\n"
+	.string "Pots tenir això!$"
 
 MauvilleCity_GameCorner_Text_CantWinJackpot:
-	.string "There's a prize I want, but I can't win\n"
-	.string "the jackpot.$"
+	.string "Hi ha un premi que vull, però no puc\n"
+	.string "guanyar el premi gros.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
-	.string "Hey, kid, if you want to play here,\n"
-	.string "you need a COIN CASE.\p"
-	.string "I think the young lady next door\n"
-	.string "had one. Go see her!$"
+	.string "Ei, nano, si vols jugar aquí,\n"
+	.string "necessites un MONEDER.\p"
+	.string "Crec que la noia del costat\n"
+	.string "en té un. Ves a veure-la!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
-	.string "My luck can only last so long.\n"
-	.string "This is too much for me.\l"
-	.string "Here, take some COINS!$"
+	.string "La meva sort només pot durar fins cert punt.\n"
+	.string "Això és massa per a mi.\l"
+	.string "Aquí tens, agafa unes MONEDES!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "MAUVILLE has something for\n"
-	.string "everyone.\p"
-	.string "For me, it's the GAME CORNER.$"
+	.string "MALVALONA té alguna cosa per a\n"
+	.string "tothom.\p"
+	.string "Per a mi, és la SALA DE JOCS.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "The ROULETTE tables have different\n"
-	.string "rates.\p"
-	.string "Check your COINS if you're going to\n"
-	.string "pick a table.$"
+	.string "Les taules de RULETA tenen\n"
+	.string "tarifes diferents.\p"
+	.string "Comprova les teves MONEDES si vas\n"
+	.string "a triar una taula.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
-	.string "It's easy to lose track of time in here. \n"
-	.string "I should get back to work.$"
+	.string "És fàcil perdre la noció del temps aquí.\n"
+	.string "Hauria de tornar a la feina.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "COINS are needed to play here\n"
-	.string "in the GAME CORNER.$"
+	.string "Es necessiten MONEDES per jugar\n"
+	.string "aquí a la SALA DE JOCS.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "This ROULETTE thing…\n"
-	.string "It's rather demanding.\p"
-	.string "Win or lose, it's only by luck.$"
+	.string "Això de la RULETA…\n"
+	.string "És bastant exigent.\p"
+	.string "Guanyar o perdre, tot és per sort.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Up to three COINS can be used to play\n"
-	.string "the SLOTS.$"
+	.string "Es poden usar fins a tres MONEDES per\n"
+	.string "jugar a les ESCURABUTXAQUES.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
-	.string "It's very difficult to make it stop\n"
-	.string "right on “7.”\p"
-	.string "If it stops on “7” during the REEL TIME\n"
-	.string "bonus game, you'll receive extra COINS.$"
+	.string "És molt difícil fer que s'aturi\n"
+	.string "just en el “7”.\p"
+	.string "Si s'atura en el “7” durant el joc bonus\n"
+	.string "TEMPS DE RODET, rebràs MONEDES extra.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
-	.string "Here's some information for you\n"
-	.string "about the SLOTS.\p"
-	.string "The more lightning bolts you stock,\n"
-	.string "the more REEL TIME chances you get.\p"
-	.string "In a game with the maximum five\n"
-	.string "REEL TIME chances…\p"
-	.string "It is possible to receive four regular\n"
-	.string "bonuses, then a big bonus.\p"
-	.string "That would total 660 COINS, but it's\n"
-	.string "very difficult to get.$"
+	.string "Aquí tens informació sobre les\n"
+	.string "ESCURABUTXAQUES.\p"
+	.string "Com més llamps acumulis, més\n"
+	.string "oportunitats de TEMPS DE RODET tens.\p"
+	.string "En una partida amb el màxim de cinc\n"
+	.string "oportunitats de TEMPS DE RODET…\p"
+	.string "És possible rebre quatre bonus\n"
+	.string "normals, i després un bonus gran.\p"
+	.string "Això sumaria 660 MONEDES, però és\n"
+	.string "molt difícil d'aconseguir.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "You can't play if you don't have\n"
-	.string "a COIN CASE.$"
+	.string "No pots jugar si no tens\n"
+	.string "un MONEDER.$"
 

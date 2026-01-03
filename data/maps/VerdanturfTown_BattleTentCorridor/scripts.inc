@@ -43,32 +43,34 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which CONTEST are you entering?\n"
-	.string "Want a piece of advice?\p"
-	.string "In any CONTEST, for example, a CUTE\n"
-	.string "CONTEST, I don't think they judge you\l"
-	.string "only on cuteness in the first round.\p"
-	.string "You need to work out ways for raising\n"
-	.string "POKéMON better.$"
+	.string "A quin CONCURS entres?\n"
+	.string "Vols un consell?\p"
+	.string "En qualsevol CONCURS, per exemple, un\n"
+	.string "CONCURS DE SIMPATIA, no crec que\l"
+	.string "et jutgin només per simpatia a la\l"
+	.string "primera ronda.\p"
+	.string "Has de trobar maneres de crear\n"
+	.string "POKéMON millor.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my POKéMON to be cute.\p"
-	.string "I found out you can put POKéMON in\n"
-	.string "a CONTEST for cuteness!\p"
-	.string "I'm so glad I raised my POKéMON with\n"
-	.string "loving care…$"
+	.string "He criat el meu POKéMON perquè\n"
+	.string "fos bonic.\p"
+	.string "He descobert que pots posar POKéMON\n"
+	.string "en un CONCURS de simpatia!\p"
+	.string "Estic tan content d'haver criat el meu\n"
+	.string "POKéMON amb estima…$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My POKéMON rules!\p"
-	.string "It's cool, tough yet beautiful, cute,\n"
-	.string "and smart. It's complete!\p"
-	.string "I may as well go for wins in every\n"
-	.string "single CONTEST.$"
+	.string "El meu POKéMON mana!\p"
+	.string "És guai, dur però bell, bonic,\n"
+	.string "i llest. És complet!\p"
+	.string "Igual puc anar a guanyar en tots\n"
+	.string "els CONCURSOS.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "NORMAL RANK STAGE!$"
+	.string "CONCURSOS POKéMON\n"
+	.string "ESCENARI DE RANG NORMAL!$"
 

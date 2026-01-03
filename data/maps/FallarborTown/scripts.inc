@@ -52,44 +52,44 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "Està passant alguna cosa,\n"
+	.string "i no m'agrada!\p"
+	.string "He vist personatges dubtosos entrant\n"
+	.string "i sortint de casa del PROF. COSMO…$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "Aquesta regió ha sigut coneguda pels\n"
+	.string "meteors des de temps antics.\p"
+	.string "Diuen que la CASCADA METEÒRICA va ser\n"
+	.string "excavada per un meteorit fa molt temps.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "Mira! Mira això!\n"
+	.string "Aquest és el meu preciós AZURILL!\p"
+	.string "És suau, llis i molt esponjós!$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+	.string "AZURILL: Ruriluuu.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "Ja has desafiat la CANDELA,\n"
+	.string "la LÍDER del GIMNÀS DE TERMA?\p"
+	.string "L'avi de la noia era famós.\n"
+	.string "Va ser un de l'ALT COMANDAMENT a la\l"
+	.string "LLIGA POKéMON en un moment.\p"
+	.string "No em sorprendria veure la CANDELA\n"
+	.string "convertir-se en una gran ENTRENADORA\l"
+	.string "pel seu propi mèrit.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "CARPA DE COMBAT SEU DE CENDRAFOC\n"
+	.string "“Que es reuneixin els millors equips!”$"
 
 FallarborTown_Text_TownSign:
-	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "POBLE CENDRAFOC\n"
+	.string "“Una comunitat agrícola amb petits horts.”$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "CASA DEL TUTOR DE MOVIMENTS\n"
+	.string "“S'ensenyen moviments nous als POKéMON.”$"
 

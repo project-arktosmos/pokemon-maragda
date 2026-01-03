@@ -1015,278 +1015,279 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The DEVON CORPORATION…\n"
-	.string "We all just shorten it to DEVON.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "La CORPORACIÓ DEVON…\n"
+	.string "Tots ho escurcem a simplement DEVON.\p"
+	.string "Aquesta empresa fa tota mena de\n"
+	.string "productes convenients.$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "Hm? Un home d'aspecte sospitós?\p"
+	.string "Ara que ho dius, sí, un tipus\n"
+	.string "d'aspecte ombriu va girar la cantonada.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the POKéMON GYM\n"
-	.string "challenge?\p"
-	.string "When you get that shiny GYM BADGE\n"
-	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "Has acceptat el repte del GIMNÀS\n"
+	.string "POKéMON?\p"
+	.string "Quan tens aquella brillant MEDALLA DE\n"
+	.string "GIMNÀS a la mà, suposo que els ENTRENADORS\l"
+	.string "comencen a adonar-se del que se'ls demana.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
-	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "Ep, aquesta és la MEDALLA DE GIMNÀS\n"
+	.string "de FERRÍFERA!\p"
+	.string "De totes les MEDALLES DE GIMNÀS POKéMON,\n"
+	.string "la de FERRÍFERA és la més genial, diria.$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "POKéMON TRAINER'S SCHOOL?$"
+	.string "Oh? Qui deus ser?\n"
+	.string "Ets una cara nova per aquí.\p"
+	.string "T'acabes de traslladar a l'ESCOLA\n"
+	.string "D'ENTRENADORS POKéMON?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the GYM LEADER, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my FIRE-type POKéMON…\p"
-	.string "FIRE-type POKéMON don't match up\n"
-	.string "well against ROCK-type POKéMON…$"
+	.string "He desafiat la LÍDER DE GIMNÀS, però…\p"
+	.string "No serà fàcil guanyar amb\n"
+	.string "el meu POKéMON de tipus FOC…\p"
+	.string "Els POKéMON de tipus FOC no encaixen\n"
+	.string "bé contra els POKéMON de tipus ROCA…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "El vell mariner SR. BRINEY viu en\n"
+	.string "una cabana vora el mar.\p"
+	.string "Va a passejar pel túnel\n"
+	.string "de tant en tant.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor MR. BRINEY lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that PEEKO.$"
+	.string "El vell mariner SR. BRINEY viu en\n"
+	.string "una cabana vora el mar.\p"
+	.string "Va dir que anava a comprar a\n"
+	.string "PORTLAVANDA per la seva mascota, PEEKO.\p"
+	.string "Aquell vell llop de mar, deu estimar\n"
+	.string "molt aquella PEEKO.$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have POKéMON with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with POKéMON, too.$"
+	.string "Uau, tu també tens POKéMON amb tu.\p"
+	.string "Quan sigui gran, també aniré\n"
+	.string "a llocs amb POKéMON.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "POKéMON TRAINER'S SCHOOL!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare POKéMON easily?$"
+	.string "ESCOLA D'ENTRENADORS POKéMON!\p"
+	.string "Si vaig a aquesta escola, podré\n"
+	.string "atrapar POKéMON rars fàcilment?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a POKéMON gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "Si un POKéMON guanya experiència en\n"
+	.string "combats, de vegades pot canviar\l"
+	.string "la seva aparença.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A POKéMON changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "Un POKéMON canvia de forma?\n"
+	.string "Si un ho fes, em quedaria xocat!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A POKéMON you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain GYM\n"
-	.string "BADGES, it may not obey you…$"
+	.string "Un POKéMON que aconsegueixes en\n"
+	.string "un intercanvi creix ràpid.\p"
+	.string "Però si no tens certes MEDALLES\n"
+	.string "DE GIMNÀS, pot ser que no t'obeexi…$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "Fora!\n"
+	.string "Fora del camí!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my GOODS!$"
+	.string "Espera! Sisplauuu!\p"
+	.string "No t'emportis les meves MERCADERIES!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
-	.string "I have to get the DEVON GOODS back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "Oh, ets tu!\p"
+	.string "Ets aquell ENTRENADOR fantàstic que\n"
+	.string "em va ajudar al BOSC PETÀLIA!\p"
+	.string "Ajuda'm! M'ha robat l'EQUIP AQUA!\n"
+	.string "He de recuperar les MERCADERIES DEVON!\p"
+	.string "Si no ho faig…\n"
+	.string "Tindré problemes seriosos.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "Aquell personatge ombriu, crec que\n"
+	.string "ha fugit cap al túnel d'allà.$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The DEVON GOODS?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great TRAINER!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another GREAT BALL!$"
+	.string "Oh! Com ha anat?\n"
+	.string "Les MERCADERIES DEVON?\p"
+	.string "Ho has aconseguit!\n"
+	.string "Les has recuperat!\p"
+	.string "Realment ets un gran ENTRENADOR!\p"
+	.string "Ja ho sé! Com a agraïment, et donaré\n"
+	.string "una altra SUPER BALL!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this GREAT BALL.$"
+	.string "Vas carregat d'objectes.\n"
+	.string "No et puc donar aquesta SUPER BALL.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "Disculpa, sisplau!\n"
+	.string "Sisplau, vine amb mi!$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
+	.string "AURA: Oh, hola, {PLAYER}{KUN}!\p"
+	.string "T'han afegit la funció de TRUCADA\n"
+	.string "al teu POKéNAV!\p"
+	.string "Registrem-nos per poder contactar\n"
+	.string "quan vulguem!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered MAY\n"
-	.string "in the POKéNAV.$"
+	.string "S'ha registrat l'AURA\n"
+	.string "al POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "AURA: Ah, per cert, m'he creuat amb\n"
+	.string "el SR. BRINEY al BOSC PETÀLIA.\p"
+	.string "Suposo que anava cap a casa seva,\n"
+	.string "la cabana vora el mar.\p"
+	.string "Com va la teva POKéDEX,\n"
+	.string "{PLAYER}{KUN}? La meva té bona pinta!\p"
+	.string "Bé…\n"
+	.string "Què tal un petit combat?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "MAY: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "POKéMON very much?\p"
-	.string "That's not very good for a TRAINER!$"
+	.string "AURA: Oh, què passa?\p"
+	.string "No has atrapat o entrenat gaire\n"
+	.string "els teus POKéMON?\p"
+	.string "Això no és molt bo per a un ENTRENADOR!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "MAY: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "AURA: Bé, què en penses?\n"
+	.string "Què tal un petit combat aquí?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "MAY: You just became a TRAINER,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "AURA: Acabes de fer-te ENTRENADOR,\n"
+	.string "{PLAYER}{KUN}. No penso perdre!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Ostres!\n"
+	.string "Ets millor del que esperava!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "AURA: Ah, per cert, el SR. BRINEY,\n"
+	.string "amb qui m'acabo de creuar…\p"
+	.string "{PLAYER}{KUN}, acabes d'arribar aquí així que\n"
+	.string "potser no ho saps, però el SR. BRINEY\l"
+	.string "va ser un mariner molt respectat.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "BRENDAN: Oh, hey, {PLAYER}!\p"
-	.string "You had a MATCH CALL feature put\n"
-	.string "on your POKéNAV! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
+	.string "BLAI: Ei, hola, {PLAYER}!\p"
+	.string "T'han afegit la funció de TRUCADA\n"
+	.string "al teu POKéNAV! Genial!\p"
+	.string "Registrem-nos per poder contactar\n"
+	.string "quan vulguem!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered BRENDAN\n"
-	.string "in the POKéNAV.$"
+	.string "S'ha registrat en BLAI\n"
+	.string "al POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your POKéDEX?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "BLAI: Per cert, {PLAYER}, m'he creuat\n"
+	.string "amb el SR. BRINEY al BOSC PETÀLIA.\p"
+	.string "Aposto que anava cap a casa seva,\n"
+	.string "la cabana vora el mar.\p"
+	.string "{PLAYER}, com va la teva POKéDEX?\n"
+	.string "Ja has omplert algunes pàgines?\p"
+	.string "La meva mola.\p"
+	.string "Vols fer un combat per veure\n"
+	.string "com has progressat?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: What's the matter? Don't have\n"
-	.string "any confidence in your POKéMON?$"
+	.string "BLAI: Què passa? No tens confiança\n"
+	.string "en els teus POKéMON?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "BLAI: Què tal?\n"
+	.string "Vols fer un combat amb mi?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: I know you just became\n"
-	.string "a TRAINER, but I won't go easy!$"
+	.string "BLAI: Ja sé que acabes de fer-te\n"
+	.string "ENTRENADOR, però no m'ho posaré fàcil!$"
 
 RustboroCity_Text_BrendanDefeat:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Ets força bo.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: By the way, you know\n"
-	.string "MR. BRINEY? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "MR. BRINEY was once a great sailor.$"
+	.string "BLAI: Per cert, coneixes\n"
+	.string "el SR. BRINEY? El tipus amb qui m'he creuat?\p"
+	.string "Aposto que no ho sabies, com que acabes\n"
+	.string "d'arribar aquí, {PLAYER}, però\l"
+	.string "el SR. BRINEY va ser un gran mariner.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "“Túnel estalvia-temps a punt\n"
+	.string "de completar-se!”\p"
+	.string "…És el que diu el rètol, però\n"
+	.string "també hi ha una gran “X” esquitxada\l"
+	.string "amb pintura vermella…$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "DEVON CORPORATION\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "CORPORACIÓ DEVON\p"
+	.string "“Per a totes les teves necessitats,\n"
+	.string "ho fabriquem tot.”$"
 
 RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "GIMNÀS POKéMON CIUTAT FERRÍFERA\n"
+	.string "LÍDER: PETRA\p"
+	.string "“L'estudiant d'honor amant de la ROCA!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "DEVON CORP. BRANCH OFFICE\p"
-	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "OFICINA SUCURSAL DE CORP. DEVON\p"
+	.string "“Accés limitat a empleats de DEVON\n"
+	.string "i personal autoritzat.”$"
 
 RustboroCity_Text_CitySign:
-	.string "RUSTBORO CITY\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "CIUTAT FERRÍFERA\p"
+	.string "“La ciutat que investiga la integració\n"
+	.string "de la natura i la ciència.”$"
 
 RustboroCity_Text_TrainersSchoolSign:
-	.string "POKéMON TRAINER'S SCHOOL\p"
-	.string "“We'll teach you anything about\n"
-	.string "POKéMON!”$"
+	.string "ESCOLA D'ENTRENADORS POKéMON\p"
+	.string "“T'ensenyarem tot sobre\n"
+	.string "els POKéMON!”$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "CUTTER'S HOUSE$"
+	.string "CASA DEL TALLADOR$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the POKéNAV…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that POKéNAV?\n"
-	.string "The one our PRESIDENT gave you?$"
+	.string "He estat desenvolupant una funció\n"
+	.string "afegida per al POKéNAV…\p"
+	.string "I ha sortit genial!\p"
+	.string "{PLAYER}, puc veure aquell POKéNAV?\n"
+	.string "El que et va donar el nostre PRESIDENT?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "MATCH CALL to your POKéNAV.\p"
-	.string "Using the MATCH CALL feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your POKéNAV.\p"
-	.string "{PLAYER}, our PRESIDENT STONE should\n"
-	.string "be registered in your POKéNAV.\p"
-	.string "Test it out.\n"
-	.string "Please give our PRESIDENT a call.$"
+	.string "Aquí tens, {PLAYER}!\p"
+	.string "He afegit una nova funció anomenada\n"
+	.string "TRUCADA al teu POKéNAV.\p"
+	.string "Usant la funció de TRUCADA,\n"
+	.string "pots xatejar amb gent que ha estat\l"
+	.string "registrada al teu POKéNAV.\p"
+	.string "{PLAYER}, el nostre PRESIDENT STONE hauria\n"
+	.string "d'estar registrat al teu POKéNAV.\p"
+	.string "Prova-ho.\n"
+	.string "Sisplau, truca al nostre PRESIDENT.$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the POKéNAV.$"
+	.string "Sisplau, selecciona el POKéNAV.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "Bé, millor que torni a treballar.\n"
+	.string "Cuida't, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another TRAINER.\p"
-	.string "If you catch the eyes of two TRAINERS\n"
-	.string "when you have two or more POKéMON,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two TRAINERS by yourself?$"
+	.string "Ho sabies?\p"
+	.string "Pots tenir un combat 2 contra 2 fins i\n"
+	.string "tot si no vas amb un altre ENTRENADOR.\p"
+	.string "Si atraus la mirada de dos ENTRENADORS\n"
+	.string "quan tens dos o més POKéMON,\l"
+	.string "tots dos et desafiaran.\p"
+	.string "No creus que seria genial si poguessis\n"
+	.string "vèncer dos ENTRENADORS tu sol?$"

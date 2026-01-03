@@ -271,32 +271,32 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "El rellotge està aturat…\p"
+	.string "Millor posar-lo en hora i engegar-lo!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOM: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "POKéMON movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "MAMA: {PLAYER}, t'agrada la teva\n"
+	.string "nova habitació?\p"
+	.string "Bé! Tot està ben endreçat!\p"
+	.string "Han acabat de col·locar tot a baix\n"
+	.string "també.\p"
+	.string "Els POKéMON de mudances són molt pràctics!\p"
+	.string "Ah, hauries de comprovar que\n"
+	.string "tot estigui al teu escriptori.$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "ADVENTURE RULE NO. 1\n"
-	.string "Open the MENU with START.\p"
-	.string "ADVENTURE RULE NO. 2\n"
-	.string "Record your progress with SAVE.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} va obrir la llibreta.\p"
+	.string "REGLA D'AVENTURA NÚM. 1\n"
+	.string "Obre el MENÚ amb START.\p"
+	.string "REGLA D'AVENTURA NÚM. 2\n"
+	.string "Guarda el teu progrés amb DESAR.\p"
+	.string "Les pàgines restants estan en blanc…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "HOENN region map.$"
+	.string "{PLAYER} va mirar més de prop el\n"
+	.string "mapa de la regió de HOENN.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "És una Nintendo GameCube.\p"
+	.string "Hi ha una Game Boy Advance connectada\n"
+	.string "que serveix com a Controlador.$"

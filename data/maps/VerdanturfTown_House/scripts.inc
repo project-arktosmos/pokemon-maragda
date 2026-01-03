@@ -10,16 +10,16 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Far away, deep in EVER GRANDE CITY,\n"
-	.string "is the POKéMON LEAGUE.\p"
-	.string "The TRAINERS who gather there are\n"
-	.string "all frighteningly well skilled.$"
+	.string "Lluny, a les profunditats de\n"
+	.string "CALA PERENNE, hi ha la LLIGA POKéMON.\p"
+	.string "Els ENTRENADORS que s'hi reuneixen\n"
+	.string "estan tots increïblement preparats.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "In the POKéMON LEAGUE, I think the\n"
-	.string "rules say that you have to battle the\l"
-	.string "ELITE FOUR all in a row.\p"
-	.string "If you lose to any of them, you have\n"
-	.string "to begin your challenge again from the\l"
-	.string "first one.$"
+	.string "A la LLIGA POKéMON, crec que les regles\n"
+	.string "diuen que has de lluitar contra\l"
+	.string "l'ELIT QUATRE tots seguits.\p"
+	.string "Si perds contra qualsevol d'ells, has\n"
+	.string "de començar el desafiament de nou\l"
+	.string "des del primer.$"
 

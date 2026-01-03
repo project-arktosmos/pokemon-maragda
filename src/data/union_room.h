@@ -1,11 +1,11 @@
 ALIGNED(4) static const u8 sText_EmptyString[] = _("");
 ALIGNED(4) static const u8 sText_Colon[] = _(":");
 ALIGNED(4) static const u8 sText_ID[] = _("{ID}");
-ALIGNED(4) static const u8 sText_PleaseStartOver[] = _("Please start over from the beginning.");
-ALIGNED(4) static const u8 sText_WirelessSearchCanceled[] = _("The WIRELESS COMMUNICATION\nSYSTEM search has been canceled.");
-ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("Awaiting communication\nfrom another player."); // Unused
-ALIGNED(4) static const u8 sText_AwaitingCommunication[] = _("{STR_VAR_1}! Awaiting\ncommunication from another player.");
-ALIGNED(4) static const u8 sText_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Awaiting link!\nPress START when everyone's ready.");
+ALIGNED(4) static const u8 sText_PleaseStartOver[] = _("Si us plau, torna a començar des del principi.");
+ALIGNED(4) static const u8 sText_WirelessSearchCanceled[] = _("La cerca del SISTEMA DE COMUNICACIÓ\nSENSE FILS s'ha cancel·lat.");
+ALIGNED(4) static const u8 sText_AwaitingCommunucation2[] = _("Esperant comunicació\nd'un altre jugador."); // Unused
+ALIGNED(4) static const u8 sText_AwaitingCommunication[] = _("{STR_VAR_1}! Esperant\ncomunicació d'un altre jugador.");
+ALIGNED(4) static const u8 sText_AwaitingLinkPressStart[] = _("{STR_VAR_1}! Esperant connexió!\nPrem START quan tothom estigui a punt.");
 ALIGNED(4) static const u8 sJPText_SingleBattle[] = _("シングルバトルを かいさいする");
 ALIGNED(4) static const u8 sJPText_DoubleBattle[] = _("ダブルバトルを かいさいする");
 ALIGNED(4) static const u8 sJPText_MultiBattle[] = _("マルチバトルを かいさいする");
@@ -38,14 +38,14 @@ static const u8 *const sJPLinkGroupActionTexts[] = {
     sJPText_HoldSpinShop
 };
 
-static const u8 sText_1PlayerNeeded[] = _("1 player\nneeded.");
-static const u8 sText_2PlayersNeeded[] = _("2 players\nneeded.");
-static const u8 sText_3PlayersNeeded[] = _("3 players\nneeded.");
-static const u8 sText_4PlayersNeeded[] = _("4 players\nneeded.");
-static const u8 sText_2PlayerMode[] = _("2-PLAYER\nMODE");
-static const u8 sText_3PlayerMode[] = _("3-PLAYER\nMODE");
-static const u8 sText_4PlayerMode[] = _("4-PLAYER\nMODE");
-static const u8 sText_5PlayerMode[] = _("5-PLAYER\nMODE");
+static const u8 sText_1PlayerNeeded[] = _("Falta 1\njugador.");
+static const u8 sText_2PlayersNeeded[] = _("Falten 2\njugadors.");
+static const u8 sText_3PlayersNeeded[] = _("Falten 3\njugadors.");
+static const u8 sText_4PlayersNeeded[] = _("Falten 4\njugadors.");
+static const u8 sText_2PlayerMode[] = _("MODE\n2 JUGADORS");
+static const u8 sText_3PlayerMode[] = _("MODE\n3 JUGADORS");
+static const u8 sText_4PlayerMode[] = _("MODE\n4 JUGADORS");
+static const u8 sText_5PlayerMode[] = _("MODE\n5 JUGADORS");
 
 static const u8 *const sPlayersNeededOrModeTexts[][5] = {
     // 2 players required
@@ -85,38 +85,38 @@ static const u8 *const sPlayersNeededOrModeTexts[][5] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_BButtonCancel[] = _("{B_BUTTON}CANCEL");
+ALIGNED(4) static const u8 sText_BButtonCancel[] = _("{B_BUTTON}CANCEL·LAR");
 ALIGNED(4) static const u8 sJPText_SearchingForParticipants[] = _("ため\nさんかしゃ ぼしゅうちゅう です！"); // Unused, may have been cut off
-ALIGNED(4) static const u8 sText_PlayerContactedYouForXAccept[] = _("{STR_VAR_2} contacted you for\n{STR_VAR_1}. Accept?");
-ALIGNED(4) static const u8 sText_PlayerContactedYouShareX[] = _("{STR_VAR_2} contacted you.\nWill you share {STR_VAR_1}?");
-ALIGNED(4) static const u8 sText_PlayerContactedYouAddToMembers[] = _("{STR_VAR_2} contacted you.\nAdd to the members?");
-ALIGNED(4) static const u8 sText_AreTheseMembersOK[] = _("{STR_VAR_1}!\nAre these members OK?");
-ALIGNED(4) static const u8 sText_CancelModeWithTheseMembers[] = _("Cancel {STR_VAR_1} MODE\nwith these members?");
-ALIGNED(4) static const u8 sText_AnOKWasSentToPlayer[] = _("An “OK” was sent\nto {STR_VAR_1}.");
-ALIGNED(4) static const u8 sText_OtherTrainerUnavailableNow[] = _("The other TRAINER doesn't appear\nto be available now…\p");
-ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _("You can't transmit with a TRAINER\nwho is too far away.\p");
-ALIGNED(4) static const u8 sText_TrainersNotReadyYet[] = _("The other TRAINER(S) is/are not\nready yet.\p");
+ALIGNED(4) static const u8 sText_PlayerContactedYouForXAccept[] = _("{STR_VAR_2} t'ha contactat per\n{STR_VAR_1}. Acceptes?");
+ALIGNED(4) static const u8 sText_PlayerContactedYouShareX[] = _("{STR_VAR_2} t'ha contactat.\nVols compartir {STR_VAR_1}?");
+ALIGNED(4) static const u8 sText_PlayerContactedYouAddToMembers[] = _("{STR_VAR_2} t'ha contactat.\nAfegir als membres?");
+ALIGNED(4) static const u8 sText_AreTheseMembersOK[] = _("{STR_VAR_1}!\nAquests membres estan bé?");
+ALIGNED(4) static const u8 sText_CancelModeWithTheseMembers[] = _("Cancel·lar MODE {STR_VAR_1}\namb aquests membres?");
+ALIGNED(4) static const u8 sText_AnOKWasSentToPlayer[] = _("S'ha enviat un OK\na {STR_VAR_1}.");
+ALIGNED(4) static const u8 sText_OtherTrainerUnavailableNow[] = _("L'altre ENTRENADOR no sembla\nestar disponible ara…\p");
+ALIGNED(4) static const u8 sText_CantTransmitTrainerTooFar[] = _("No pots transmetre amb un ENTRENADOR\nque és massa lluny.\p");
+ALIGNED(4) static const u8 sText_TrainersNotReadyYet[] = _("L'altre(s) ENTRENADOR(S) encara\nno està(n) a punt.\p");
 
 static const u8 *const sCantTransmitToTrainerTexts[] = {
     [UR_TRADE_PLAYER_NOT_READY - 1]  = sText_CantTransmitTrainerTooFar,
     [UR_TRADE_PARTNER_NOT_READY - 1] = sText_TrainersNotReadyYet
 };
 
-ALIGNED(4) static const u8 sText_ModeWithTheseMembersWillBeCanceled[] = _("The {STR_VAR_1} MODE with\nthese members will be canceled.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_MemberNoLongerAvailable[] = _("There is a member who can no\nlonger remain available.\p");
+ALIGNED(4) static const u8 sText_ModeWithTheseMembersWillBeCanceled[] = _("El MODE {STR_VAR_1} amb\naquests membres es cancel·larà.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_MemberNoLongerAvailable[] = _("Hi ha un membre que ja no\npot romandre disponible.\p");
 
 static const u8 *const sPlayerUnavailableTexts[] = {
     sText_OtherTrainerUnavailableNow,
     sText_MemberNoLongerAvailable
 };
 
-ALIGNED(4) static const u8 sText_TrainerAppearsUnavailable[] = _("The other TRAINER appears\nunavailable…\p");
-ALIGNED(4) static const u8 sText_PlayerSentBackOK[] = _("{STR_VAR_1} sent back an “OK”!");
-ALIGNED(4) static const u8 sText_PlayerOKdRegistration[] = _("{STR_VAR_1} OK'd your registration as\na member.");
-ALIGNED(4) static const u8 sText_PlayerRepliedNo[] = _("{STR_VAR_1} replied, “No…”\p");
-ALIGNED(4) static const u8 sText_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nAwaiting other members!");
-ALIGNED(4) static const u8 sText_QuitBeingMember[] = _("Quit being a member?");
-ALIGNED(4) static const u8 sText_StoppedBeingMember[] = _("You stopped being a member.\p");
+ALIGNED(4) static const u8 sText_TrainerAppearsUnavailable[] = _("L'altre ENTRENADOR sembla\nno estar disponible…\p");
+ALIGNED(4) static const u8 sText_PlayerSentBackOK[] = _("{STR_VAR_1} ha enviat un OK!");
+ALIGNED(4) static const u8 sText_PlayerOKdRegistration[] = _("{STR_VAR_1} ha aprovat el teu registre\ncom a membre.");
+ALIGNED(4) static const u8 sText_PlayerRepliedNo[] = _("{STR_VAR_1} ha respost No…\p");
+ALIGNED(4) static const u8 sText_AwaitingOtherMembers[] = _("{STR_VAR_1}!\nEsperant altres membres!");
+ALIGNED(4) static const u8 sText_QuitBeingMember[] = _("Deixar de ser membre?");
+ALIGNED(4) static const u8 sText_StoppedBeingMember[] = _("Has deixat de ser membre.\p");
 
 static const u8 *const sPlayerDisconnectedTexts[] = {
     [RFU_STATUS_OK]                  = NULL,
@@ -131,10 +131,10 @@ static const u8 *const sPlayerDisconnectedTexts[] = {
     [RFU_STATUS_LEAVE_GROUP]         = sText_StoppedBeingMember
 };
 
-ALIGNED(4) static const u8 sText_WirelessLinkEstablished[] = _("The WIRELESS COMMUNICATION\nSYSTEM link has been established.");
-ALIGNED(4) static const u8 sText_WirelessLinkDropped[] = _("The WIRELESS COMMUNICATION\nSYSTEM link has been dropped…");
-ALIGNED(4) static const u8 sText_LinkWithFriendDropped[] = _("The link with your friend has been\ndropped…");
-ALIGNED(4) static const u8 sText_PlayerRepliedNo2[] = _("{STR_VAR_1} replied, “No…”");
+ALIGNED(4) static const u8 sText_WirelessLinkEstablished[] = _("S'ha establert la connexió del\nSISTEMA DE COMUNICACIÓ SENSE FILS.");
+ALIGNED(4) static const u8 sText_WirelessLinkDropped[] = _("S'ha perdut la connexió del\nSISTEMA DE COMUNICACIÓ SENSE FILS…");
+ALIGNED(4) static const u8 sText_LinkWithFriendDropped[] = _("S'ha perdut la connexió\namb el teu amic…");
+ALIGNED(4) static const u8 sText_PlayerRepliedNo2[] = _("{STR_VAR_1} ha respost No…");
 
 static const u8 *const sLinkDroppedTexts[] = {
     [RFU_STATUS_OK]                  = NULL,
@@ -149,8 +149,8 @@ static const u8 *const sLinkDroppedTexts[] = {
     [RFU_STATUS_LEAVE_GROUP]         = NULL
 };
 
-ALIGNED(4) static const u8 sText_DoYouWantXMode[] = _("Do you want the {STR_VAR_2}\nMODE?");
-ALIGNED(4) static const u8 sText_DoYouWantXMode2[] = _("Do you want the {STR_VAR_2}\nMODE?");
+ALIGNED(4) static const u8 sText_DoYouWantXMode[] = _("Vols el MODE\n{STR_VAR_2}?");
+ALIGNED(4) static const u8 sText_DoYouWantXMode2[] = _("Vols el MODE\n{STR_VAR_2}?");
 
 // Unused
 static const u8 *const sDoYouWantModeTexts[] = {
@@ -158,13 +158,13 @@ static const u8 *const sDoYouWantModeTexts[] = {
     sText_DoYouWantXMode2
 };
 
-ALIGNED(4) static const u8 sText_CommunicatingPleaseWait[] = _("Communicating…\nPlease wait."); // Unused
-ALIGNED(4) static const u8 sText_AwaitingPlayersResponseAboutTrade[] = _("Awaiting {STR_VAR_1}'s response about\nthe trade…");
-ALIGNED(4) static const u8 sText_Communicating[] = _("Communicating{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
+ALIGNED(4) static const u8 sText_CommunicatingPleaseWait[] = _("Comunicant…\nSi us plau, espera."); // Unused
+ALIGNED(4) static const u8 sText_AwaitingPlayersResponseAboutTrade[] = _("Esperant la resposta de {STR_VAR_1}\nsobre l'intercanvi…");
+ALIGNED(4) static const u8 sText_Communicating[] = _("Comunicant{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
                                                      "{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.");
-ALIGNED(4) static const u8 sText_CommunicatingWithPlayer[] = _("Communicating with {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
+ALIGNED(4) static const u8 sText_CommunicatingWithPlayer[] = _("Comunicant amb {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
                                                                "{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.");
-ALIGNED(4) static const u8 sText_PleaseWaitAWhile[] = _("Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
+ALIGNED(4) static const u8 sText_PleaseWaitAWhile[] = _("Si us plau, espera una mica{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n"
                                                         "{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.");
 
 static const u8 *const sCommunicatingWaitTexts[] = {
@@ -173,10 +173,10 @@ static const u8 *const sCommunicatingWaitTexts[] = {
     sText_PleaseWaitAWhile
 };
 
-ALIGNED(4) static const u8 sText_HiDoSomethingMale[] = _("Hiya! Is there something that you\nwanted to do?");
-ALIGNED(4) static const u8 sText_HiDoSomethingFemale[] = _("Hello!\nWould you like to do something?");
-ALIGNED(4) static const u8 sText_HiDoSomethingAgainMale[] = _("{STR_VAR_1}: Hiya, we meet again!\nWhat are you up for this time?");
-ALIGNED(4) static const u8 sText_HiDoSomethingAgainFemale[] = _("{STR_VAR_1}: Oh! {PLAYER}, hello!\nWould you like to do something?");
+ALIGNED(4) static const u8 sText_HiDoSomethingMale[] = _("Ei! Hi ha alguna cosa que\nvolguessis fer?");
+ALIGNED(4) static const u8 sText_HiDoSomethingFemale[] = _("Hola!\nT'agradaria fer alguna cosa?");
+ALIGNED(4) static const u8 sText_HiDoSomethingAgainMale[] = _("{STR_VAR_1}: Ei, ens tornem a veure!\nQuè vols fer aquest cop?");
+ALIGNED(4) static const u8 sText_HiDoSomethingAgainFemale[] = _("{STR_VAR_1}: Oh! {PLAYER}, hola!\nT'agradaria fer alguna cosa?");
 
 static const u8 *const sHiDoSomethingTexts[][GENDER_COUNT] = {
     {
@@ -188,10 +188,10 @@ static const u8 *const sHiDoSomethingTexts[][GENDER_COUNT] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_DoSomethingMale[] = _("Want to do something?");
-ALIGNED(4) static const u8 sText_DoSomethingFemale[] = _("Would you like to do something?");
-ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: What would you like to\ndo now?");
-ALIGNED(4) static const u8 sText_DoSomethingAgainFemale[] = _("{STR_VAR_1}: Want to do anything else?"); // Unused
+ALIGNED(4) static const u8 sText_DoSomethingMale[] = _("Vols fer alguna cosa?");
+ALIGNED(4) static const u8 sText_DoSomethingFemale[] = _("T'agradaria fer alguna cosa?");
+ALIGNED(4) static const u8 sText_DoSomethingAgainMale[] = _("{STR_VAR_1}: Què t'agradaria fer\nara?");
+ALIGNED(4) static const u8 sText_DoSomethingAgainFemale[] = _("{STR_VAR_1}: Vols fer res més?"); // Unused
 
 // Unused
 static const u8 *const sDoSomethingTexts[][GENDER_COUNT] = {
@@ -204,31 +204,31 @@ static const u8 *const sDoSomethingTexts[][GENDER_COUNT] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_SomebodyHasContactedYou[] = _("Somebody has contacted you.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_PlayerHasContactedYou[] = _("{STR_VAR_1} has contacted you.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_SomebodyHasContactedYou[] = _("Algú t'ha contactat.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_PlayerHasContactedYou[] = _("{STR_VAR_1} t'ha contactat.{PAUSE 60}");
 
 static const u8 *const sPlayerContactedYouTexts[] = {
     sText_SomebodyHasContactedYou,
     sText_PlayerHasContactedYou
 };
 
-ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Awaiting a response from\nthe other TRAINER…");
-ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Awaiting a response from\n{STR_VAR_1}…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Esperant una resposta de\nl'altre ENTRENADOR…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Esperant una resposta de\n{STR_VAR_1}…");
 
 static const u8 *const sAwaitingResponseTexts[] = {
     sText_AwaitingResponseFromTrainer,
     sText_AwaitingResponseFromPlayer
 };
 
-ALIGNED(4) static const u8 sText_ShowTrainerCard[] = _("The other TRAINER showed\nyou their TRAINER CARD.\pWould you like to show your\nTRAINER CARD?");
-ALIGNED(4) static const u8 sText_BattleChallenge[] = _("The other TRAINER challenges you\nto battle.\pWill you accept the battle\nchallenge?");
-ALIGNED(4) static const u8 sText_ChatInvitation[] = _("The other TRAINER invites you\nto chat.\pWill you accept the chat\ninvitation?");
-ALIGNED(4) static const u8 sText_OfferToTradeMon[] = _("There is an offer to trade your\nregistered Lv. {DYNAMIC 0} {DYNAMIC 1}\pin exchange for a\nLv. {DYNAMIC 2} {DYNAMIC 3}.\pWill you accept this trade\noffer?");
-ALIGNED(4) static const u8 sText_OfferToTradeEgg[] = _("There is an offer to trade your\nregistered EGG.\lWill you accept this trade offer?");
-ALIGNED(4) static const u8 sText_ChatDropped[] = _("The chat has been dropped.\p");
-ALIGNED(4) static const u8 sText_OfferDeclined1[] = _("You declined the offer.\p");
-ALIGNED(4) static const u8 sText_OfferDeclined2[] = _("You declined the offer.\p");
-ALIGNED(4) static const u8 sText_ChatEnded[] = _("The chat was ended.\p");
+ALIGNED(4) static const u8 sText_ShowTrainerCard[] = _("L'altre ENTRENADOR t'ha mostrat\nla seva TARJA D'ENTRENADOR.\pT'agradaria mostrar la teva\nTARJA D'ENTRENADOR?");
+ALIGNED(4) static const u8 sText_BattleChallenge[] = _("L'altre ENTRENADOR et desafia\na combatre.\pAcceptes el desafiament\nde combat?");
+ALIGNED(4) static const u8 sText_ChatInvitation[] = _("L'altre ENTRENADOR et convida\na xatejar.\pAcceptes la invitació\na xatejar?");
+ALIGNED(4) static const u8 sText_OfferToTradeMon[] = _("Hi ha una oferta per intercanviar el teu\nNv. {DYNAMIC 0} {DYNAMIC 1} registrat\nper un\nNv. {DYNAMIC 2} {DYNAMIC 3}.\pAcceptes aquesta oferta\nd'intercanvi?");
+ALIGNED(4) static const u8 sText_OfferToTradeEgg[] = _("Hi ha una oferta per intercanviar\nel teu OU registrat.\lAcceptes aquesta oferta d'intercanvi?");
+ALIGNED(4) static const u8 sText_ChatDropped[] = _("El xat s'ha interromput.\p");
+ALIGNED(4) static const u8 sText_OfferDeclined1[] = _("Has rebutjat l'oferta.\p");
+ALIGNED(4) static const u8 sText_OfferDeclined2[] = _("Has rebutjat l'oferta.\p");
+ALIGNED(4) static const u8 sText_ChatEnded[] = _("El xat ha finalitzat.\p");
 
 // Unused
 static const u8 *const sInvitationTexts[] = {
@@ -238,10 +238,10 @@ static const u8 *const sInvitationTexts[] = {
     sText_OfferToTradeMon
 };
 
-ALIGNED(4) static const u8 sText_JoinChatMale[] = _("Oh, hey! We're in a chat right now.\nWant to join us?");
-ALIGNED(4) static const u8 sText_PlayerJoinChatMale[] = _("{STR_VAR_1}: Hey, {PLAYER}!\nWe're having a chat right now.\lWant to join us?");
-ALIGNED(4) static const u8 sText_JoinChatFemale[] = _("Oh, hi! We're having a chat now.\nWould you like to join us?");
-ALIGNED(4) static const u8 sText_PlayerJoinChatFemale[] = _("{STR_VAR_1}: Oh, hi, {PLAYER}!\nWe're having a chat now.\lWould you like to join us?");
+ALIGNED(4) static const u8 sText_JoinChatMale[] = _("Ei! Estem xatejant ara mateix.\nVols unir-te?");
+ALIGNED(4) static const u8 sText_PlayerJoinChatMale[] = _("{STR_VAR_1}: Ei, {PLAYER}!\nEstem xatejant ara mateix.\lVols unir-te?");
+ALIGNED(4) static const u8 sText_JoinChatFemale[] = _("Hola! Estem xatejant ara.\nT'agradaria unir-te?");
+ALIGNED(4) static const u8 sText_PlayerJoinChatFemale[] = _("{STR_VAR_1}: Oh, hola, {PLAYER}!\nEstem xatejant ara.\lT'agradaria unir-te?");
 
 static const u8 *const sJoinChatTexts[][GENDER_COUNT] = {
     {
@@ -253,13 +253,13 @@ static const u8 *const sJoinChatTexts[][GENDER_COUNT] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_TrainerAppearsBusy[] = _("……\nThe TRAINER appears to be busy…\p");
-ALIGNED(4) static const u8 sText_WaitForBattleMale[] = _("A battle, huh?\nAll right, just give me some time.");
-ALIGNED(4) static const u8 sText_WaitForChatMale[] = _("You want to chat, huh?\nSure, just wait a little.");
-ALIGNED(4) static const u8 sText_ShowTrainerCardMale[] = _("Sure thing! As my “Greetings,”\nhere's my TRAINER CARD.");
-ALIGNED(4) static const u8 sText_WaitForBattleFemale[] = _("A battle? Of course, but I need\ntime to get ready.");
-ALIGNED(4) static const u8 sText_WaitForChatFemale[] = _("Did you want to chat?\nOkay, but please wait a moment.");
-ALIGNED(4) static const u8 sText_ShowTrainerCardFemale[] = _("As my introduction, I'll show you\nmy TRAINER CARD.");
+ALIGNED(4) static const u8 sText_TrainerAppearsBusy[] = _("……\nL'ENTRENADOR sembla estar ocupat…\p");
+ALIGNED(4) static const u8 sText_WaitForBattleMale[] = _("Un combat, eh?\nD'acord, només dona'm una mica de temps.");
+ALIGNED(4) static const u8 sText_WaitForChatMale[] = _("Vols xatejar, eh?\nClar, només espera una mica.");
+ALIGNED(4) static const u8 sText_ShowTrainerCardMale[] = _("Per descomptat! Com a salutació,\naquí tens la meva TARJA D'ENTRENADOR.");
+ALIGNED(4) static const u8 sText_WaitForBattleFemale[] = _("Un combat? Per descomptat, però\nnecessito temps per preparar-me.");
+ALIGNED(4) static const u8 sText_WaitForChatFemale[] = _("Volies xatejar?\nD'acord, però espera un moment.");
+ALIGNED(4) static const u8 sText_ShowTrainerCardFemale[] = _("Com a presentació, et mostraré\nla meva TARJA D'ENTRENADOR.");
 
 static const u8 *const sText_WaitOrShowCardTexts[GENDER_COUNT][4] = {
     {
@@ -275,14 +275,14 @@ static const u8 *const sText_WaitOrShowCardTexts[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_WaitForChatMale2[] = _("You want to chat, huh?\nSure, just wait a little."); // Unused
-ALIGNED(4) static const u8 sText_DoneWaitingBattleMale[] = _("Thanks for waiting!\nLet's get our battle started!{PAUSE 60}");
-ALIGNED(4) static const u8 sText_DoneWaitingChatMale[] = _("All right!\nLet's chat!{PAUSE 60}");
-ALIGNED(4) static const u8 sText_DoneWaitingBattleFemale[] = _("Sorry I made you wait!\nLet's get started!{PAUSE 60}");
-ALIGNED(4) static const u8 sText_DoneWaitingChatFemale[] = _("Sorry I made you wait!\nLet's chat.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_TradeWillBeStarted[] = _("The trade will be started.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_BattleWillBeStarted[] = _("The battle will be started.{PAUSE 60}");
-ALIGNED(4) static const u8 sText_EnteringChat[] = _("Entering the chat…{PAUSE 60}");
+ALIGNED(4) static const u8 sText_WaitForChatMale2[] = _("Vols xatejar, eh?\nClar, només espera una mica."); // Unused
+ALIGNED(4) static const u8 sText_DoneWaitingBattleMale[] = _("Gràcies per esperar!\nComencem el combat!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_DoneWaitingChatMale[] = _("D'acord!\nXatejem!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_DoneWaitingBattleFemale[] = _("Perdona per fer-te esperar!\nComencem!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_DoneWaitingChatFemale[] = _("Perdona per fer-te esperar!\nXatejem.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_TradeWillBeStarted[] = _("L'intercanvi començarà.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_BattleWillBeStarted[] = _("El combat començarà.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_EnteringChat[] = _("Entrant al xat…{PAUSE 60}");
 
 static const u8 *const sStartActivityTexts[][GENDER_COUNT][3] = {
     {
@@ -308,36 +308,36 @@ static const u8 *const sStartActivityTexts[][GENDER_COUNT][3] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_BattleDeclinedMale[] = _("Sorry! My POKéMON don't seem to\nbe feeling too well right now.\lLet me battle you another time.\p");
-ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("I'm terribly sorry, but my POKéMON\naren't feeling well…\pLet's battle another time.\p");
+ALIGNED(4) static const u8 sText_BattleDeclinedMale[] = _("Ho sento! Els meus POKéMON no sembla\nque es trobin gaire bé ara mateix.\lPermet-me combatre't un altre cop.\p");
+ALIGNED(4) static const u8 sText_BattleDeclinedFemale[] = _("Ho sento molt, però els meus POKéMON\nno es troben bé…\pCombatim un altre dia.\p");
 
 static const u8 *const sBattleDeclinedTexts[GENDER_COUNT] = {
     sText_BattleDeclinedMale,
     sText_BattleDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedMale[] = _("Huh? My TRAINER CARD…\nWhere'd it go now?\lSorry! I'll show you another time!\p");
-ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedFemale[] = _("Oh? Now where did I put my\nTRAINER CARD?…\lSorry! I'll show you later!\p");
+ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedMale[] = _("Eh? La meva TARJA D'ENTRENADOR…\nOn ha anat a parar?\lHo sento! Te la mostraré un altre cop!\p");
+ALIGNED(4) static const u8 sText_ShowTrainerCardDeclinedFemale[] = _("Oh? On he posat la meva\nTARJA D'ENTRENADOR?…\lHo sento! Te la mostraré més tard!\p");
 
 static const u8 *const sShowTrainerCardDeclinedTexts[GENDER_COUNT] = {
     sText_ShowTrainerCardDeclinedMale,
     sText_ShowTrainerCardDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingMale[] = _("If you want to do something with\nme, just give me a shout!\p");
-ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingFemale[] = _("If you want to do something with\nme, don't be shy.\p");
+ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingMale[] = _("Si vols fer alguna cosa amb\nmi, només crida'm!\p");
+ALIGNED(4) static const u8 sText_IfYouWantToDoSomethingFemale[] = _("Si vols fer alguna cosa amb\nmi, no siguis tímid.\p");
 
 static const u8 *const sIfYouWantToDoSomethingTexts[GENDER_COUNT] = {
     sText_IfYouWantToDoSomethingMale,
     sText_IfYouWantToDoSomethingFemale
 };
 
-ALIGNED(4) static const u8 sText_TrainerBattleBusy[] = _("Whoops! Sorry, but I have to do\nsomething else.\lAnother time, okay?\p");
-ALIGNED(4) static const u8 sText_NeedTwoMonsOfLevel30OrLower1[] = _("If you want to battle, you need\ntwo POKéMON that are below\lLv. 30.\p");
-ALIGNED(4) static const u8 sText_NeedTwoMonsOfLevel30OrLower2[] = _("For a battle, you need two\nPOKéMON that are below Lv. 30.\p");
+ALIGNED(4) static const u8 sText_TrainerBattleBusy[] = _("Ui! Ho sento, però he de fer\nuna altra cosa.\lUn altre cop, d'acord?\p");
+ALIGNED(4) static const u8 sText_NeedTwoMonsOfLevel30OrLower1[] = _("Si vols combatre, necessites\ndos POKéMON que estiguin per sota\lde Nv. 30.\p");
+ALIGNED(4) static const u8 sText_NeedTwoMonsOfLevel30OrLower2[] = _("Per a un combat, necessites dos\nPOKéMON que estiguin per sota de Nv. 30.\p");
 
-ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Oh, all right.\nCome see me anytime, okay?\p");
-ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nPlease come by anytime.\p");
+ALIGNED(4) static const u8 sText_DeclineChatMale[] = _("Oh, d'acord.\nVine a veure'm quan vulguis, d'acord?\p");
+ALIGNED(4) static const u8 stext_DeclineChatFemale[] = _("Oh…\nSi us plau, vine quan vulguis.\p");
 
 // Response from partner when player declines chat
 static const u8 *const sDeclineChatTexts[GENDER_COUNT] = {
@@ -345,8 +345,8 @@ static const u8 *const sDeclineChatTexts[GENDER_COUNT] = {
     stext_DeclineChatFemale
 };
 
-ALIGNED(4) static const u8 sText_ChatDeclinedMale[] = _("Oh, sorry!\nI just can't right this instant.\lLet's chat another time.\p");
-ALIGNED(4) static const u8 sText_ChatDeclinedFemale[] = _("Oh, I'm sorry.\nI have too much to do right now.\lLet's chat some other time.\p");
+ALIGNED(4) static const u8 sText_ChatDeclinedMale[] = _("Oh, ho sento!\nAra mateix no puc.\lXatejem un altre cop.\p");
+ALIGNED(4) static const u8 sText_ChatDeclinedFemale[] = _("Oh, ho sento.\nTinc massa coses a fer ara.\lXatejem un altre dia.\p");
 
 // Response from partner when they decline chat
 static const u8 *const sChatDeclinedTexts[GENDER_COUNT] = {
@@ -354,14 +354,14 @@ static const u8 *const sChatDeclinedTexts[GENDER_COUNT] = {
     sText_ChatDeclinedFemale
 };
 
-ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Whoa!\nI can tell you're pretty tough!\p");
-ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("You used that move?\nThat's good strategy!\p");
-ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("Way to go!\nThat was an eye-opener!\p");
-ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! How could you use that\nPOKéMON in that situation?\p");
-ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("That POKéMON…\nIt's been raised really well!\p");
-ALIGNED(4) static const u8 sText_UsedGoodMoveFemale[] = _("That's it!\nThis is the right move now!\p");
-ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("That's awesome!\nYou can battle that way?\p");
-ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("You have exquisite timing for\nswitching POKéMON!\p");
+ALIGNED(4) static const u8 sText_YoureToughMale[] = _("Uau!\nPuc veure que ets força fort!\p");
+ALIGNED(4) static const u8 sText_UsedGoodMoveMale[] = _("Has usat aquest moviment?\nBona estratègia!\p");
+ALIGNED(4) static const u8 sText_BattleSurpriseMale[] = _("Ben fet!\nAixò ha estat revelador!\p");
+ALIGNED(4) static const u8 sText_SwitchedMonsMale[] = _("Oh! Com pots usar aquest\nPOKéMON en aquesta situació?\p");
+ALIGNED(4) static const u8 sText_YoureToughFemale[] = _("Aquest POKéMON…\nL'has criat molt bé!\p");
+ALIGNED(4) static const u8 sText_UsedGoodMoveFemale[] = _("Això és!\nAquest és el moviment correcte ara!\p");
+ALIGNED(4) static const u8 sText_BattleSurpriseFemale[] = _("Impressionant!\nPots combatre així?\p");
+ALIGNED(4) static const u8 sText_SwitchedMonsFemale[] = _("Tens un timing exquisit per\ncanviar de POKéMON!\p");
 
 static const u8 *const sBattleReactionTexts[GENDER_COUNT][4] = {
     {
@@ -378,14 +378,14 @@ static const u8 *const sBattleReactionTexts[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_LearnedSomethingMale[] = _("Oh, I see!\nThis is educational!\p");
-ALIGNED(4) static const u8 sText_ThatsFunnyMale[] = _("Don't say anything funny anymore!\nI'm sore from laughing!\p");
-ALIGNED(4) static const u8 sText_RandomChatMale1[] = _("Oh?\nSomething like that happened.\p");
-ALIGNED(4) static const u8 sText_RandomChatMale2[] = _("Hmhm… What?\nSo is this what you're saying?\p");
-ALIGNED(4) static const u8 sText_LearnedSomethingFemale[] = _("Is that right?\nI didn't know that.\p");
-ALIGNED(4) static const u8 sText_ThatsFunnyFemale[] = _("Ahaha!\nWhat is that about?\p");
-ALIGNED(4) static const u8 sText_RandomChatFemale1[] = _("Yes, that's exactly it!\nThat's what I meant.\p");
-ALIGNED(4) static const u8 sText_RandomChatFemale2[] = _("In other words…\nYes! That's right!\p");
+ALIGNED(4) static const u8 sText_LearnedSomethingMale[] = _("Oh, ja veig!\nAixò és educatiu!\p");
+ALIGNED(4) static const u8 sText_ThatsFunnyMale[] = _("No diguis res més de graciós!\nEm fa mal de tant riure!\p");
+ALIGNED(4) static const u8 sText_RandomChatMale1[] = _("Oh?\nHa passat una cosa així.\p");
+ALIGNED(4) static const u8 sText_RandomChatMale2[] = _("Hmhm… Què?\nAixò és el que dius?\p");
+ALIGNED(4) static const u8 sText_LearnedSomethingFemale[] = _("De veritat?\nNo ho sabia.\p");
+ALIGNED(4) static const u8 sText_ThatsFunnyFemale[] = _("Ahaha!\nDe què va això?\p");
+ALIGNED(4) static const u8 sText_RandomChatFemale1[] = _("Sí, exactament!\nAixò és el que volia dir.\p");
+ALIGNED(4) static const u8 sText_RandomChatFemale2[] = _("En altres paraules…\nSí! Això és!\p");
 
 static const u8 *const sChatReactionTexts[GENDER_COUNT][4] = {
     {
@@ -402,10 +402,10 @@ static const u8 *const sChatReactionTexts[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("I'm just showing my TRAINER CARD\nas my way of greeting.\p");
-ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("I hope I get to know you better!\p");
-ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("We're showing each other our\nTRAINER CARDS to get acquainted.\p");
-ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale2[] = _("Glad to meet you.\nPlease don't be a stranger!\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardMale1[] = _("Només mostro la meva TARJA D'ENTRENADOR\ncom a manera de saludar.\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardMale2[] = _("Espero conèixer-te millor!\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale1[] = _("Ens estem mostrant les nostres\nTARJES D'ENTRENADOR per conèixer-nos.\p");
+ALIGNED(4) static const u8 sText_ShowedTrainerCardFemale2[] = _("Encantada de conèixer-te.\nNo siguis un desconegut!\p");
 
 static const u8 *const sTrainerCardReactionTexts[GENDER_COUNT][2] = {
     {
@@ -418,10 +418,10 @@ static const u8 *const sTrainerCardReactionTexts[GENDER_COUNT][2] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_MaleTraded1[] = _("Yeahah!\nI really wanted this POKéMON!\p");
-ALIGNED(4) static const u8 sText_MaleTraded2[] = _("Finally, a trade got me that\nPOKéMON I'd wanted a long time.\p");
-ALIGNED(4) static const u8 sText_FemaleTraded1[] = _("I'm trading POKéMON right now.\p");
-ALIGNED(4) static const u8 sText_FemaleTraded2[] = _("I finally got that POKéMON I\nwanted in a trade!\p");
+ALIGNED(4) static const u8 sText_MaleTraded1[] = _("Sí!\nRealment volia aquest POKéMON!\p");
+ALIGNED(4) static const u8 sText_MaleTraded2[] = _("Finalment, un intercanvi m'ha donat\nel POKéMON que volia des de fa temps.\p");
+ALIGNED(4) static const u8 sText_FemaleTraded1[] = _("Estic intercanviant POKéMON ara mateix.\p");
+ALIGNED(4) static const u8 sText_FemaleTraded2[] = _("Finalment he aconseguit el POKéMON\nque volia en un intercanvi!\p");
 
 static const u8 *const sTradeReactionTexts[GENDER_COUNT][4] = {
     {
@@ -434,37 +434,37 @@ static const u8 *const sTradeReactionTexts[GENDER_COUNT][4] = {
     }
 };
 
-ALIGNED(4) static const u8 sText_XCheckedTradingBoard[] = _("{STR_VAR_1} checked the\nTRADING BOARD.\p");
-ALIGNED(4) static const u8 sText_RegisterMonAtTradingBoard[] = _("Welcome to the TRADING BOARD.\pYou may register your POKéMON\nand offer it up for a trade.\pWould you like to register one of\nyour POKéMON?");
-ALIGNED(4) static const u8 sText_TradingBoardInfo[] = _("This TRADING BOARD is used for\n"
-                                                        "offering a POKéMON for a trade.\p"
-                                                        "All you need to do is register a\n"
-                                                        "POKéMON for a trade.\p"
-                                                        "Another TRAINER may offer a party\n"
-                                                        "POKéMON in return for the trade.\p"
-                                                        "We hope you will register POKéMON\n"
-                                                        "and trade them with many, many\l"
-                                                        "other TRAINERS.\p"
-                                                        "Would you like to register one of\nyour POKéMON?");
-ALIGNED(4) static const u8 sText_ThankYouForRegistering[] = _("We have registered your POKéMON for\ntrade on the TRADING BOARD.\pThank you for using this service!\p"); // unused
-ALIGNED(4) static const u8 sText_NobodyHasRegistered[] = _("Nobody has registered any POKéMON\nfor trade on the TRADING BOARD.\p\n"); // unused
-ALIGNED(4) static const u8 sText_ChooseRequestedMonType[] = _("Please choose the type of POKéMON\nthat you would like in the trade.\n");
-ALIGNED(4) static const u8 sText_WhichMonWillYouOffer[] = _("Which of your party POKéMON will\nyou offer in trade?\p");
-ALIGNED(4) static const u8 sText_RegistrationCanceled[] = _("Registration has been canceled.\p");
-ALIGNED(4) static const u8 sText_RegistrationCompleted[] = _("Registration has been completed.\p");
-ALIGNED(4) static const u8 sText_TradeCanceled[] = _("The trade has been canceled.\p");
-ALIGNED(4) static const u8 sText_CancelRegistrationOfMon[] = _("Cancel the registration of your\nLv. {STR_VAR_2} {STR_VAR_1}?");
-ALIGNED(4) static const u8 sText_CancelRegistrationOfEgg[] = _("Cancel the registration of your\nEGG?");
-ALIGNED(4) static const u8 sText_RegistrationCanceled2[] = _("The registration has been canceled.\p");
-ALIGNED(4) static const u8 sText_TradeTrainersWillBeListed[] = _("TRAINERS wishing to make a trade\nwill be listed."); // unused
-ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith2[] = _("Please choose the TRAINER with whom\nyou would like to trade POKéMON."); // unused
-ALIGNED(4) static const u8 sText_AskTrainerToMakeTrade[] = _("Would you like to ask {STR_VAR_1} to\nmake a trade?");
-ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer2[] = _("Awaiting a response from\nthe other TRAINER…"); // unused
-ALIGNED(4) static const u8 sText_NotRegisteredAMonForTrade[] = _("You have not registered a POKéMON\nfor trading.\p"); // unused
-ALIGNED(4) static const u8 sText_DontHaveTypeTrainerWants[] = _("You don't have a {STR_VAR_2}-type\nPOKéMON that {STR_VAR_1} wants.\p");
-ALIGNED(4) static const u8 sText_DontHaveEggTrainerWants[] = _("You don't have an EGG that\n{STR_VAR_1} wants.\p");
-ALIGNED(4) static const u8 sText_PlayerCantTradeForYourMon[] = _("{STR_VAR_1} can't make a trade for\nyour POKéMON right now.\p");
-ALIGNED(4) static const u8 sText_CantTradeForPartnersMon[] = _("You can't make a trade for\n{STR_VAR_1}'s POKéMON right now.\p");
+ALIGNED(4) static const u8 sText_XCheckedTradingBoard[] = _("{STR_VAR_1} ha consultat el\nTAULELL D'INTERCANVIS.\p");
+ALIGNED(4) static const u8 sText_RegisterMonAtTradingBoard[] = _("Benvingut al TAULELL D'INTERCANVIS.\pPots registrar el teu POKéMON\ni oferir-lo per a un intercanvi.\pT'agradaria registrar un dels\nteus POKéMON?");
+ALIGNED(4) static const u8 sText_TradingBoardInfo[] = _("Aquest TAULELL D'INTERCANVIS s'usa per\n"
+                                                        "oferir un POKéMON per a un intercanvi.\p"
+                                                        "Només cal registrar un\n"
+                                                        "POKéMON per a un intercanvi.\p"
+                                                        "Un altre ENTRENADOR pot oferir un\n"
+                                                        "POKéMON de l'equip a canvi.\p"
+                                                        "Esperem que registris POKéMON\n"
+                                                        "i els intercanviïs amb molts\l"
+                                                        "altres ENTRENADORS.\p"
+                                                        "T'agradaria registrar un dels\nteus POKéMON?");
+ALIGNED(4) static const u8 sText_ThankYouForRegistering[] = _("Hem registrat el teu POKéMON per\nintercanvi al TAULELL D'INTERCANVIS.\pGràcies per usar aquest servei!\p"); // unused
+ALIGNED(4) static const u8 sText_NobodyHasRegistered[] = _("Ningú ha registrat cap POKéMON\nper intercanvi al TAULELL D'INTERCANVIS.\p\n"); // unused
+ALIGNED(4) static const u8 sText_ChooseRequestedMonType[] = _("Si us plau, escull el tipus de POKéMON\nque t'agradaria per a l'intercanvi.\n");
+ALIGNED(4) static const u8 sText_WhichMonWillYouOffer[] = _("Quin dels POKéMON del teu equip\noferiràs en intercanvi?\p");
+ALIGNED(4) static const u8 sText_RegistrationCanceled[] = _("El registre s'ha cancel·lat.\p");
+ALIGNED(4) static const u8 sText_RegistrationCompleted[] = _("El registre s'ha completat.\p");
+ALIGNED(4) static const u8 sText_TradeCanceled[] = _("L'intercanvi s'ha cancel·lat.\p");
+ALIGNED(4) static const u8 sText_CancelRegistrationOfMon[] = _("Cancel·lar el registre del teu\n{STR_VAR_1} Nv. {STR_VAR_2}?");
+ALIGNED(4) static const u8 sText_CancelRegistrationOfEgg[] = _("Cancel·lar el registre del teu\nOU?");
+ALIGNED(4) static const u8 sText_RegistrationCanceled2[] = _("El registre s'ha cancel·lat.\p");
+ALIGNED(4) static const u8 sText_TradeTrainersWillBeListed[] = _("Es llistaran els ENTRENADORS que\nvulguin fer un intercanvi."); // unused
+ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith2[] = _("Si us plau, escull l'ENTRENADOR amb qui\nt'agradaria intercanviar POKéMON."); // unused
+ALIGNED(4) static const u8 sText_AskTrainerToMakeTrade[] = _("T'agradaria demanar a {STR_VAR_1}\nfer un intercanvi?");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer2[] = _("Esperant una resposta de\nl'altre ENTRENADOR…"); // unused
+ALIGNED(4) static const u8 sText_NotRegisteredAMonForTrade[] = _("No has registrat cap POKéMON\nper intercanviar.\p"); // unused
+ALIGNED(4) static const u8 sText_DontHaveTypeTrainerWants[] = _("No tens cap POKéMON de tipus\n{STR_VAR_2} que {STR_VAR_1} vulgui.\p");
+ALIGNED(4) static const u8 sText_DontHaveEggTrainerWants[] = _("No tens cap OU que\n{STR_VAR_1} vulgui.\p");
+ALIGNED(4) static const u8 sText_PlayerCantTradeForYourMon[] = _("{STR_VAR_1} no pot fer un intercanvi pel\nteu POKéMON ara mateix.\p");
+ALIGNED(4) static const u8 sText_CantTradeForPartnersMon[] = _("No pots fer un intercanvi pel\nPOKéMON de {STR_VAR_1} ara mateix.\p");
 
 // Unused
 static const u8 *const sCantTradeMonTexts[] = {
@@ -472,28 +472,28 @@ static const u8 *const sCantTradeMonTexts[] = {
     sText_CantTradeForPartnersMon
 };
 
-ALIGNED(4) static const u8 sText_TradeOfferRejected[] = _("Your trade offer was rejected.\p");
-ALIGNED(4) static const u8 sText_EggTrade[] = _("EGG TRADE");
-ALIGNED(4) static const u8 sText_ChooseJoinCancel[] = _("{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}CANCEL");
-ALIGNED(4) static const u8 sText_ChooseTrainer[] = _("Please choose a TRAINER.");
-ALIGNED(4) static const u8 sText_ChooseTrainerSingleBattle[] = _("Please choose a TRAINER for\na SINGLE BATTLE.");
-ALIGNED(4) static const u8 sText_ChooseTrainerDoubleBattle[] = _("Please choose a TRAINER for\na DOUBLE BATTLE.");
-ALIGNED(4) static const u8 sText_ChooseLeaderMultiBattle[] = _("Please choose the LEADER\nfor a MULTI BATTLE.");
-ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith[] = _("Please choose the TRAINER to\ntrade with.");
-ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderCards[] = _("Please choose the TRAINER who is\nsharing WONDER CARDS.");
-ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderNews[] = _("Please choose the TRAINER who is\nsharing WONDER NEWS.");
-ALIGNED(4) static const u8 sText_ChooseLeaderPokemonJump[] = _("Jump with mini POKéMON!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBerryCrush[] = _("BERRY CRUSH!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBerryPicking[] = _("DODRIO BERRY-PICKING!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBerryBlender[] = _("BERRY BLENDER!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderRecordCorner[] = _("RECORD CORNER!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderCoolContest[] = _("COOLNESS CONTEST!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBeautyContest[] = _("BEAUTY CONTEST!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderCuteContest[] = _("CUTENESS CONTEST!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderSmartContest[] = _("SMARTNESS CONTEST!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderToughContest[] = _("TOUGHNESS CONTEST!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerLv50[] = _("BATTLE TOWER LEVEL 50!\nPlease choose the LEADER.");
-ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerOpenLv[] = _("BATTLE TOWER OPEN LEVEL!\nPlease choose the LEADER.");
+ALIGNED(4) static const u8 sText_TradeOfferRejected[] = _("La teva oferta d'intercanvi ha estat rebutjada.\p");
+ALIGNED(4) static const u8 sText_EggTrade[] = _("INTERCANVI D'OUS");
+ALIGNED(4) static const u8 sText_ChooseJoinCancel[] = _("{DPAD_UPDOWN}ESCOLLIR  {A_BUTTON}UNIR-SE  {B_BUTTON}CANCEL·LAR");
+ALIGNED(4) static const u8 sText_ChooseTrainer[] = _("Si us plau, escull un ENTRENADOR.");
+ALIGNED(4) static const u8 sText_ChooseTrainerSingleBattle[] = _("Si us plau, escull un ENTRENADOR per\na un COMBAT INDIVIDUAL.");
+ALIGNED(4) static const u8 sText_ChooseTrainerDoubleBattle[] = _("Si us plau, escull un ENTRENADOR per\na un COMBAT DOBLE.");
+ALIGNED(4) static const u8 sText_ChooseLeaderMultiBattle[] = _("Si us plau, escull el LÍDER\nper a un COMBAT MÚLTIPLE.");
+ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith[] = _("Si us plau, escull l'ENTRENADOR amb\nqui vols intercanviar.");
+ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderCards[] = _("Si us plau, escull l'ENTRENADOR que\ncomparteix TARGES MISTERIOSES.");
+ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderNews[] = _("Si us plau, escull l'ENTRENADOR que\ncomparteix NOTÍCIES MISTERIOSES.");
+ALIGNED(4) static const u8 sText_ChooseLeaderPokemonJump[] = _("Salta amb mini POKéMON!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBerryCrush[] = _("TRITURA BAIES!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBerryPicking[] = _("RECOL·LECCIÓ DE BAIES DODRIO!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBerryBlender[] = _("BARREJADORA DE BAIES!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderRecordCorner[] = _("RACÓ DELS RÈCORDS!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderCoolContest[] = _("CONCURS COOL!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBeautyContest[] = _("CONCURS BELLESA!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderCuteContest[] = _("CONCURS MONO!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderSmartContest[] = _("CONCURS LLEST!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderToughContest[] = _("CONCURS DUR!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerLv50[] = _("TORRE BATALLA NIVELL 50!\nSi us plau, escull el LÍDER.");
+ALIGNED(4) static const u8 sText_ChooseLeaderBattleTowerOpenLv[] = _("TORRE BATALLA NIVELL OBERT!\nSi us plau, escull el LÍDER.");
 
 static const u8 *const sChooseTrainerTexts[NUM_LINK_GROUP_TYPES] =
 {
@@ -521,53 +521,53 @@ static const u8 *const sChooseTrainerTexts[NUM_LINK_GROUP_TYPES] =
     [LINK_GROUP_BATTLE_TOWER_OPEN] = sText_ChooseLeaderBattleTowerOpenLv
 };
 
-ALIGNED(4) static const u8 sText_SearchingForWirelessSystemWait[] = _("Searching for a WIRELESS\nCOMMUNICATION SYSTEM. Wait...");
-ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("For a DOUBLE BATTLE, you must have\nat least two POKéMON.\p"); // Unused
-ALIGNED(4) static const u8 sText_AwaitingPlayersResponse[] = _("Awaiting {STR_VAR_1}'s response…");
-ALIGNED(4) static const u8 sText_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("{STR_VAR_1} has been asked to register\nyou as a member. Please wait.");
-ALIGNED(4) static const u8 sText_AwaitingResponseFromWirelessSystem[] = _("Awaiting a response from the\nWIRELESS COMMUNICATION SYSTEM.");
-ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("Please wait for other TRAINERS to\ngather and get ready."); // Unused
-ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("No CARDS appear to be shared \nright now.");
-ALIGNED(4) static const u8 sText_NoNewsSharedRightNow[] = _("No NEWS appears to be shared\nright now.");
+ALIGNED(4) static const u8 sText_SearchingForWirelessSystemWait[] = _("Cercant un SISTEMA DE COMUNICACIÓ\nSENSE FILS. Espera...");
+ALIGNED(4) static const u8 sText_MustHaveTwoMonsForDoubleBattle[] = _("Per a un COMBAT DOBLE, has de tenir\nalmenys dos POKéMON.\p"); // Unused
+ALIGNED(4) static const u8 sText_AwaitingPlayersResponse[] = _("Esperant la resposta de {STR_VAR_1}…");
+ALIGNED(4) static const u8 sText_PlayerHasBeenAskedToRegisterYouPleaseWait[] = _("S'ha demanat a {STR_VAR_1} que et registri\ncom a membre. Si us plau, espera.");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromWirelessSystem[] = _("Esperant una resposta del\nSISTEMA DE COMUNICACIÓ SENSE FILS.");
+ALIGNED(4) static const u8 sText_PleaseWaitForOtherTrainersToGather[] = _("Si us plau, espera que altres ENTRENADORS\nes reuneixin i estiguin a punt."); // Unused
+ALIGNED(4) static const u8 sText_NoCardsSharedRightNow[] = _("No sembla que es comparteixi cap\nTARGES ara mateix.");
+ALIGNED(4) static const u8 sText_NoNewsSharedRightNow[] = _("No sembla que es comparteixin\nNOTÍCIES ara mateix.");
 
 static const u8 *const sNoWonderSharedTexts[] = {
     sText_NoCardsSharedRightNow,
     sText_NoNewsSharedRightNow
 };
 
-ALIGNED(4) static const u8 sText_Battle[] = _("BATTLE");
-ALIGNED(4) static const u8 sText_Chat2[] = _("CHAT");
-ALIGNED(4) static const u8 sText_Greetings[] = _("GREETINGS");
-ALIGNED(4) static const u8 sText_Exit[] = _("EXIT");
-ALIGNED(4) static const u8 sText_Exit2[] = _("EXIT");
+ALIGNED(4) static const u8 sText_Battle[] = _("COMBAT");
+ALIGNED(4) static const u8 sText_Chat2[] = _("XAT");
+ALIGNED(4) static const u8 sText_Greetings[] = _("SALUTACIONS");
+ALIGNED(4) static const u8 sText_Exit[] = _("SORTIR");
+ALIGNED(4) static const u8 sText_Exit2[] = _("SORTIR");
 ALIGNED(4) static const u8 sText_Info[] = _("INFO");
-ALIGNED(4) static const u8 sText_NameWantedOfferLv[] = _("NAME{CLEAR_TO 60}WANTED{CLEAR_TO 110}OFFER{CLEAR_TO 198}LV.");
-ALIGNED(4) static const u8 sText_SingleBattle[] = _("SINGLE BATTLE");
-ALIGNED(4) static const u8 sText_DoubleBattle[] = _("DOUBLE BATTLE");
-ALIGNED(4) static const u8 sText_MultiBattle[] = _("MULTI BATTLE");
-ALIGNED(4) static const u8 sText_PokemonTrades[] = _("POKéMON TRADES");
-ALIGNED(4) static const u8 sText_Chat[] = _("CHAT");
-ALIGNED(4) static const u8 sText_Cards[] = _("CARDS");
-ALIGNED(4) static const u8 sText_WonderCards[] = _("WONDER CARDS");
-ALIGNED(4) static const u8 sText_WonderNews[] = _("WONDER NEWS");
-ALIGNED(4) static const u8 sText_PokemonJump[] = _("POKéMON JUMP");
-ALIGNED(4) static const u8 sText_BerryCrush[] = _("BERRY CRUSH");
-ALIGNED(4) static const u8 sText_BerryPicking[] = _("BERRY-PICKING");
-ALIGNED(4) static const u8 sText_Search[] = _("SEARCH");
-ALIGNED(4) static const u8 sText_BerryBlender[] = _("BERRY BLENDER");
-ALIGNED(4) static const u8 sText_RecordCorner[] = _("RECORD CORNER");
-ALIGNED(4) static const u8 sText_CoolContest[] = _("COOL CONTEST");
-ALIGNED(4) static const u8 sText_BeautyContest[] = _("BEAUTY CONTEST");
-ALIGNED(4) static const u8 sText_CuteContest[] = _("CUTE CONTEST");
-ALIGNED(4) static const u8 sText_SmartContest[] = _("SMART CONTEST");
-ALIGNED(4) static const u8 sText_ToughContest[] = _("TOUGH CONTEST");
-ALIGNED(4) static const u8 sText_BattleTowerLv50[] = _("BATTLE TOWER LV. 50");
-ALIGNED(4) static const u8 sText_BattleTowerOpenLv[] = _("BATTLE TOWER OPEN LEVEL");
-ALIGNED(4) static const u8 sText_ItsNormalCard[] = _("It's a NORMAL CARD.");
-ALIGNED(4) static const u8 sText_ItsBronzeCard[] = _("It's a BRONZE CARD!");
-ALIGNED(4) static const u8 sText_ItsCopperCard[] = _("It's a COPPER CARD!");
-ALIGNED(4) static const u8 sText_ItsSilverCard[] = _("It's a SILVER CARD!");
-ALIGNED(4) static const u8 sText_ItsGoldCard[] = _("It's a GOLD CARD!");
+ALIGNED(4) static const u8 sText_NameWantedOfferLv[] = _("NOM{CLEAR_TO 60}BUSCAT{CLEAR_TO 110}OFERT{CLEAR_TO 198}NV.");
+ALIGNED(4) static const u8 sText_SingleBattle[] = _("COMBAT INDIVIDUAL");
+ALIGNED(4) static const u8 sText_DoubleBattle[] = _("COMBAT DOBLE");
+ALIGNED(4) static const u8 sText_MultiBattle[] = _("COMBAT MÚLTIPLE");
+ALIGNED(4) static const u8 sText_PokemonTrades[] = _("INTERCANVIS POKéMON");
+ALIGNED(4) static const u8 sText_Chat[] = _("XAT");
+ALIGNED(4) static const u8 sText_Cards[] = _("TARGES");
+ALIGNED(4) static const u8 sText_WonderCards[] = _("TARGES MISTERIOSES");
+ALIGNED(4) static const u8 sText_WonderNews[] = _("NOTÍCIES MISTERIOSES");
+ALIGNED(4) static const u8 sText_PokemonJump[] = _("SALT POKéMON");
+ALIGNED(4) static const u8 sText_BerryCrush[] = _("TRITURA BAIES");
+ALIGNED(4) static const u8 sText_BerryPicking[] = _("RECOL·LECCIÓ BAIES");
+ALIGNED(4) static const u8 sText_Search[] = _("CERCAR");
+ALIGNED(4) static const u8 sText_BerryBlender[] = _("BARREJADORA BAIES");
+ALIGNED(4) static const u8 sText_RecordCorner[] = _("RACÓ RÈCORDS");
+ALIGNED(4) static const u8 sText_CoolContest[] = _("CONCURS COOL");
+ALIGNED(4) static const u8 sText_BeautyContest[] = _("CONCURS BELLESA");
+ALIGNED(4) static const u8 sText_CuteContest[] = _("CONCURS MONO");
+ALIGNED(4) static const u8 sText_SmartContest[] = _("CONCURS LLEST");
+ALIGNED(4) static const u8 sText_ToughContest[] = _("CONCURS DUR");
+ALIGNED(4) static const u8 sText_BattleTowerLv50[] = _("TORRE BATALLA NV. 50");
+ALIGNED(4) static const u8 sText_BattleTowerOpenLv[] = _("TORRE BATALLA NV. OBERT");
+ALIGNED(4) static const u8 sText_ItsNormalCard[] = _("És una TARJA NORMAL.");
+ALIGNED(4) static const u8 sText_ItsBronzeCard[] = _("És una TARJA DE BRONZE!");
+ALIGNED(4) static const u8 sText_ItsCopperCard[] = _("És una TARJA DE COURE!");
+ALIGNED(4) static const u8 sText_ItsSilverCard[] = _("És una TARJA DE PLATA!");
+ALIGNED(4) static const u8 sText_ItsGoldCard[] = _("És una TARJA D'OR!");
 
 static const u8 *const sCardColorTexts[] = {
     sText_ItsNormalCard,
@@ -577,17 +577,17 @@ static const u8 *const sCardColorTexts[] = {
     sText_ItsGoldCard
 };
 
-ALIGNED(4) static const u8 sText_TrainerCardInfoPage1[] = _("This is {DYNAMIC 0} {DYNAMIC 1}'s\nTRAINER CARD…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTIME:    {DYNAMIC 4}:{DYNAMIC 5}\p");
-ALIGNED(4) static const u8 sText_TrainerCardInfoPage2[] = _("BATTLES: WINS: {DYNAMIC 0}  LOSSES: {DYNAMIC 2}\nTRADES: {DYNAMIC 3}\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p");
-ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}: Glad to have met you!{PAUSE 60}");
-ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}: Glad to meet you!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_TrainerCardInfoPage1[] = _("Aquesta és la TARJA D'ENTRENADOR\nde {DYNAMIC 0} {DYNAMIC 1}…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTEMPS:    {DYNAMIC 4}:{DYNAMIC 5}\p");
+ALIGNED(4) static const u8 sText_TrainerCardInfoPage2[] = _("COMBATS: VICTÒRIES: {DYNAMIC 0}  DERROTES: {DYNAMIC 2}\nINTERCANVIS: {DYNAMIC 3}\p{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}\p");
+ALIGNED(4) static const u8 sText_GladToMeetYouMale[] = _("{DYNAMIC 1}: Encantat de conèixer-te!{PAUSE 60}");
+ALIGNED(4) static const u8 sText_GladToMeetYouFemale[] = _("{DYNAMIC 1}: Encantada de conèixer-te!{PAUSE 60}");
 
 static const u8 *const sGladToMeetYouTexts[GENDER_COUNT] = {
     sText_GladToMeetYouMale,
     sText_GladToMeetYouFemale
 };
 
-ALIGNED(4) static const u8 sText_FinishedCheckingPlayersTrainerCard[] = _("Finished checking {DYNAMIC 1}'s\nTRAINER CARD.{PAUSE 60}");
+ALIGNED(4) static const u8 sText_FinishedCheckingPlayersTrainerCard[] = _("Has acabat de consultar la TARJA\nD'ENTRENADOR de {DYNAMIC 1}.{PAUSE 60}");
 
 static const u8 *const sLinkGroupActivityNameTexts[] = {
     [ACTIVITY_NONE]              = sText_EmptyString,

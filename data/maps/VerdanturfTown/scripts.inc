@@ -62,64 +62,64 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+	.string "El meu papa m'ho va dir.\p"
+	.string "Diu que aquest túnel està ple de\n"
+	.string "POKéMON tímids.\p"
+	.string "S'espanten amb el soroll fort i\n"
+	.string "fan un gran enrenou.\p"
+	.string "Per això van haver d'aturar el gran\n"
+	.string "projecte del túnel.\p"
+	.string "Però hi ha un home. Està intentant\n"
+	.string "excavar el túnel ell tot sol!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+	.string "Hi havia un home que va excavar un\n"
+	.string "túnel per una dona que estimava.\p"
+	.string "No ho entenc del tot, però bé!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+	.string "Per la direcció dels vents, la cendra\n"
+	.string "volcànica mai arriba aquí.\p"
+	.string "L'aire és net i deliciós aquí.\n"
+	.string "Viure aquí fa miracles fins i tot per\l"
+	.string "a persones fràgils i malaltisses.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+	.string "Els meus POKéMON i jo, hem tingut\n"
+	.string "una gran ratxa de victòries.\p"
+	.string "Així que he decidit debutar a la TENDA\n"
+	.string "COMBAT d'aquest poble.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
-	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "Has vist la cova al costat de la\n"
+	.string "BOTIGA POKéMON?\p"
+	.string "Hi ha un home que intenta trencar\n"
+	.string "les roques per passar a l'altre\l"
+	.string "costat.\p"
+	.string "Seria genial si poguéssim passar…\n"
+	.string "Seria fàcil anar a FERRERICA.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "Aquella cova al costat de la BOTIGA\n"
+	.string "POKéMON ara és un túnel a l'altre costat.\p"
+	.string "És genial--ara és fàcil anar a comprar\n"
+	.string "productes nous de DEVON a FERRERICA.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+	.string "POBLE VERDANTURF\p"
+	.string "“Les terres altes ventoses amb la\n"
+	.string "dolça fragància de l'herba.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
+	.string "CASA DE LA WANDA$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "TENDA COMBAT SEU VERDANTURF\n"
+	.string "“Deleiteu-vos amb els combats!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "TÚNEL FERRIFRESC\n"
+	.string "“Connectant FERRERICA i VERDANTURF\p"
+	.string "“El projecte del túnel ha estat\n"
+	.string "cancel·lat.”$"
 

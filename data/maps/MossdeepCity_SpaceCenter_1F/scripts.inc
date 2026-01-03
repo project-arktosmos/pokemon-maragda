@@ -276,149 +276,148 @@ MossdeepCity_SpaceCenter_1F_Movement_MoveGruntFromStairs:
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
-	.string "The rocket's launch is imminent!$"
+	.string "El llançament del coet és imminent!$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "El coet s'ha llançat amb èxit!\n"
+	.string "Aquest és el llançament exitós núm. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.string "Sé que les coses estan una mica\n"
+	.string "descontrolades ara, però…\p"
+	.string "El llançament del coet és imminent!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Sé que les coses estan una mica\n"
+	.string "descontrolades ara, però…\p"
+	.string "El coet s'ha llançat amb èxit!\n"
+	.string "Aquest és el llançament exitós núm. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.string "Un llançament de coet exigeix perfecció.\n"
+	.string "No es permet ni un 1% de marge d'error.\p"
+	.string "Encara que el 99% estigui bé, tot és\n"
+	.string "inútil si l'1% no funciona.\p"
+	.string "Tot i això, mai deixem d'intentar-ho.\n"
+	.string "Per què? És un somni que mai acaba.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.string "Aquests brètols MAGMA tenen el punt\n"
+	.string "de mira posat al nostre CENTRE ESPACIAL.\p"
+	.string "Però no podem deixar que res tan menor\n"
+	.string "interfereixi amb el llançament del coet!$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.string "Estava passejant per la platja\n"
+	.string "quan he trobat això.\p"
+	.string "No és res que necessiti, així que\n"
+	.string "te'l pots quedar.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.string "La regió de HOENN és famosa per les\n"
+	.string "seves pluges de meteors des de fa temps.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.string "No podem deixar que l'EQUIP MAGMA\n"
+	.string "robi el combustible del coet.\p"
+	.string "Ah, per cert, pots quedar-te aquesta\n"
+	.string "pedra que he trobat a la platja.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.string "Amb l'EQUIP MAGMA per aquí, suposo\n"
+	.string "que passejar per la platja no és segur.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.string "Algunes persones diuen que els POKéMON\n"
+	.string "venen de l'espai. Serà veritat?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA should take care of\n"
-	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.string "L'EQUIP AQUA hauria d'ocupar-se de\n"
+	.string "l'EQUIP MAGMA!\p"
+	.string "Però si ho fessin, l'EQUIP AQUA es tornaria\n"
+	.string "atrevit i descaradut, no creus?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.string "Un tros enorme de metall travessa\n"
+	.string "els cels i vola cap a l'espai…\p"
+	.string "Em deixa la ment buida!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.string "Un tros enorme de metall travessa\n"
+	.string "els cels i vola cap a l'espai…\p"
+	.string "Però l'EQUIP MAGMA vol espatllar\n"
+	.string "aquest somni meu!\p"
+	.string "No ho puc permetre!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.string "MARC: {PLAYER}{KUN}, ja has llegit aquella\n"
+	.string "proclamació?\p"
+	.string "L'EQUIP MAGMA ve a buscar el combustible\n"
+	.string "de coet d'aquesta illa.\p"
+	.string "No sé per a què el necessiten,\n"
+	.string "però no podem deixar que se l'emportin.\p"
+	.string "Vigilaré les coses una estona més.\p"
+	.string "Mentrestant, per què no vas\n"
+	.string "a explorar el poble?$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.string "Com hem promès, hem vingut a buscar\n"
+	.string "el combustible del coet!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
-	.string "Ran out of fuel…$"
+	.string "M'he quedat sense combustible…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.string "No et pensis que ho tens tot fet\n"
+	.string "només perquè m'has derrotat!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.string "Us hem avisat de manera justa!\n"
+	.string "No hi ha res d'amagat en nosaltres!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
 	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.string "Hauríem d'haver utilitzat la traïció…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.string "D'acord, ja ho entenc! La pròxima vegada,\n"
+	.string "vindrem sense avisar.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.string "El combustible de coet que el CENTRE\n"
+	.string "ESPACIAL té emmagatzemat és el que volem.\p"
+	.string "Ens el pensem emportar tot!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.string "Si us plau, pots deixar-nos una mica\n"
+	.string "de combustible? Fins i tot un got val!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.string "Què farem amb el combustible\n"
+	.string "del coet?\p"
+	.string "Com ho sabria?\n"
+	.string "Pregunta al nostre líder a dalt!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.string "El nostre líder ha dit que ningú, però\n"
+	.string "ningú, passa per aquí!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
-	.string "Ack! Ack! Aaack!$"
+	.string "Ai! Ai! Aiii!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.string "Si us plau, digue'ls al nostre líder\n"
+	.string "que mai he abandonat el meu lloc.\l"
+	.string "Que m'he quedat fins al final amarg…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
-	.string "                                          TEAM MAGMA”$"
+	.string "Això és…\n"
+	.string "Un avís d'intenció de robatori?\p"
+	.string "“Al personal del CENTRE ESPACIAL:\n"
+	.string "Com esteu? Nosaltres bé.\p"
+	.string "“Aviat us visitarem per agafar el\n"
+	.string "vostre combustible de coet.\p"
+	.string "“Si us plau, no intenteu aturar-nos.\n"
+	.string "Agafarem el combustible sí o sí.\p"
+	.string "“Que hi hagi més terra!\n"
+	.string "                                          EQUIP MAGMA”$"

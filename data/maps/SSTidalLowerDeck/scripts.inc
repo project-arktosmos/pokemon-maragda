@@ -12,28 +12,28 @@ SSTidalLowerDeck_EventScript_Leonard::
 	end
 
 SSTidalLowerDeck_Text_PhillipIntro:
-	.string "Arrrgh! I'm fed up and dog-tired of\n"
-	.string "cleaning this huge place!\p"
-	.string "Let's have a quick battle!$"
+	.string "Arrrgh! Estic tip i mort de netejat\n"
+	.string "aquest lloc tan gran!\p"
+	.string "Fem un combat ràpid!$"
 
 SSTidalLowerDeck_Text_PhillipDefeat:
-	.string "Little bro, I lost!$"
+	.string "Germanet, he perdut!$"
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Som els GERMANS DE LA NETEJA!\p"
+	.string "El gran tira el detergent,\n"
+	.string "i el petit fa el fregall!$"
 
 SSTidalLowerDeck_Text_LeonardIntro:
-	.string "This is the bottom of the ship's hull.\n"
-	.string "There's plenty of room.\l"
-	.string "It'll be alright for a POKéMON battle.$"
+	.string "Això és el fons del buc del vaixell.\n"
+	.string "Hi ha molt d'espai.\l"
+	.string "Anirà bé per un combat POKéMON.$"
 
 SSTidalLowerDeck_Text_LeonardDefeat:
-	.string "Big bro, I lost!$"
+	.string "Germà gran, he perdut!$"
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
-	.string "We're the CLEANUP BROTHERS!\p"
-	.string "The old one dumps the detergent,\n"
-	.string "and the young one does the scrubbing!$"
+	.string "Som els GERMANS DE LA NETEJA!\p"
+	.string "El gran tira el detergent,\n"
+	.string "i el petit fa el fregall!$"
 

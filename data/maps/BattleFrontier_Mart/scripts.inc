@@ -45,21 +45,21 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "We came here to chaperon our\n"
-	.string "grandson.\p"
-	.string "But since we're here, we thought\n"
-	.string "we should get some souvenirs.$"
+	.string "Hem vingut a acompanyar el nostre\n"
+	.string "nét.\p"
+	.string "Però ja que hi som, hem pensat\n"
+	.string "que hauríem de comprar algun regal.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-	.string "Dear, what do you think of this?\n"
-	.string "Wouldn't this make a nice gift?\p"
-	.string "It's…PRO…TE…IN?\n"
-	.string "It sounds delicious, doesn't it?$"
+	.string "Carinyo, què et sembla això?\n"
+	.string "No seria un bon regal?\p"
+	.string "És…PRO…TE…Ï…NA?\n"
+	.string "Sona deliciós, oi?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
-	.string "A lot of the BATTLE FRONTIER's\n"
-	.string "facilities don't allow the use of items\l"
-	.string "during battles.\p"
-	.string "That rule makes things tougher than\n"
-	.string "they already are!$"
+	.string "Moltes instal·lacions de la FRONTERA\n"
+	.string "COMBAT no permeten l'ús d'objectes\l"
+	.string "durant els combats.\p"
+	.string "Aquesta regla fa les coses encara\n"
+	.string "més difícils!$"
 

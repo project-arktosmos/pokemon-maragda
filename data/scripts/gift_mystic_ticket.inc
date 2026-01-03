@@ -36,23 +36,23 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Gràcies per usar el Sistema de\n"
+	.string "REGAL MISTERI.\p"
+	.string "Tu deus ser {PLAYER}.\n"
+	.string "Hi ha un bitllet aquí per a tu.$"
 
 sText_MysticTicketUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Sembla que és per usar-lo al port\n"
+	.string "de CALAGUA.\p"
+	.string "Per què no ho proves i veus\n"
+	.string "de què es tracta?$"
 
 sText_MysticTicketThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Gràcies per usar el Sistema de\n"
+	.string "REGAL MISTERI.$"
 
 sText_MysticTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Oh, ho sento, {PLAYER}.\n"
+	.string "La BUTXACA D'OBJ. CLAU està plena.\p"
+	.string "Si us plau, guarda alguna cosa al PC,\n"
+	.string "i després torna a buscar això.$"

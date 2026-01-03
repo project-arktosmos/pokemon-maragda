@@ -1,13 +1,13 @@
 #include "global.h"
 
-const u8 gText_MysteryEventBerry[] = _("Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.");
-const u8 gText_MysteryEventBerryTransform[] = _("The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.");
-const u8 gText_MysteryEventBerryObtained[] = _("The {STR_VAR_1} BERRY has already been\nobtained.");
-const u8 gText_MysteryEventSpecialRibbon[] = _("A special RIBBON was awarded to\nyour party POKéMON.");
-const u8 gText_MysteryEventNationalDex[] = _("The POKéDEX has been upgraded\nwith the NATIONAL MODE.");
-const u8 gText_MysteryEventRareWord[] = _("A rare word has been added.");
-const u8 gText_MysteryEventSentOver[] = _("{STR_VAR_1} was sent over!");
-const u8 gText_MysteryEventFullParty[] = _("Your party is full.\n{STR_VAR_1} could not be sent over.");
-const u8 gText_MysteryEventNewTrainer[] = _("A new TRAINER has arrived in\nHOENN.");
-const u8 gText_MysteryEventNewAdversaryInBattleTower[] = _("A new adversary has arrived in the\nBATTLE TOWER.");
-const u8 gText_MysteryEventCantBeUsed[] = _("This data can't be used in\nthis version.");
+const u8 gText_MysteryEventBerry[] = _("Has obtingut una BAIA {STR_VAR_2}!\nEl pare la té al GIMNÀS PETÚNIA.");
+const u8 gText_MysteryEventBerryTransform[] = _("La BAIA {STR_VAR_1} s'ha transformat\nen una BAIA {STR_VAR_2}.");
+const u8 gText_MysteryEventBerryObtained[] = _("La BAIA {STR_VAR_1} ja ha estat\nobtinguda.");
+const u8 gText_MysteryEventSpecialRibbon[] = _("S'ha atorgat una CINTA especial\nals POKéMON del teu equip.");
+const u8 gText_MysteryEventNationalDex[] = _("La POKéDEX ha estat actualitzada\namb el MODE NACIONAL.");
+const u8 gText_MysteryEventRareWord[] = _("S'ha afegit una paraula rara.");
+const u8 gText_MysteryEventSentOver[] = _("S'ha enviat {STR_VAR_1}!");
+const u8 gText_MysteryEventFullParty[] = _("El teu equip és ple.\nNo s'ha pogut enviar {STR_VAR_1}.");
+const u8 gText_MysteryEventNewTrainer[] = _("Un nou ENTRENADOR ha arribat\na HOENN.");
+const u8 gText_MysteryEventNewAdversaryInBattleTower[] = _("Un nou adversari ha arribat\na la TORRE BATALLA.");
+const u8 gText_MysteryEventCantBeUsed[] = _("Aquestes dades no es poden usar\nen aquesta versió.");

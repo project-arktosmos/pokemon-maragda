@@ -68,39 +68,41 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Oh, sí, sóc l'ESBORRADOR DE MOVIMENTS.\p"
+	.string "Puc fer que els POKéMON oblidin\n"
+	.string "els seus moviments.\p"
+	.string "Vols que ho faci?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "Quin POKéMON hauria d'oblidar\n"
+	.string "un moviment?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Quin moviment hauria de ser oblidat?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1} només coneix un moviment,\n"
+	.string "així que no es pot oblidar…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Hm! {STR_VAR_2} de {STR_VAR_1}?\n"
+	.string "Aquest moviment hauria de ser oblidat?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Ha funcionat a la perfecció!\p"
+	.string "{STR_VAR_1} ha oblidat\n"
+	.string "{STR_VAR_2} completament.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Torna si hi ha moviments que\n"
+	.string "calgui oblidar.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Què?\n"
+	.string "Cap OU hauria de saber moviments.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "El teu {STR_VAR_1} no sembla disposat\n"
+	.string "a oblidar SURF.$"
 

@@ -18,22 +18,22 @@ GraniteCave_1F_EventScript_ReceivedFlash::
 	end
 
 GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
-	.string "Hey, you.\n"
-	.string "It gets awfully dark ahead.\l"
-	.string "It'll be tough trying to explore.\p"
-	.string "That guy who came by earlier…\n"
-	.string "STEVEN, I think it was.\p"
-	.string "He knew how to use FLASH, so he ought\n"
-	.string "to be all right, but…\p"
-	.string "Well, for us HIKERS, helping out those\n"
-	.string "that we meet is our motto.\p"
-	.string "Here you go, I'll pass this on to you.$"
+	.string "Ei, tu.\n"
+	.string "Més endavant es torna molt fosc.\l"
+	.string "Serà difícil explorar.\p"
+	.string "Aquell noi que va passar abans…\n"
+	.string "STEVEN, crec que es deia.\p"
+	.string "Sabia usar FLAIX, així que hauria\n"
+	.string "d'estar bé, però…\p"
+	.string "Bé, per a nosaltres els EXCURSIONISTES,\n"
+	.string "ajudar els que trobem és el nostre lema.\p"
+	.string "Aquí tens, et donaré això.$"
 
 GraniteCave_1F_Text_ExplainFlash:
-	.string "Teach that hidden move FLASH to\n"
-	.string "a POKéMON and use it.\p"
-	.string "It lights up even the inky darkness\n"
-	.string "of caves.\p"
-	.string "But, to use it, you need the GYM BADGE\n"
-	.string "from DEWFORD's POKéMON GYM.$"
+	.string "Ensenya el moviment ocult FLAIX\n"
+	.string "a un POKéMON i usa'l.\p"
+	.string "Il·lumina fins i tot la foscor més\n"
+	.string "absoluta de les coves.\p"
+	.string "Però, per usar-lo, necessites la MEDALLA\n"
+	.string "del GIMNÀS POKéMON de PUEBLO.$"
 

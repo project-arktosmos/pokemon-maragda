@@ -435,291 +435,285 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hello, this is the EXCHANGE SERVICE\n"
-	.string "CORNER.\p"
-	.string "We exchange the Battle Points you\n"
-	.string "have collected for lovely prizes.\p"
-	.string "Please choose a prize from this list.$"
+	.string "Hola, aquest és el RACÓ D'INTERCANVI.\p"
+	.string "Intercanviem els Punts de Combat que\n"
+	.string "has acumulat per premis fantàstics.\p"
+	.string "Si us plau, tria un premi d'aquesta llista.$"
 
 @ Unused
 BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
-	.string "Please choose a prize from this list.$"
+	.string "Si us plau, tria un premi d'aquesta llista.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster:
-	.string "You've chosen the KISS POSTER.\n"
-	.string "Is that correct?$"
+	.string "Has triat el PÒSTER PETÓ.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion:
-	.string "You've chosen the KISS CUSHION.\n"
-	.string "Is that correct?$"
+	.string "Has triat el COIXÍ PETÓ.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll:
-	.string "You've chosen the SMOOCHUM DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA SMOOCHUM.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll:
-	.string "You've chosen the TOGEPI DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA TOGEPI.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll:
-	.string "You've chosen the MEOWTH DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA MEOWTH.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
-	.string "You've chosen the CLEFAIRY DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA CLEFAIRY.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll:
-	.string "You've chosen the DITTO DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA DITTO.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll:
-	.string "You've chosen the CYNDAQUIL DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA CYNDAQUIL.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChikoritaDoll:
-	.string "You've chosen the CHIKORITA DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA CHIKORITA.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTotodileDoll:
-	.string "You've chosen the TOTODILE DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA TOTODILE.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLaprasDoll:
-	.string "You've chosen the LAPRAS DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA LAPRAS.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSnorlaxDoll:
-	.string "You've chosen the SNORLAX DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA SNORLAX.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmVenusaurDoll:
-	.string "You've chosen the VENUSAUR DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA VENUSAUR.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCharizardDoll:
-	.string "You've chosen the CHARIZARD DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA CHARIZARD.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll:
-	.string "You've chosen the BLASTOISE DOLL.\n"
-	.string "Is that correct?$"
+	.string "Has triat la NINA BLASTOISE.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein:
-	.string "You've chosen the PROTEIN.\n"
-	.string "Is that correct?$"
+	.string "Has triat la PROTEÏNA.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium:
-	.string "You've chosen the CALCIUM.\n"
-	.string "Is that correct?$"
+	.string "Has triat el CALCI.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron:
-	.string "You've chosen the IRON.\n"
-	.string "Is that correct?$"
+	.string "Has triat el FERRO.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc:
-	.string "You've chosen the ZINC.\n"
-	.string "Is that correct?$"
+	.string "Has triat el ZINC.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos:
-	.string "You've chosen the CARBOS.\n"
-	.string "Is that correct?$"
+	.string "Has triat el CARBOS.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp:
-	.string "You've chosen the HP UP.\n"
-	.string "Is that correct?$"
+	.string "Has triat el PS MÉS.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder:
-	.string "You've chosen the BRIGHTPOWDER.\n"
-	.string "Is that correct?$"
+	.string "Has triat la POLS BRILLANT.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb:
-	.string "You've chosen the WHITE HERB.\n"
-	.string "Is that correct?$"
+	.string "Has triat l'HERBA BLANCA.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw:
-	.string "You've chosen the QUICK CLAW.\n"
-	.string "Is that correct?$"
+	.string "Has triat l'URPA RÀPIDA.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb:
-	.string "You've chosen the MENTAL HERB.\n"
-	.string "Is that correct?$"
+	.string "Has triat l'HERBA MENTAL.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand:
-	.string "You've chosen the CHOICE BAND.\n"
-	.string "Is that correct?$"
+	.string "Has triat la CINTA ELECCIÓ.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKingsRock:
-	.string "You've chosen the KING'S ROCK.\n"
-	.string "Is that correct?$"
+	.string "Has triat la ROCA DEL REI.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand:
-	.string "You've chosen the FOCUS BAND.\n"
-	.string "Is that correct?$"
+	.string "Has triat la CINTA FOCUS.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens:
-	.string "You've chosen the SCOPE LENS.\n"
-	.string "Is that correct?$"
+	.string "Has triat la LENT ZOOM.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers:
-	.string "You've chosen the LEFTOVERS.\n"
-	.string "Is that correct?$"
+	.string "Has triat les RESTES.\n"
+	.string "És correcte?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Thank you!\n"
-	.string "We'll send it to your PC at home.$"
+	.string "Gràcies!\n"
+	.string "L'enviarem al teu PC de casa.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
-	.string "Here is your prize!$"
+	.string "Aquí tens el teu premi!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "I'm so sorry…\n"
-	.string "You don't have enough Battle Points…$"
+	.string "Ho sento molt…\n"
+	.string "No tens prou Punts de Combat…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "I'm so sorry…\n"
-	.string "Your PC appears to be full…$"
+	.string "Ho sento molt…\n"
+	.string "Sembla que el teu PC és ple…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "I'm so sorry…\n"
-	.string "You don't have space to hold it…$"
+	.string "Ho sento molt…\n"
+	.string "No tens espai per guardar-ho…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
-	.string "Thank you very much.\p"
-	.string "Please visit us when you have\n"
-	.string "saved up Battle Points.$"
+	.string "Moltes gràcies.\p"
+	.string "Si us plau, visita'ns quan hagis\n"
+	.string "acumulat Punts de Combat.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Oh, they're so nice!\n"
-	.string "I wish I had them!\l"
-	.string "Cute cushions!\l"
-	.string "Big plush DOLLS!\l"
-	.string "Little plush DOLLS!\l"
-	.string "I wish I had them all!$"
+	.string "Oh, són tan bonics!\n"
+	.string "M'agradaria tenir-los!\l"
+	.string "Coixins macos!\l"
+	.string "NINES de peluix grans!\l"
+	.string "NINES de peluix petites!\l"
+	.string "M'agradaria tenir-los tots!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
-	.string "If it's anything you want, I'll go\n"
-	.string "through anything to get it, honey!$"
+	.string "Deixa-ho a la teva mamà!\p"
+	.string "Si és qualsevol cosa que vulguis,\n"
+	.string "faré el que calgui per aconseguir-ho!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "If I can get hold of the items here,\n"
-	.string "my POKéMON will get tougher.\p"
-	.string "You bet they will!\n"
-	.string "No question about it!$"
+	.string "Si puc aconseguir els objectes d'aquí,\n"
+	.string "els meus POKéMON es faran més forts.\p"
+	.string "Segur que sí!\n"
+	.string "Cap dubte!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hah?\n"
-	.string "What are you gawking at?\p"
-	.string "I don't like you staring at my plush\n"
-	.string "doll like that.\p"
-	.string "If you want it, go get one yourself!\n"
-	.string "Isn't that right, SMOOCHUM?$"
+	.string "Eh?\n"
+	.string "Què mires?\p"
+	.string "No m'agrada que miris la meva nina\n"
+	.string "de peluix així.\p"
+	.string "Si la vols, aconsegueix-ne una tu!\n"
+	.string "Oi que sí, SMOOCHUM?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
-	.string "Did you know?\p"
-	.string "If you stretch your record at any of\n"
-	.string "the BATTLE facilities, they start\l"
-	.string "giving you more and more Battle Points.$"
+	.string "Ho sabies?\p"
+	.string "Si estens el teu rècord a qualsevol\n"
+	.string "de les instal·lacions de COMBAT,\l"
+	.string "comencen a donar-te més Punts de Combat.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "Un pòster gran amb un dibuix de SMOOCHUM.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Un coixí de SMOOCHUM.\n"
+	.string "Posa'l en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de SMOOCHUM.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de TOGEPI.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de MEOWTH.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de CLEFAIRY.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de DITTO.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de CYNDAQUIL.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de CHIKORITA.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA de TOTODILE.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Una NINA gran.\n"
+	.string "Posa-la en una estora o un escriptori.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
-	.string "POKéMON.$"
+	.string "Augmenta l'ATAC d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
-	.string "POKéMON.$"
+	.string "Augmenta l'AT. ESP. d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
-	.string "POKéMON.$"
+	.string "Augmenta la DEFENSA d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
-	.string "POKéMON.$"
+	.string "Augmenta la DEF. ESP. d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
-	.string "POKéMON.$"
+	.string "Augmenta la VELOCITAT d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "Augmenta els PS d'un POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "Objecte equipable que restaura PS\n"
+	.string "gradualment en combat.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "Objecte equipable que restaura\n"
+	.string "qualsevol estat reduït.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "Objecte equipable que de vegades\n"
+	.string "permet atacar primer.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "Objecte equipable que treu el\n"
+	.string "POKéMON de l'enamorament.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "Objecte equipable que redueix la\n"
+	.string "precisió del rival.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "Augmenta la potència d'un moviment,\n"
+	.string "però només permet usar-ne un.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "Objecte equipable que pot fer\n"
+	.string "retrocedir el rival en colpejar-lo.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "Objecte equipable que de vegades\n"
+	.string "evita el desmai.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "Objecte equipable que augmenta el\n"
+	.string "ràtio de cops crítics.$"

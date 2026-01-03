@@ -37,41 +37,41 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
+	.string "{PLAYER} ha escrit el codi secret\n"
+	.string "a la porta.\p"
+	.string "“El MESTRE DELS TRUCS és fabulós.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "El pany s'ha obert!$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the CUT we just learned!$"
+	.string "M'obriré pas cap a la victòria\n"
+	.string "amb el TALLAR que acabem d'aprendre!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
-	.string "Why are you so serious?$"
+	.string "Per què ets tan seriós?$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.string "Mai em canso de tallar\n"
+	.string "i retallar!$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.string "He entrat a aquesta casa estranya\n"
+	.string "per accident…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
-	.string "And now I've lost…$"
+	.string "I ara he perdut…$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.string "M'he perdut, he perdut un combat, i ara\n"
+	.string "estic més perdut… No puc sortir…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the TRICK MASTER?$"
+	.string "Qui és el MESTRE DELS TRUCS?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
-	.string "I lost while I was lost in thought!$"
+	.string "He perdut mentre estava distret!$"
 
 Route110_TrickHousePuzzle1_Text_RobinPostBattle:
-	.string "You're strong!\n"
-	.string "Just who are you?$"
+	.string "Ets fort!\n"
+	.string "Qui ets tu?$"
 

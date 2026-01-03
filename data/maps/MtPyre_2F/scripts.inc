@@ -43,93 +43,93 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-	.string "My eyes overflow thinking about it.$"
+	.string "Records del meu estimat SKITTY…\n"
+	.string "Em ploren els ulls només de pensar-hi.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
-	.string "ground here and there.\p"
-	.string "I didn't notice and took a tumble from\n"
-	.string "the floor above.$"
+	.string "Ai, ai… Hi ha forats al terra\n"
+	.string "per tot arreu.\p"
+	.string "No me n'he adonat i he caigut\n"
+	.string "del pis de dalt.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-	.string "You came along after me! You're rude!$"
+	.string "Ei! Estàs buscant POKéMON?\n"
+	.string "Has vingut darrere meu! Quin morro!$"
 
 MtPyre_2F_Text_MarkDefeat:
-	.string "Ayieeeeh!\n"
-	.string "I'm sorry, forgive me, please!$"
+	.string "Aiiiii!\n"
+	.string "Ho sento, perdona'm, si us plau!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "La gent no sol venir aquí, així que\n"
+	.string "pensava que hi hauria POKéMON rars.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-	.string "Heheh, if I show her how cool I am,\n"
-	.string "she'll fall for me. I know it!\p"
-	.string "I know! I'll cream you and show her\n"
-	.string "how cool I am!$"
+	.string "LUKE: Som aquí per una aposta.\p"
+	.string "Jejej, si li ensenyo com de guai sóc,\n"
+	.string "s'enamorarà de mi. Ho sé!\p"
+	.string "Ja ho tinc! Et destrossaré i li\n"
+	.string "ensenyaré com de guai sóc!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "LUKE: Upa!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
+	.string "LUKE: Bé, hem perdut però no passa res!\n"
+	.string "Estic aquí al teu costat.\l"
+	.string "Superarem aquesta aposta junts!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
+	.string "LUKE: Si vols enfrontar-te a mi,\n"
+	.string "porta més POKéMON.\p"
+	.string "Si no, no podré lluir-me davant\n"
+	.string "la meva noia!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-	.string "boyfriend.\p"
-	.string "It's really scary, but I'm with my\n"
-	.string "boyfriend. It's okay.\p"
-	.string "I know! I'll get my boyfriend to look\n"
-	.string "cool by beating you!$"
+	.string "DEZ: He vingut aquí per una aposta\n"
+	.string "amb el meu nòvio.\p"
+	.string "Fa molta por, però estic amb el\n"
+	.string "meu nòvio. Tot bé.\p"
+	.string "Ja ho tinc! Faré que el meu nòvio\n"
+	.string "quedi bé guanyant-te!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "DEZ: Buaaa! Tinc por!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
+	.string "DEZ: Estem enamoradíssims, així que\n"
+	.string "no ens importa perdre!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "DEZ: Si vols desafiar-nos, hauries\n"
+	.string "de portar almenys dos POKéMON.\p"
+	.string "El meu nòvio és fort.\n"
+	.string "Un sol POKéMON no serà suficient.$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "You are an unfamiliar sight…\n"
-	.string "Depart before anything befalls you!$"
+	.string "Ets una cara desconeguda…\n"
+	.string "Marxa abans que et passi res!$"
 
 MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm…\n"
-	.string "You're durable.$"
+	.string "Ets resistent.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-	.string "since my great-grandmother's time…\p"
-	.string "It is my duty to protect this\n"
-	.string "mountain…$"
+	.string "La nostra família ha estat ENTRENADORA\n"
+	.string "aquí des de la meva besàvia…\p"
+	.string "És el meu deure protegir\n"
+	.string "aquesta muntanya…$"
 
 MtPyre_2F_Text_ZanderIntro:
 	.string "Kiyaaaaah!\n"
-	.string "I'm terrified!$"
+	.string "Estic aterrit!$"
 
 MtPyre_2F_Text_ZanderDefeat:
 	.string "Nooooooo!\n"
-	.string "I lost my wits!$"
+	.string "He perdut els nervis!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "I get freaked out every time I see\n"
-	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "M'espanto cada vegada que veig\n"
+	.string "alguna cosa moure's…\p"
+	.string "No hauria d'haver vingut a entrenar aquí…$"
 

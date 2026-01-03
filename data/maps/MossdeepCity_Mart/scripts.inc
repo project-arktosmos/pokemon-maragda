@@ -37,22 +37,24 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "REVIVE is fantastic!\p"
-	.string "Give it to a fainted POKéMON,\n"
-	.string "and the POKéMON will arise.\p"
-	.string "But be careful, REVIVE doesn't restore\n"
-	.string "the used-up PP of moves.$"
+	.string "El REVISCOLA és fantàstic!\p"
+	.string "Dóna-li'l a un POKéMON desmaia,\n"
+	.string "i el POKéMON ressuscitarà.\p"
+	.string "Però ves amb compte, el REVISCOLA no\n"
+	.string "restaura els PP gastats dels moviments.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL keeps all weak POKéMON away.\p"
-	.string "Out of all the REPEL sprays, it lasts\n"
-	.string "the longest.$"
+	.string "El MÀXIM REPEL manté lluny tots\n"
+	.string "els POKéMON febles.\p"
+	.string "De tots els aerosols REPEL, és el\n"
+	.string "que dura més.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "The NET and DIVE BALLS are rare POKé\n"
-	.string "BALLS that are only made in MOSSDEEP.\p"
-	.string "A NET BALL is effective against\n"
-	.string "BUG-type and WATER-type POKéMON.\p"
-	.string "A DIVE BALL works best on POKéMON\n"
-	.string "at the bottom of the sea.$"
+	.string "Les BALL XARXA i BUSSEIG són POKé\n"
+	.string "BALLS rares que només es fan a\l"
+	.string "ALGUERSUARI.\p"
+	.string "Una BALL XARXA és efectiva contra\n"
+	.string "POKéMON de tipus INSECTE i AIGUA.\p"
+	.string "Una BALL BUSSEIG funciona millor amb\n"
+	.string "POKéMON al fons del mar.$"
 

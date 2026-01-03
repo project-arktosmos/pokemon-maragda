@@ -315,78 +315,78 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{PLAYER} ha escrit el codi secret\n"
+	.string "a la porta.\p"
+	.string "“El MESTRE DELS TRUCS és abraçable.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "El pany s'ha obert!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "El MESTRE DELS TRUCS sempre desapareix\n"
+	.string "com el fum. Com ho fa?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aiyeeeh! Ets massa fort!\n"
+	.string "Com ho fas?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "M'agradaria poder aparèixer i desaparèixer\n"
+	.string "com si fos fum, també.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Donant voltes al mateix lloc…\n"
+	.string "Porta mala sort…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Derrotat!\n"
+	.string "És un mal senyal…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "He donat voltes al mateix lloc més de\n"
+	.string "deu vegades… Porta mala sort…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Qui guanyi passarà primer d'aquí.\n"
+	.string "Tinc aquesta sensació.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
 	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Bé, endavant, doncs!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "Estàs resolent tots els trencaclosques de\n"
+	.string "la CASA DELS TRUCS. Tinc aquesta sensació.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Nufufufu, per fi aquí!\n"
+	.string "Anem-hi de seguida!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Guanyes tan tranquil·lament!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Humph! No estic enfadada!\n"
+	.string "Jo no!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "T'he observat molt de prop venint!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Aquest resultat no me l'esperava…$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Bé, de totes maneres, tots dos hem\n"
+	.string "triat un lloc estrany per conèixer-nos.\p"
+	.string "D'un raret a un altre,\n"
+	.string "donem-ho tot!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "És molt estret aquí dins…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Oh, sí, fort ets.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Esperava canviar-te el lloc quan\n"
+	.string "et vencés, però…$"
 

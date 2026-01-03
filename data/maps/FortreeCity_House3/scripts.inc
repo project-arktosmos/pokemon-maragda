@@ -10,20 +10,20 @@ FortreeCity_House3_EventScript_SchoolKidM::
 	end
 
 FortreeCity_House3_Text_MetStevenHadAmazingPokemon:
-	.string "While speaking about POKéDEXES,\n"
-	.string "I remembered something.\p"
-	.string "I met this TRAINER, STEVEN, when\n"
-	.string "I was searching for rare stones.\p"
-	.string "Hoo, boy, he had some amazing POKéMON\n"
-	.string "with him.\p"
-	.string "They weren't just rare, they were\n"
-	.string "trained to terrifying extremes!\p"
-	.string "He might even be stronger than the\n"
-	.string "GYM LEADER in this town…$"
+	.string "Parlant de POKéDEX,\n"
+	.string "m'he recordat d'una cosa.\p"
+	.string "Vaig conèixer un ENTRENADOR, el SEBI,\n"
+	.string "quan buscava pedres rares.\p"
+	.string "Caram, tenia uns POKéMON increïbles\n"
+	.string "amb ell.\p"
+	.string "No només eren rars, estaven\n"
+	.string "entrenats fins a extrems terrorífics!\p"
+	.string "Podria ser fins i tot més fort que\n"
+	.string "la LÍDER DE GIMNÀS d'aquesta ciutat…$"
 
 FortreeCity_House3_Text_OhYouHavePokedex:
-	.string "What's that thing you have there?\p"
+	.string "Què és això que tens aquí?\p"
 	.string "… … … … … …\p"
-	.string "Oh, it's called a POKéDEX?\n"
-	.string "It's really awesome!$"
+	.string "Oh, es diu POKéDEX?\n"
+	.string "És realment impressionant!$"
 

@@ -38,6 +38,6 @@ MysteryGift_Text_TheresATicketForYou::
 
 MysteryGift_Text_TryUsingItAtLilycovePort::
 	.string "Sembla que és per usar al\n"
-	.string "port de CIUTAT PORTALBA.\p"
+	.string "port de CALAGUA.\p"
 	.string "Per què no ho proves i veus\n"
 	.string "de què es tracta?$"

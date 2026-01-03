@@ -50,32 +50,32 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "Huh? My POKéMON is cute?\n"
-	.string "Sure, I knew that.\p"
-	.string "But if you really want, I'm willing\n"
-	.string "to trade it to you.\p"
-	.string "I'll trade you my {STR_VAR_2} for\n"
-	.string "a {STR_VAR_1} if you want.$"
+	.string "Eh? El meu POKéMON és bonic?\n"
+	.string "Sí, ja ho sabia.\p"
+	.string "Però si realment vols, estic disposat\n"
+	.string "a intercanviar-te'l.\p"
+	.string "T'intercanviaré el meu {STR_VAR_2} per\n"
+	.string "un {STR_VAR_1} si vols.$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
 	.string "Eheheh…\n"
-	.string "Please be good to my POKéMON.$"
+	.string "Sisplau, cuida bé el meu POKéMON.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
-	.string "Huh? That doesn't look anything like\n"
-	.string "a {STR_VAR_1} to me.$"
+	.string "Eh? Això no s'assembla gens a\n"
+	.string "un {STR_VAR_1} per a mi.$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
-	.string "Oh, if you don't want to, that's okay.\n"
-	.string "But my POKéMON is cute, you know…$"
+	.string "Oh, si no vols, està bé.\n"
+	.string "Però el meu POKéMON és bonic, saps…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
-	.string "Any POKéMON can be cute if you raise\n"
-	.string "it with care and kindness.$"
+	.string "Qualsevol POKéMON pot ser bonic si\n"
+	.string "el cries amb cura i amabilitat.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
-	.string "In all sorts of places, there are all\n"
-	.string "sorts of POKéMON and people.\p"
-	.string "I find that fascinating, so I go to all\n"
-	.string "sorts of places.$"
+	.string "A tot tipus de llocs, hi ha tot\n"
+	.string "tipus de POKéMON i persones.\p"
+	.string "Trobo això fascinant, així que vaig\n"
+	.string "a tot tipus de llocs.$"
 

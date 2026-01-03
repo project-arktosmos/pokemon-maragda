@@ -100,42 +100,42 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is smart.”\n"
+	.string "{PLAYER} ha escrit el codi secret\n"
+	.string "a la porta.\p"
+	.string "“El MESTRE DELS TRUCS és intel·ligent.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "El pany s'ha obert!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Quin interruptor tanca quin forat?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "Després d'aquest combat, estic\n"
+	.string "encara més confós!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "Podries prémer tots els botons\n"
+	.string "per mi?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second TRICK HOUSE\n"
-	.string "challenge!$"
+	.string "Oh! Estàs al teu segon desafiament\n"
+	.string "de la CASA DELS TRUCS!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "També ets bo combatent?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The TRICK MASTER rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "El MESTRE DELS TRUCS va preparar tots\n"
+	.string "els trucs d'aquesta casa ell sol.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own GYM one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "Vull fer el meu propi GIMNÀS algun dia.\n"
+	.string "Així que estudio com posar trampes.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "No he estudiat prou els combats!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a GYM LEADER!$"
+	.string "Ets fort, oi?\n"
+	.string "Potser prou per ser LÍDER DE GIMNÀS!$"
 

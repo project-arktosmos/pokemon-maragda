@@ -85,12 +85,13 @@ Route112_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
-	.string "The CABLE CAR is ready to go up.\n"
-	.string "Would you like to be on it?$"
+	.string "El TELEFÈRIC està a punt per pujar.\n"
+	.string "T'agradaria pujar-hi?$"
 
 Route112_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Sisplau, passa per aquí.$"
 
 Route112_CableCarStation_Text_RideAnotherTime:
-	.string "Please ride with us another time.$"
+	.string "Sisplau, puja amb nosaltres\n"
+	.string "una altra vegada.$"
 

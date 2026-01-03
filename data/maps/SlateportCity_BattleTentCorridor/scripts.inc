@@ -154,122 +154,122 @@ SlateportCity_BattleTentCorridor_Movement_AttendantExit:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 SlateportCity_ContestHall_Text_AdviceForContests:
-	.string "Want a tasty little bit of advice\n"
-	.string "for CONTESTS?\p"
-	.string "Using a certain move after another\n"
-	.string "certain kind of move sometimes gets\l"
-	.string "you extra attention.\p"
-	.string "If you know what you're doing,\n"
-	.string "you can score big in appeal.\p"
-	.string "Of course, your opponents might try\n"
-	.string "disrupting your POKéMON's showing.$"
+	.string "Vols un petit consell sucós per als\n"
+	.string "CONCURSOS?\p"
+	.string "Usar un cert moviment després d'un\n"
+	.string "altre tipus de moviment de vegades\l"
+	.string "t'aconsegueix atenció extra.\p"
+	.string "Si saps el que fas, pots aconseguir\n"
+	.string "molts punts en l'exhibició.\p"
+	.string "És clar, els teus oponents podrien\n"
+	.string "intentar pertorbar el teu POKéMON.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he's a CONTEST JUDGE.\p"
-	.string "I wonder what I should be when I\n"
-	.string "grow up, a JUDGE or a GYM LEADER?$"
+	.string "El meu papa és un JURAT DE CONCURS.\p"
+	.string "Em pregunto què hauria de ser quan\n"
+	.string "sigui gran, JURAT o LÍDER DE GIMNÀS?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
-	.string "Hey, man, I'm like majorly cheesed,\n"
-	.string "you know. Like, you know, I just\l"
-	.string "wanted to know why my POKéMON\l"
-	.string "never won, you know, like, hey?\p"
-	.string "So, like, I gave the JUDGE my two\n"
-	.string "cents, you know, they're free.\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "Ei, tio, estic com super emprenyat,\n"
+	.string "saps. Com, saps, només volia\l"
+	.string "saber per què el meu POKéMON\l"
+	.string "mai no guanyava, saps, com, eh?\p"
+	.string "Llavors, com, vaig donar al JURAT la\n"
+	.string "meva opinió, saps, és gratis.\p"
+	.string "I no em va escoltar, com, eh!\n"
+	.string "Llavors, com, quin pal, tio!\p"
+	.string "Ei, com, tu! Calla, saps?\n"
+	.string "Només, saps, pren això!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "Això és, com, la MT41, saps?\n"
+	.string "Ei, és TURMENT, m'escoltes?\p"
+	.string "Com, no deixa que l'altre tio usi\n"
+	.string "el mateix moviment dos cops seguits.\p"
+	.string "Ei, ara, escolta'm bé, com,\n"
+	.string "no t'estic turmentant a tu!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:
-	.string "MC: Oh, my, my!\n"
-	.string "Now isn't that a dandy of a POKéMON?\p"
-	.string "Please! Do step right up and take\n"
-	.string "part in our splendid CONTESTS!\p"
-	.string "You'll do well! I'm sure of it!\n"
-	.string "My eyes have never failed me!$"
+	.string "PRESENTADOR: Oh, mare meva!\n"
+	.string "Això no és un POKéMON fantàstic?\p"
+	.string "Si us plau! Vine i participa\n"
+	.string "en els nostres esplèndids CONCURSOS!\p"
+	.string "Ho faràs bé! N'estic segur!\n"
+	.string "Els meus ulls mai no m'han fallat!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
-	.string "JUDGE: Well, hello there!\n"
-	.string "I see that you're a TRAINER!\p"
-	.string "Then, it just wouldn't do for you\n"
-	.string "to miss a POKéMON CONTEST!\p"
-	.string "Get a CONTEST PASS in VERDANTURF\n"
-	.string "CITY and enter anytime!$"
+	.string "JURAT: Bé, hola!\n"
+	.string "Veig que ets un ENTRENADOR!\p"
+	.string "Doncs, no estaria bé que et\n"
+	.string "perdessis un CONCURS POKéMON!\p"
+	.string "Aconsegueix un PASSI CONCURS a\n"
+	.string "POBLE VERD i entra quan vulguis!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "It's appeal time!\n"
-	.string "What should I lead with?$"
+	.string "És hora de l'exhibició!\n"
+	.string "Amb què hauria de començar?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "They didn't pay much attention to\n"
-	.string "my POKéMON's appeal…\p"
-	.string "Humph, that JUDGE, he doesn't know\n"
-	.string "a good thing when he sees it.$"
+	.string "No han prestat gaire atenció a\n"
+	.string "l'exhibició del meu POKéMON…\p"
+	.string "Bah, aquest JURAT no reconeix\n"
+	.string "una cosa bona quan la veu.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
-	.string "Oh, hi! You must be a serious fan to get\n"
-	.string "this close to the action.\p"
-	.string "I'll reward your enthusiasm with\n"
-	.string "this sage advice.\p"
-	.string "If a move goes over really well,\n"
-	.string "the audience will get excited.\p"
-	.string "The POKéMON that makes its appeal\n"
-	.string "right when everyone's excited…\p"
-	.string "Well, you'd think something good has\n"
-	.string "to happen!$"
+	.string "Oh, hola! Has de ser un fan seriós per\n"
+	.string "arribar tan a prop de l'acció.\p"
+	.string "Recompensaré el teu entusiasme amb\n"
+	.string "aquest consell savi.\p"
+	.string "Si un moviment funciona molt bé,\n"
+	.string "el públic s'emocionarà.\p"
+	.string "El POKéMON que fa la seva exhibició\n"
+	.string "just quan tothom està emocionat…\p"
+	.string "Bé, pensaries que alguna cosa bona\n"
+	.string "ha de passar!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MoreFreakedOutThanMon:
-	.string "I can't do this! I'm more freaked out\n"
-	.string "than my POKéMON.\p"
-	.string "I'm shivering and my heart is racing!$"
+	.string "No puc fer-ho! Estic més nerviós\n"
+	.string "que el meu POKéMON.\p"
+	.string "Estic tremolant i el cor em batega!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_BattleAndContestAlike:
-	.string "A battle and a CONTEST aren't the\n"
-	.string "same, but they are alike, too.\p"
-	.string "You need to work hard and believe\n"
-	.string "in the POKéMON you've raised.$"
+	.string "Un combat i un CONCURS no són el\n"
+	.string "mateix, però també s'assemblen.\p"
+	.string "Has de treballar dur i creure\n"
+	.string "en el POKéMON que has criat.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "That POKéMON looks like it's on top\n"
-	.string "of its game, huh?\p"
-	.string "A POKéMON that does good in the\n"
-	.string "secondary judging seems to be more\l"
-	.string "relaxed when it's doing appeals.$"
+	.string "Aquell POKéMON sembla que està en\n"
+	.string "plena forma, eh?\p"
+	.string "Un POKéMON que ho fa bé en la\n"
+	.string "segona ronda sembla més relaxat\l"
+	.string "quan fa les exhibicions.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyMonBetterThanThatLot:
-	.string "Will you look at that sorry sight?\p"
-	.string "Heh, my POKéMON's absolutely better\n"
-	.string "than that lot!$"
+	.string "Mira quin espectacle tan trist?\p"
+	.string "Heh, el meu POKéMON és absolutament\n"
+	.string "millor que tots aquests!$"
 
 @ Unused
 SlateportCity_ContestHall_Text_GetUrgeToMoveWithMon:
-	.string "Don't you get the urge to move with\n"
-	.string "POKéMON if they're putting on an\l"
-	.string "energetic appeal?$"
+	.string "No tens ganes de moure't amb els\n"
+	.string "POKéMON si estan fent una exhibició\l"
+	.string "energètica?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_HyperRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "HYPER RANK STAGE!$"
+	.string "CONCURSOS POKéMON\n"
+	.string "ESCENARI RANG HYPER!$"
 

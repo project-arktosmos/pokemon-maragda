@@ -139,45 +139,45 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.$"
+	.string "Benvinguts als GRANS MAGATZEMS CALAGUA.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Whenever I come to the DEPARTMENT\n"
-	.string "STORE, I always end up buying all sorts\l"
-	.string "of things because it's so fun.$"
+	.string "Sempre que vinc als GRANS MAGATZEMS,\n"
+	.string "acabo comprant de tot perquè\l"
+	.string "és molt divertit.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
-	.string "nice furniture.$"
+	.string "Avui, la meva mare em comprarà\n"
+	.string "uns mobles bonics.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "I'm buying something for my AZUMARILL\n"
-	.string "as a reward for winning a CONTEST.$"
+	.string "Compro alguna cosa pel meu AZUMARILL\n"
+	.string "com a recompensa per guanyar un CONCURS.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
-	.string "AZUMARILL: Maririroo!$"
+	.string "AZUMARILL: Mariririuu!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "1F: SERVICE COUNTER\n"
-	.string "    LOTTERY CORNER\p"
-	.string "2F: TRAINER'S ZONE\p"
-	.string "3F: BATTLE COLLECTION\p"
-	.string "4F: TM CORNER\p"
-	.string "5F: POKé DOLL FLOOR\p"
-	.string "ROOFTOP: ROOFTOP PLAZA$"
+	.string "1P: TAULELL DE SERVEI\n"
+	.string "    RACÓ DE LA LOTERIA\p"
+	.string "2P: ZONA D'ENTRENADORS\p"
+	.string "3P: COL·LECCIÓ COMBAT\p"
+	.string "4P: RACÓ MT\p"
+	.string "5P: PLANTA DE NINES POKé\p"
+	.string "TERRAT: PLAÇA DEL TERRAT$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:
-	.string "Wireless Communication is a\n"
-	.string "lot of fun, isn't it?\p"
-	.string "I think it lets you do things that\n"
-	.string "weren't possible before.\p"
-	.string "For instance, you can now trade\n"
-	.string "with people you couldn't before.\p"
-	.string "I think it's going to be exciting!$"
+	.string "La Comunicació Sense Fil és molt\n"
+	.string "divertida, no creus?\p"
+	.string "Crec que et permet fer coses que\n"
+	.string "abans no eren possibles.\p"
+	.string "Per exemple, ara pots intercanviar\n"
+	.string "amb gent que abans no podies.\p"
+	.string "Crec que serà emocionant!$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm:
-	.string "I want to spread the word about how\n"
-	.string "fun Wireless Communication can be.$"
+	.string "Vull escampar la veu sobre com de\n"
+	.string "divertida pot ser la Comunicació Sense Fil.$"
 

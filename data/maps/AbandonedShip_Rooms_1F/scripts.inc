@@ -32,46 +32,46 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
-	.string "taking a look around.\p"
+	.string "Vaixells d'aquest tipus són rars,\n"
+	.string "així que estic fent una ullada.\p"
 	.string "Hmhm…\n"
-	.string "There appear to be other cabins…$"
+	.string "Sembla que hi ha altres cabines…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-	.string "What on earth would compel you to\n"
-	.string "come here? You must be curious!$"
+	.string "Què t'ha impulsat a venir aquí?\n"
+	.string "Deus ser molt curiós!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Not just curious, but also strong…$"
+	.string "No només curiós, sinó també fort…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-	.string "The man next door…\p"
-	.string "He says he's just sightseeing,\n"
-	.string "but I don't know about that.$"
+	.string "L'home de la porta del costat…\p"
+	.string "Diu que només està fent turisme,\n"
+	.string "però no n'estic segura.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
-	.string "Let me register you as a memento!$"
+	.string "Ets un ENTRENADOR molt dur!\n"
+	.string "Deixa'm registrar-te com a record!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-	.string "What on earth would compel you to\n"
-	.string "come back? You must really be curious!$"
+	.string "Què t'ha impulsat a tornar?\n"
+	.string "Deus ser molt curiós de debò!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Aren't you too strong?$"
+	.string "No ets massa fort?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
-	.string "He just acts so suspiciously!$"
+	.string "Estic segura que aquell home trama\n"
+	.string "alguna cosa! Actua tan sospitosament!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-	.string "Waaah!\n"
-	.string "I've been found! …Huh?$"
+	.string "Aaaah!\n"
+	.string "M'han trobat! …Eh?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "Oh, no ets la meva mare.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
-	.string "Keep it a secret where I am!$"
+	.string "Estic en problemes amb la mare, i he\n"
+	.string "fugit. Mantén en secret on sóc!$"
 

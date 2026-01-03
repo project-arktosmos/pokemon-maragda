@@ -739,86 +739,87 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "TEAM AQUA's activities…\n"
-	.string "We can't talk about them yet.$"
+	.string "Les activitats de l'EQUIP AQUA…\n"
+	.string "Encara no en podem parlar.$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to SLATEPORT and\n"
-	.string "kick up a ruckus!$"
+	.string "Vull anar a PORTLAVANDA i\n"
+	.string "armar-hi un bon sarau!$"
 
 Route110_Text_MyFirstJobInAqua:
-	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "Aquesta és la meva primera feina\n"
+	.string "des que vaig unir-me a l'EQUIP AQUA.\l"
+	.string "Fa una mica de por.$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "TEAM AQUA's actions should bring\n"
-	.string "smiles to people's faces!$"
+	.string "Les accions de l'EQUIP AQUA haurien\n"
+	.string "de portar somriures a la gent!$"
 
 Route110_Text_MayLetsBattle:
-	.string "MAY: Hi, {PLAYER}{KUN}, long time no see!\p"
-	.string "While I was searching for other\n"
-	.string "POKéMON, my POKéMON grew stronger.\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "AURA: Hola, {PLAYER}{KUN}, quant de temps!\p"
+	.string "Mentre buscava altres POKéMON,\n"
+	.string "els meus POKéMON es van fer més forts.\p"
+	.string "Així que…\n"
+	.string "Què tal una petita batalla?$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Ui!\n"
+	.string "Ets millor del que esperava!$"
 
 Route110_Text_MayTakeThis:
-	.string "MAY: {PLAYER}{KUN}, you've been busy\n"
-	.string "training, too, haven't you?\p"
-	.string "I think you deserve a reward!\n"
-	.string "This is from me!$"
+	.string "AURA: {PLAYER}{KUN}, tu també has estat\n"
+	.string "entrenant molt, oi?\p"
+	.string "Crec que et mereixes un premi!\n"
+	.string "Això és de part meva!$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "MAY: That's an ITEMFINDER.\p"
-	.string "Try it out. If there is an item that's\n"
-	.string "not visible, it emits a sound.\p"
-	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
-	.string "I know it's a little silly coming from\n"
-	.string "me, but I think you should train a lot\l"
-	.string "harder for the next time.$"
+	.string "AURA: Això és un BUSCAOBJETES.\p"
+	.string "Prova-ho. Si hi ha un objecte que\n"
+	.string "no és visible, emet un so.\p"
+	.string "D'acord, {PLAYER}{KUN}, ens veiem!\p"
+	.string "Sé que sona una mica ridícul venint\n"
+	.string "de mi, però crec que hauries d'entrenar\l"
+	.string "molt més per a la propera vegada.$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "BRENDAN: Hey, {PLAYER}.\n"
-	.string "So this is where you were.\l"
-	.string "How's it going?\p"
-	.string "Have you been raising your POKéMON?\n"
-	.string "I'll check for you.$"
+	.string "BLAI: Ei, {PLAYER}.\n"
+	.string "Així que aquí estaves.\l"
+	.string "Com va?\p"
+	.string "Has estat criant els teus POKéMON?\n"
+	.string "Ho comprovaré.$"
 
 Route110_Text_BrendanDefeated:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Ets força bo.$"
 
 Route110_Text_BrendanTakeThis:
-	.string "BRENDAN: {PLAYER}, you've trained\n"
-	.string "without me noticing…\p"
-	.string "Good enough!\n"
-	.string "Here, take this.$"
+	.string "BLAI: {PLAYER}, has entrenat\n"
+	.string "sense que me n'adonés…\p"
+	.string "Prou bé!\n"
+	.string "Té, agafa això.$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "BRENDAN: That's an ITEMFINDER.\p"
-	.string "Use it to root around for items that\n"
-	.string "aren't visible.\p"
-	.string "If it senses something, it emits\n"
-	.string "a sound.\p"
-	.string "Anyway, I'm off to look for new\n"
+	.string "BLAI: Això és un BUSCAOBJETES.\p"
+	.string "Utilitza'l per buscar objectes que\n"
+	.string "no són visibles.\p"
+	.string "Si detecta alguna cosa, emet\n"
+	.string "un so.\p"
+	.string "Bé, me'n vaig a buscar nous\n"
 	.string "POKéMON.$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "Wouldn't it be great to ride a BIKE\n"
-	.string "at full speed on CYCLING ROAD?$"
+	.string "No seria genial anar amb BICI\n"
+	.string "a tota velocitat pel CAMÍ CICLISTA?$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
-	.string "I grew my hair out just for that.$"
+	.string "T'agrada com el meu cabell negre\n"
+	.string "com el corb ondeja darrere meu?\p"
+	.string "M'he deixat créixer el cabell per això.$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, hey, you got that BIKE from RYDEL!\p"
-	.string "Oh, it's glaringly obvious.\n"
-	.string "It says right on your bike…\p"
+	.string "Oh, ei, tens aquesta BICI d'en RYDEL!\p"
+	.string "Oh, és molt obvi.\n"
+	.string "Ho diu a la teva bici…\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
@@ -828,162 +829,163 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\n"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL,\p"
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
-	.string "That name's everywhere.\p"
-	.string "You should ride it around all over\n"
-	.string "the place--it's good advertising!$"
+	.string "El nom és a tot arreu.\p"
+	.string "Hauries de fer-la servir per tot arreu,\n"
+	.string "és bona publicitat!$"
 
 Route110_Text_TwoRoads:
-	.string "The two roads, one above, one below…\p"
-	.string "A road each for people and POKéMON.\n"
-	.string "Perhaps that is right and fair.$"
+	.string "Els dos camins, un a dalt, un a baix…\p"
+	.string "Un camí per a la gent i els POKéMON.\n"
+	.string "Potser és el que és just.$"
 
 Route110_Text_WalkOnTheLowRoad:
-	.string "I don't have a BIKE, so I'll take\n"
-	.string "a leisurely walk on the low road.$"
+	.string "No tinc BICI, així que faré\n"
+	.string "un passeig tranquil pel camí de baix.$"
 
 Route110_Text_BikeTechniques:
-	.string "Learning techniques will make BIKE\n"
-	.string "riding even more fun.\p"
-	.string "There are some places that you can\n"
-	.string "reach only by using a BIKE technique.$"
+	.string "Aprendre tècniques farà que anar\n"
+	.string "amb BICI sigui encara més divertit.\p"
+	.string "Hi ha alguns llocs als quals només\n"
+	.string "pots arribar amb una tècnica de BICI.$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
-	.string "CYCLING ROAD, or take the low road\l"
-	.string "and look for POKéMON?$"
+	.string "Quin hauria de triar?\p"
+	.string "Anar directe a MALVALONA pel\n"
+	.string "CAMÍ CICLISTA, o agafar el camí\l"
+	.string "de baix i buscar POKéMON?$"
 
 Route110_Text_CyclingChallengeResultSummary:
-	.string "Number of collisions:\n"
+	.string "Nombre de col·lisions:\n"
 	.string "… … {STR_VAR_1}!\p"
-	.string "Total time:\n"
+	.string "Temps total:\n"
 	.string "… … {STR_VAR_2}!$"
 
 Route110_Text_ChallengeReactionBest:
-	.string "Bravo! Splendid showing!\p"
-	.string "Your love of cycling comes from deep\n"
-	.string "within your heart.\l"
-	.string "You've shaken me to my very soul!$"
+	.string "Bravo! Demostració esplèndida!\p"
+	.string "El teu amor pel ciclisme ve del més\n"
+	.string "profund del teu cor.\l"
+	.string "M'has commogut fins a l'ànima!$"
 
 Route110_Text_ChallengeReactionGood:
-	.string "Your technique is remarkable.\p"
-	.string "I suggest you speed up a bit while\n"
-	.string "still avoiding collisions.$"
+	.string "La teva tècnica és notable.\p"
+	.string "Et suggereixo que acceleris una mica\n"
+	.string "mentre evites les col·lisions.$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "I would consider you a work in\n"
-	.string "progress.\p"
-	.string "Still, I hope you don't forget the\n"
-	.string "sheer pleasure of cycling.$"
+	.string "Et consideraria un treball\n"
+	.string "en progrés.\p"
+	.string "Tot i així, espero que no oblidis\n"
+	.string "el pur plaer del ciclisme.$"
 
 Route110_Text_ChallengeReactionBad:
-	.string "My word… Your cycling skills border\n"
-	.string "on terrifying.\p"
-	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "Mare meva… Les teves habilitats\n"
+	.string "ciclistes són gairebé terrorífiques.\p"
+	.string "Sens dubte, necessites molta més\n"
+	.string "pràctica pedalejar.$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…I am aghast…\p"
-	.string "You're perhaps not cut out for this\n"
-	.string "unfortunate cycling business.\p"
-	.string "You ought to give serious thought to\n"
-	.string "returning that BIKE to RYDEL.$"
+	.string "…Estic horroritzat…\p"
+	.string "Potser no estàs fet per a aquest\n"
+	.string "desgraciat negoci del ciclisme.\p"
+	.string "Hauries de pensar seriosament en\n"
+	.string "tornar la BICI a en RYDEL.$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
-	.string "be rated for the number of collisions\l"
-	.string "and your total time.$"
+	.string "Aquest és el CAMÍ CICLISTA.\p"
+	.string "Si vas de MALVALONA a PORTLAVANDA\n"
+	.string "amb una BICI TURBO, seràs puntuat\l"
+	.string "pel nombre de col·lisions\l"
+	.string "i el teu temps total.$"
 
 Route110_Text_AlwaysAimHigher:
-	.string "Regardless of the results, I count on\n"
-	.string "seeing more challenges from you.\l"
-	.string "Always aim higher!$"
+	.string "Independentment dels resultats, compto\n"
+	.string "amb veure més reptes teus.\l"
+	.string "Sempre apunta més amunt!$"
 
 Route110_Text_AcroBikesDoNotQualify:
-	.string "On this CYCLING ROAD, those riding\n"
-	.string "MACH BIKES are rated for their number\l"
-	.string "of collisions and their total times.\p"
-	.string "ACRO BIKES do not qualify for rating.\n"
-	.string "They are easy to turn, so it's not fair.$"
+	.string "En aquest CAMÍ CICLISTA, els que van\n"
+	.string "amb BICI TURBO són puntuats pel\l"
+	.string "nombre de col·lisions i temps total.\p"
+	.string "Les BICIS ACRO no qualifiquen.\n"
+	.string "Són fàcils de girar, així que no és just.$"
 
 Route110_Text_SlateportCitySign:
-	.string "ROUTE 110\n"
-	.string "{DOWN_ARROW} SLATEPORT CITY$"
+	.string "RUTA 110\n"
+	.string "{DOWN_ARROW} CIUTAT PORTLAVANDA$"
 
 Route110_Text_CyclingRoadSign:
-	.string "SEASIDE CYCLING ROAD$"
+	.string "CAMÍ CICLISTA DE LA COSTA$"
 
 Route110_Text_AquaWasHere:
-	.string "“TEAM AQUA was here!”\p"
-	.string "Someone painted that onto this sign,\n"
-	.string "but then someone else painted over it.\p"
-	.string "“TEAM MAGMA rules!” is what it\n"
-	.string "says now.$"
+	.string "“L'EQUIP AQUA va estar aquí!”\p"
+	.string "Algú va pintar això en aquest cartell,\n"
+	.string "però algú altre ho va pintar per sobre.\p"
+	.string "“L'EQUIP MAGMA mana!” és el que\n"
+	.string "diu ara.$"
 
 Route110_Text_Route103Sign:
-	.string "ROUTE 110\n"
-	.string "{LEFT_ARROW} ROUTE 103$"
+	.string "RUTA 110\n"
+	.string "{LEFT_ARROW} RUTA 103$"
 
 Route110_Text_SeasideParkingSign:
-	.string "SEASIDE PARKING$"
+	.string "APARCAMENT DE LA COSTA$"
 
 Route110_Text_MauvilleCitySign:
-	.string "ROUTE 110\n"
-	.string "{UP_ARROW} MAUVILLE CITY$"
+	.string "RUTA 110\n"
+	.string "{UP_ARROW} CIUTAT MALVALONA$"
 
 Route110_Text_TrainerTipsPrlzSleep:
-	.string "TRAINER TIPS\p"
-	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
-	.string "It is an important technique for\n"
-	.string "POKéMON battles.$"
+	.string "CONSELLS PER A ENTRENADORS\p"
+	.string "L'enemic pot ser deixat indefens\n"
+	.string "paralitzant-lo o fent-lo dormir.\p"
+	.string "És una tècnica important per a\n"
+	.string "les batalles POKéMON.$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "TRAINER TIPS\p"
-	.string "The items in the BAG can be reorganized\n"
-	.string "by pressing SELECT.$"
+	.string "CONSELLS PER A ENTRENADORS\p"
+	.string "Els objectes de la MOTXILLA es poden\n"
+	.string "reorganitzar prement SELECT.$"
 
 Route110_Text_TrickHouseSign:
-	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
-	.string "to reach the wondrous TRICK HOUSE.”$"
+	.string "“Tres passos {RIGHT_ARROW} i dos passos {UP_ARROW}\n"
+	.string "per arribar a la meravellosa CASA TRUCS.”$"
 
 Route110_Text_BestRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No. of collisions: {STR_VAR_1}\p"
-	.string "Elapsed time: {STR_VAR_2}$"
+	.string "EL MILLOR RÈCORD FINS ARA…\p"
+	.string "Núm. de col·lisions: {STR_VAR_1}\p"
+	.string "Temps transcorregut: {STR_VAR_2}$"
 
 Route110_Text_ThereIsNoRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No one seems to have taken the\n"
-	.string "challenge. There is no record…$"
+	.string "EL MILLOR RÈCORD FINS ARA…\p"
+	.string "Sembla que ningú ha acceptat el\n"
+	.string "repte. No hi ha cap rècord…$"
 
 Route110_Text_ImagineSeeingYouHere:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "PROF. BEDOLL: Oh, {PLAYER}{KUN}!\n"
+	.string "Mira que trobar-te aquí!\p"
+	.string "I on és {RIVAL}?$"
 
 Route110_Text_HeardYouInstallMatchCall:
-	.string "Oh, I see!\n"
-	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your POKéNAV\n"
-	.string "had the MATCH CALL system installed.\p"
-	.string "Well, then, I should register you in\n"
-	.string "my POKéNAV as well.\p"
-	.string "That way, even when we're apart,\n"
-	.string "I can rate your POKéDEX anytime.\p"
+	.string "Oh, ja veig!\n"
+	.string "Aneu per separat.\l"
+	.string "Bé, està bé.\p"
+	.string "Oh, sí, he sentit que el teu POKéNAV\n"
+	.string "té el sistema de TRUCADES instal·lat.\p"
+	.string "Doncs, jo també t'hauria de registrar\n"
+	.string "al meu POKéNAV.\p"
+	.string "D'aquesta manera, fins i tot quan\n"
+	.string "estiguem separats, puc avaluar\l"
+	.string "la teva POKéDEX quan vulgui.\p"
 	.string "… … … … … …$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "Has registrat el PROF. BEDOLL\n"
+	.string "al POKéNAV.$"
 
 Route110_Text_KeepAnEyeOutForRival:
-	.string "PROF. BIRCH: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
+	.string "PROF. BEDOLL: {PLAYER}{KUN}…\p"
+	.string "Sisplau, vigila per {RIVAL}.\n"
 	.string "… … … … … …\p"
-	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
+	.string "Bé, millor que me'n vagi.\n"
+	.string "Ens veiem, {PLAYER}{KUN}!$"
 

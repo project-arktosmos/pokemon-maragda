@@ -42,40 +42,40 @@ FortreeCity_House2_EventScript_WrongGuess::
 	end
 
 FortreeCity_House2_Text_HiddenPowersArousedByNature:
-	.string "People… POKéMON…\p"
-	.string "Their hidden powers are aroused by\n"
-	.string "living in natural environments…$"
+	.string "Les persones… Els POKéMON…\p"
+	.string "Els seus poders ocults es desperten\n"
+	.string "vivint en entorns naturals…$"
 
 FortreeCity_House2_Text_CoinInWhichHand:
-	.string "Let this old woman see if your hidden\n"
-	.string "power has awoken…\p"
-	.string "I hold a coin in my hand.\p"
-	.string "Now, tell me, have I palmed it in\n"
-	.string "the right hand? Or in the left?$"
+	.string "Deixa que aquesta vella vegi si el teu\n"
+	.string "poder ocult s'ha despertat…\p"
+	.string "Tinc una moneda a la mà.\p"
+	.string "Ara, digues-me, l'he amagat a\n"
+	.string "la mà dreta? O a l'esquerra?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand:
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.string "Oh! Sí, correcte!\p"
+	.string "Ho tornarem a provar.\p"
+	.string "A quina mà he amagat la moneda?\n"
+	.string "La dreta o l'esquerra?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand2:
-	.string "Oh! Yes, correct!\p"
-	.string "We shall try again.\p"
-	.string "In which hand have I palmed the coin?\n"
-	.string "The right or left?$"
+	.string "Oh! Sí, correcte!\p"
+	.string "Ho tornarem a provar.\p"
+	.string "A quina mà he amagat la moneda?\n"
+	.string "La dreta o l'esquerra?$"
 
 FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
-	.string "Oh! Splendid!\n"
-	.string "Your hidden power has awoken!\p"
-	.string "Here, take this and awaken the hidden\n"
-	.string "power of your POKéMON.$"
+	.string "Oh! Esplèndid!\n"
+	.string "El teu poder ocult s'ha despertat!\p"
+	.string "Aquí tens, pren això i desperta el\n"
+	.string "poder ocult del teu POKéMON.$"
 
 FortreeCity_House2_Text_ExplainHiddenPower:
-	.string "HIDDEN POWER is a move that changes\n"
-	.string "with the POKéMON.$"
+	.string "PODER OCULT és un moviment que canvia\n"
+	.string "segons el POKéMON.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
-	.string "No, too bad.\n"
-	.string "You guessed wrong.$"
+	.string "No, llàstima.\n"
+	.string "Has fallat.$"
 

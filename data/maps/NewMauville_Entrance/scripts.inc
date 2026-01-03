@@ -47,12 +47,12 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "The door is locked.$"
+	.string "La porta és tancada amb clau.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+	.string "Vols usar la CLAU DEL SOTERRANI?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.string "{PLAYER} ha usat la CLAU DEL SOTERRANI.\p"
+	.string "La porta s'ha obert!$"
 

@@ -61,37 +61,37 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! I need it!\n"
-	.string "I have to get me a {STR_VAR_1}!\l"
-	.string "I'll do anything for it!\p"
-	.string "…Uh… Did you hear that?\n"
-	.string "My shout from the bottom of my heart?\p"
-	.string "Having heard that, you will trade\n"
-	.string "your {STR_VAR_1} for my {STR_VAR_2},\l"
-	.string "won't you?$"
+	.string "Rooooooar! El necessito!\n"
+	.string "He d'aconseguir un {STR_VAR_1}!\l"
+	.string "Faré el que sigui per aconseguir-lo!\p"
+	.string "…Uh… Has sentit això?\n"
+	.string "El meu crit des del fons del cor?\p"
+	.string "Havent sentit això, canviaràs\n"
+	.string "el teu {STR_VAR_1} pel meu {STR_VAR_2},\l"
+	.string "oi que sí?$"
 
 FortreeCity_House1_Text_MonYouTakeCare:
-	.string "Oh, yeah, right on!\p"
-	.string "{STR_VAR_1}, welcome!\n"
-	.string "{STR_VAR_2}, you take care!$"
+	.string "Oh, sí, genial!\p"
+	.string "{STR_VAR_1}, benvingut!\n"
+	.string "{STR_VAR_2}, cuida't!$"
 
 FortreeCity_House1_Text_ThisIsntAMon:
-	.string "Uh, no, I don't think so.\n"
-	.string "That isn't a {STR_VAR_1}.$"
+	.string "Uh, no, no ho crec.\n"
+	.string "Això no és un {STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "No? You won't trade me?\n"
-	.string "Even after I bared my heart to you?$"
+	.string "No? No vols fer l'intercanvi?\n"
+	.string "Fins i tot després d'obrir-te el cor?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "I'm going to make VOLBEAT super\n"
-	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "Faré que VOLBEAT sigui super\n"
+	.string "fort a partir d'ara!\p"
+	.string "Espero que facis el mateix amb PLUSLE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Trading POKéMON with others…\p"
-	.string "It's as if you're trading your own\n"
-	.string "memories with other people.$"
+	.string "Intercanviar POKéMON amb altres…\p"
+	.string "És com si estiguessis intercanviant\n"
+	.string "els teus propis records amb altra gent.$"
 
 FortreeCity_House1_Text_Zigzagoon:
 	.string "ZIGZAGOON: Gumomoh?$"

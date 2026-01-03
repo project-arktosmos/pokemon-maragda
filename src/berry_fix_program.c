@@ -34,27 +34,27 @@ static int BerryFix_TrySetScene(int);
 static void BerryFix_SetScene(int);
 static void BerryFix_HideScene(void);
 
-static const u8 sText_BerryProgramUpdate[] = _("Berry Program Update");
-static const u8 sText_RubySapphire[] = _("Ruby/Sapphire");
-static const u8 sText_Emerald[] = _("Emerald");
-static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("The Berry Program on your POKéMON\n"
-                                                            "Ruby/Sapphire Game Pak will be updated.\n"
-                                                            "{COLOR RED}{SHADOW LIGHT_RED}Press the A Button.");
-static const u8 sText_EnsureGBAConnectionMatches[] = _("Please ensure the connection of your\n"
-                                                       "Game Boy Advance system matches this.\n"
-                                                       "{COLOR RED}{SHADOW LIGHT_RED}YES: Press the A Button.\n"
-                                                       "NO: Turn off the power and try again.");
-static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Please turn on the power of POKéMON\n"
-                                                           "Ruby/Sapphire while holding START and\n"
-                                                           "SELECT simultaneously. Then, ensure\n"
-                                                           "the picture above appears.");
-static const u8 sText_TransmittingPleaseWait[] = _("Transmitting. Please wait.\n"
-                                                   "{COLOR RED}{SHADOW LIGHT_RED}Please do not turn off the power or\n"
-                                                   "unplug the Game Boy Advance Game\nLink Cable.");
-static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Please follow the instructions on your\n"
-                                                             "POKéMON Ruby/Sapphire screen.");
-static const u8 sText_TransmissionFailureTryAgain[] = _("Transmission failure.\n"
-                                                        "{COLOR RED}{SHADOW LIGHT_RED}Please try again.");
+static const u8 sText_BerryProgramUpdate[] = _("Actualització Baies");
+static const u8 sText_RubySapphire[] = _("Robí/Safir");
+static const u8 sText_Emerald[] = _("Maragda");
+static const u8 sText_BerryProgramWillBeUpdatedPressA[] = _("El programa de baies del teu POKéMON\n"
+                                                            "Robí/Safir s'actualitzarà.\n"
+                                                            "{COLOR RED}{SHADOW LIGHT_RED}Prem el Botó A.");
+static const u8 sText_EnsureGBAConnectionMatches[] = _("Si us plau, assegura't que la connexió\n"
+                                                       "de la teva Game Boy Advance coincideixi.\n"
+                                                       "{COLOR RED}{SHADOW LIGHT_RED}SÍ: Prem el Botó A.\n"
+                                                       "NO: Apaga i torna-ho a provar.");
+static const u8 sText_TurnOffPowerHoldingStartSelect[] = _("Si us plau, encén POKéMON Robí/Safir\n"
+                                                           "mentre mantens premuts START i SELECT\n"
+                                                           "alhora. Després, assegura't que\n"
+                                                           "apareix la imatge de dalt.");
+static const u8 sText_TransmittingPleaseWait[] = _("Transmetent. Si us plau, espera.\n"
+                                                   "{COLOR RED}{SHADOW LIGHT_RED}Si us plau, no apaguis ni\n"
+                                                   "desconnectis el Cable\nGame Boy Advance.");
+static const u8 sText_PleaseFollowInstructionsOnScreen[] = _("Si us plau, segueix les instruccions\n"
+                                                             "de la pantalla de POKéMON Robí/Safir.");
+static const u8 sText_TransmissionFailureTryAgain[] = _("Error de transmissió.\n"
+                                                        "{COLOR RED}{SHADOW LIGHT_RED}Si us plau, torna-ho a provar.");
 
 static const struct BgTemplate sBerryFixBgTemplates[] = {
     {

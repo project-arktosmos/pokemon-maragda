@@ -1085,7 +1085,7 @@ gText_ApprenticeItemAlreadyRecommended12::
 	.string "no hauria d'aguantar res?$"
 
 gText_ApprenticeWhatHeldItem13::
-	.string "He-hello, {PLAYER}{KUN}.\n"
+	.string "Ho-hola, {PLAYER}{KUN}.\n"
 	.string "Hi ha alguna cosa que et vull preguntar.\p"
 	.string "Em pregunto si em pots recomanar\n"
 	.string "un objecte per al meu {STR_VAR_1}…\l"

@@ -132,24 +132,24 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.string "La porta està tancada.\p"
+	.string "“HAB. 1” hi ha pintat a la porta.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.string "La porta està tancada.\p"
+	.string "“HAB. 2” hi ha pintat a la porta.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.string "La porta està tancada.\p"
+	.string "“HAB. 4” hi ha pintat a la porta.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.string "La porta està tancada.\p"
+	.string "“HAB. 6” hi ha pintat a la porta.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER} ha introduït i girat la\n"
+	.string "CLAU.\p"
+	.string "La CLAU introduïda s'ha quedat\n"
+	.string "encallada, però la porta s'ha obert.$"
 

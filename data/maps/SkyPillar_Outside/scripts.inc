@@ -138,33 +138,33 @@ SkyPillar_Outside_EventScript_ClosedDoor::
 	end
 
 SkyPillar_Outside_Text_DoorIsClosed:
-	.string "The door is closed.$"
+	.string "La porta és tancada.$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
-	.string "In my haste, I didn't notice that\n"
-	.string "I'd left you behind!\p"
-	.string "I've opened the locked door of\n"
-	.string "the SKY PILLAR.\p"
-	.string "{PLAYER}{KUN}, let's be on our way!$"
+	.string "WALLACE: Oh, ho sento molt!\p"
+	.string "Amb les presses, no em vaig adonar\n"
+	.string "que t'havia deixat enrere!\p"
+	.string "He obert la porta tancada\n"
+	.string "del PILAR CELESTE.\p"
+	.string "{PLAYER}{KUN}, anem-hi!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WALLACE: It's an earthquake!\p"
-	.string "There's not a moment to waste!\n"
-	.string "We've got to hurry!$"
+	.string "WALLACE: És un terratrèmol!\p"
+	.string "No hi ha temps a perdre!\n"
+	.string "Hem d'afanyar-nos!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
 	.string "WALLACE: Hmm…\n"
-	.string "The situation is getting worse…$"
+	.string "La situació s'està empitjorant…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WALLACE: This isn't good…\p"
-	.string "The weather distortion is spreading\n"
-	.string "even here…\p"
+	.string "WALLACE: Això no és bo…\p"
+	.string "La distorsió meteorològica s'està\n"
+	.string "estenent fins aquí…\p"
 	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA should be farther up\n"
-	.string "from here.\p"
-	.string "I'm worried about SOOTOPOLIS.\n"
-	.string "I've got to go back.\p"
-	.string "Everything is in your hands now.\n"
-	.string "Don't fail us!$"
+	.string "RAYQUAZA hauria d'estar més amunt\n"
+	.string "d'aquí.\p"
+	.string "Estic preocupat per CALAGUA.\n"
+	.string "He de tornar.\p"
+	.string "Tot està a les teves mans ara.\n"
+	.string "No ens fallis!$"
